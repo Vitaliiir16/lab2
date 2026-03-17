@@ -1,0 +1,1501 @@
+student_email,student_full_name,group_name,course_code,course_title,teacher_name,grade,enrolled_at
+olena.tkachenko233@example.com,Olena Tkachenko,CS-21,CS109,Machine Learning,Kateryna Kozak,77.21,2025-05-12
+solomiia.savchuk360@example.com,Solomiia Savchuk,CS-22,CS102,Databases,Iryna Hnatiuk,86.04,2025-07-02
+oleh.kravets394@example.com,Oleh Kravets,SE-21,CS109,Machine Learning,Kateryna Kozak,77.2,2024-04-08
+iryna.shevchenko117@example.com,Iryna Shevchenko,IPZ-21,CS107,Cloud Computing,Nazar Polishchuk,93.1,2024-08-13
+anastasiia.polishchuk205@example.com,Anastasiia Polishchuk,KN-22,CS107,Cloud Computing,Nazar Polishchuk,72.5,2023-12-07
+taras.boyko161@example.com,Taras Boyko,KN-22,CS105,Software Engineering,Marta Kravets,98.14,2024-09-18
+solomiia.tkachenko352@example.com,Solomiia Tkachenko,CS-22,CS108,Data Structures,Olena Mazur,63.65,2023-11-08
+nazar.lytvyn44@example.com,Nazar Lytvyn,IPZ-22,CS102,Databases,Iryna Hnatiuk,63.86,2024-11-16
+roman.melnyk379@example.com,Roman Melnyk,KN-22,CS106,Web Development,Anastasiia Lytvyn,82.25,2024-01-12
+kateryna.shevchenko301@example.com,Kateryna Shevchenko,CS-21,CS109,Machine Learning,Kateryna Kozak,73.19,2025-03-29
+sofiia.koval63@example.com,Sofiia Koval,KN-22,CS107,Cloud Computing,Nazar Polishchuk,94.94,2024-08-28
+andrii.melnyk385@example.com,Andrii Melnyk,IPZ-21,CS107,Cloud Computing,Nazar Polishchuk,98.74,2023-10-23
+oleh.shevchenko308@example.com,Oleh Shevchenko,SE-22,CS105,Software Engineering,Marta Kravets,64.14,2024-08-26
+iryna.savchuk260@example.com,Iryna Savchuk,KN-22,CS104,Operating Systems,Roman Boyko,86.27,2024-02-06
+oleh.shevchenko115@example.com,Oleh Shevchenko,KN-21,CS102,Databases,Iryna Hnatiuk,93.81,2024-08-24
+ivan.kravets189@example.com,Ivan Kravets,KN-21,CS102,Databases,Iryna Hnatiuk,82.96,2024-06-12
+sofiia.melnyk220@example.com,Sofiia Melnyk,SE-22,CS109,Machine Learning,Kateryna Kozak,84.54,2025-05-29
+roman.kravets330@example.com,Roman Kravets,KN-21,CS109,Machine Learning,Kateryna Kozak,84.36,2023-09-27
+yurii.boyko337@example.com,Yurii Boyko,SE-22,CS105,Software Engineering,Marta Kravets,67.22,2023-09-30
+solomiia.savchuk360@example.com,Solomiia Savchuk,CS-22,CS105,Software Engineering,Marta Kravets,74.04,2024-08-13
+olena.bondarenko93@example.com,Olena Bondarenko,CS-22,CS103,Computer Networks,Taras Melnyk,86.29,2025-04-02
+taras.melnyk36@example.com,Taras Melnyk,KN-21,CS103,Computer Networks,Taras Melnyk,98.87,2025-06-10
+andrii.mazur47@example.com,Andrii Mazur,CS-22,CS109,Machine Learning,Kateryna Kozak,75.05,2024-04-08
+olena.tkachenko233@example.com,Olena Tkachenko,CS-21,CS106,Web Development,Anastasiia Lytvyn,74.8,2024-02-09
+solomiia.mazur370@example.com,Solomiia Mazur,SE-21,CS106,Web Development,Anastasiia Lytvyn,83.85,2025-04-04
+oleh.shevchenko27@example.com,Oleh Shevchenko,SE-21,CS103,Computer Networks,Taras Melnyk,90.18,2024-02-09
+sofiia.savchuk26@example.com,Sofiia Savchuk,KN-22,CS102,Databases,Iryna Hnatiuk,77.72,2024-06-05
+roman.kravets218@example.com,Roman Kravets,SE-21,CS108,Data Structures,Olena Mazur,77.68,2025-05-14
+marta.boyko140@example.com,Marta Boyko,IPZ-22,CS104,Operating Systems,Roman Boyko,64.55,2025-02-06
+yurii.shevchenko221@example.com,Yurii Shevchenko,CS-21,CS102,Databases,Iryna Hnatiuk,87.13,2024-06-17
+solomiia.shevchenko304@example.com,Solomiia Shevchenko,CS-22,CS108,Data Structures,Olena Mazur,86.69,2025-02-21
+roman.melnyk24@example.com,Roman Melnyk,SE-22,CS104,Operating Systems,Roman Boyko,99.38,2024-10-09
+sofiia.bondarenko29@example.com,Sofiia Bondarenko,SE-22,CS101,Algorithms,Oleh Koval,72.06,2024-03-28
+maksym.kozak109@example.com,Maksym Kozak,SE-21,CS103,Computer Networks,Taras Melnyk,71.58,2024-05-19
+roman.koval62@example.com,Roman Koval,IPZ-21,CS101,Algorithms,Oleh Koval,89.88,2025-01-22
+roman.boyko90@example.com,Roman Boyko,IPZ-22,CS103,Computer Networks,Taras Melnyk,81.3,2024-09-24
+marta.bondarenko118@example.com,Marta Bondarenko,KN-22,CS109,Machine Learning,Kateryna Kozak,93.33,2025-03-26
+kateryna.lytvyn182@example.com,Kateryna Lytvyn,KN-22,CS102,Databases,Iryna Hnatiuk,94.47,2024-10-11
+yurii.kozak22@example.com,Yurii Kozak,CS-21,CS107,Cloud Computing,Nazar Polishchuk,78.39,2023-09-20
+taras.kozak40@example.com,Taras Kozak,CS-21,CS106,Web Development,Anastasiia Lytvyn,77.17,2025-04-12
+taras.mazur208@example.com,Taras Mazur,IPZ-21,CS107,Cloud Computing,Nazar Polishchuk,64.61,2024-06-23
+taras.koval11@example.com,Taras Koval,SE-21,CS106,Web Development,Anastasiia Lytvyn,92.05,2024-02-23
+maksym.shevchenko317@example.com,Maksym Shevchenko,SE-21,CS108,Data Structures,Olena Mazur,63.53,2024-09-05
+yurii.lytvyn55@example.com,Yurii Lytvyn,KN-22,CS104,Operating Systems,Roman Boyko,83.55,2024-11-20
+iryna.polishchuk269@example.com,Iryna Polishchuk,SE-21,CS102,Databases,Iryna Hnatiuk,94.82,2024-10-10
+ivan.mazur382@example.com,Ivan Mazur,IPZ-21,CS106,Web Development,Anastasiia Lytvyn,73.32,2024-04-14
+solomiia.lytvyn87@example.com,Solomiia Lytvyn,KN-21,CS102,Databases,Iryna Hnatiuk,85.33,2025-02-04
+kateryna.polishchuk272@example.com,Kateryna Polishchuk,CS-22,CS109,Machine Learning,Kateryna Kozak,96.24,2024-03-17
+kateryna.boyko179@example.com,Kateryna Boyko,IPZ-21,CS106,Web Development,Anastasiia Lytvyn,92.6,2025-06-22
+nazar.boyko121@example.com,Nazar Boyko,IPZ-21,CS102,Databases,Iryna Hnatiuk,70.24,2024-01-28
+nazar.koval89@example.com,Nazar Koval,IPZ-22,CS110,Cybersecurity,Viktoriia Bondarenko,90.41,2024-02-04
+olena.kravets336@example.com,Olena Kravets,CS-21,CS102,Databases,Iryna Hnatiuk,98.05,2024-02-29
+kateryna.koval322@example.com,Kateryna Koval,IPZ-22,CS108,Data Structures,Olena Mazur,90.18,2024-12-19
+solomiia.kravets390@example.com,Solomiia Kravets,CS-22,CS110,Cybersecurity,Viktoriia Bondarenko,87.25,2024-12-03
+ivan.tkachenko290@example.com,Ivan Tkachenko,SE-22,CS110,Cybersecurity,Viktoriia Bondarenko,94.57,2024-07-27
+kateryna.koval322@example.com,Kateryna Koval,IPZ-22,CS106,Web Development,Anastasiia Lytvyn,77.59,2024-02-02
+olena.savchuk241@example.com,Olena Savchuk,IPZ-21,CS108,Data Structures,Olena Mazur,72.11,2025-06-08
+sofiia.mazur141@example.com,Sofiia Mazur,CS-22,CS110,Cybersecurity,Viktoriia Bondarenko,74.08,2023-10-28
+anastasiia.boyko38@example.com,Anastasiia Boyko,SE-22,CS105,Software Engineering,Marta Kravets,78.08,2024-12-16
+anastasiia.kozak30@example.com,Anastasiia Kozak,SE-22,CS106,Web Development,Anastasiia Lytvyn,63.07,2024-06-20
+andrii.mazur47@example.com,Andrii Mazur,CS-22,CS110,Cybersecurity,Viktoriia Bondarenko,80.28,2025-05-01
+olena.polishchuk237@example.com,Olena Polishchuk,CS-21,CS110,Cybersecurity,Viktoriia Bondarenko,98.17,2025-03-21
+roman.melnyk379@example.com,Roman Melnyk,KN-22,CS101,Algorithms,Oleh Koval,96.36,2024-12-04
+iryna.lytvyn293@example.com,Iryna Lytvyn,IPZ-21,CS104,Operating Systems,Roman Boyko,84.2,2024-07-26
+nazar.bondarenko257@example.com,Nazar Bondarenko,KN-21,CS103,Computer Networks,Taras Melnyk,78.02,2023-11-03
+yurii.koval176@example.com,Yurii Koval,SE-21,CS102,Databases,Iryna Hnatiuk,85.85,2025-01-29
+nazar.shevchenko21@example.com,Nazar Shevchenko,CS-22,CS104,Operating Systems,Roman Boyko,99.64,2024-11-22
+iryna.polishchuk269@example.com,Iryna Polishchuk,SE-21,CS109,Machine Learning,Kateryna Kozak,66.35,2025-05-17
+sofiia.bondarenko191@example.com,Sofiia Bondarenko,SE-22,CS105,Software Engineering,Marta Kravets,76.35,2024-10-01
+ivan.melnyk174@example.com,Ivan Melnyk,KN-22,CS110,Cybersecurity,Viktoriia Bondarenko,91.57,2023-10-24
+viktoriia.tkachenko332@example.com,Viktoriia Tkachenko,IPZ-21,CS106,Web Development,Anastasiia Lytvyn,73.19,2023-11-07
+viktoriia.boyko286@example.com,Viktoriia Boyko,IPZ-21,CS107,Cloud Computing,Nazar Polishchuk,70.08,2024-06-17
+yurii.boyko337@example.com,Yurii Boyko,SE-22,CS110,Cybersecurity,Viktoriia Bondarenko,73.33,2024-02-01
+ivan.boyko299@example.com,Ivan Boyko,KN-22,CS103,Computer Networks,Taras Melnyk,72.41,2024-08-24
+olena.kravets336@example.com,Olena Kravets,CS-21,CS107,Cloud Computing,Nazar Polishchuk,83.8,2024-01-11
+nazar.lytvyn44@example.com,Nazar Lytvyn,IPZ-22,CS105,Software Engineering,Marta Kravets,75.07,2025-03-26
+olena.lytvyn169@example.com,Olena Lytvyn,SE-22,CS103,Computer Networks,Taras Melnyk,88.11,2025-07-18
+roman.melnyk379@example.com,Roman Melnyk,KN-22,CS109,Machine Learning,Kateryna Kozak,85.84,2023-12-05
+maksym.tkachenko217@example.com,Maksym Tkachenko,SE-22,CS109,Machine Learning,Kateryna Kozak,60.73,2024-09-05
+anastasiia.kravets159@example.com,Anastasiia Kravets,SE-21,CS103,Computer Networks,Taras Melnyk,73.67,2024-04-07
+viktoriia.kozak393@example.com,Viktoriia Kozak,IPZ-21,CS108,Data Structures,Olena Mazur,69.06,2024-03-15
+taras.savchuk71@example.com,Taras Savchuk,SE-21,CS103,Computer Networks,Taras Melnyk,71.83,2023-11-19
+maksym.lytvyn52@example.com,Maksym Lytvyn,KN-21,CS109,Machine Learning,Kateryna Kozak,93.4,2025-03-06
+olena.lytvyn270@example.com,Olena Lytvyn,SE-22,CS101,Algorithms,Oleh Koval,73.47,2025-07-09
+viktoriia.kozak393@example.com,Viktoriia Kozak,IPZ-21,CS110,Cybersecurity,Viktoriia Bondarenko,83.89,2024-01-13
+kateryna.kravets79@example.com,Kateryna Kravets,SE-22,CS103,Computer Networks,Taras Melnyk,93.25,2024-03-04
+kateryna.kozak395@example.com,Kateryna Kozak,IPZ-22,CS110,Cybersecurity,Viktoriia Bondarenko,88.85,2024-02-17
+maksym.mazur23@example.com,Maksym Mazur,KN-21,CS107,Cloud Computing,Nazar Polishchuk,87.05,2024-09-08
+nazar.polishchuk122@example.com,Nazar Polishchuk,CS-22,CS108,Data Structures,Olena Mazur,71.4,2025-05-18
+olena.melnyk384@example.com,Olena Melnyk,IPZ-22,CS108,Data Structures,Olena Mazur,81.36,2024-04-27
+anastasiia.kravets159@example.com,Anastasiia Kravets,SE-21,CS108,Data Structures,Olena Mazur,74.71,2024-03-17
+iryna.lytvyn293@example.com,Iryna Lytvyn,IPZ-21,CS108,Data Structures,Olena Mazur,90.78,2024-12-16
+olena.mazur399@example.com,Olena Mazur,CS-22,CS107,Cloud Computing,Nazar Polishchuk,81.1,2025-01-27
+iryna.boyko83@example.com,Iryna Boyko,SE-22,CS104,Operating Systems,Roman Boyko,65.54,2025-05-12
+anastasiia.shevchenko129@example.com,Anastasiia Shevchenko,CS-21,CS101,Algorithms,Oleh Koval,79.22,2025-06-18
+sofiia.bondarenko191@example.com,Sofiia Bondarenko,SE-22,CS109,Machine Learning,Kateryna Kozak,88.46,2023-12-15
+ivan.tkachenko265@example.com,Ivan Tkachenko,KN-21,CS102,Databases,Iryna Hnatiuk,63.36,2024-06-18
+iryna.boyko83@example.com,Iryna Boyko,SE-22,CS105,Software Engineering,Marta Kravets,96.21,2024-12-04
+maksym.kravets76@example.com,Maksym Kravets,IPZ-22,CS107,Cloud Computing,Nazar Polishchuk,97.86,2023-12-03
+taras.koval114@example.com,Taras Koval,KN-21,CS108,Data Structures,Olena Mazur,97.22,2024-08-23
+viktoriia.polishchuk213@example.com,Viktoriia Polishchuk,KN-21,CS101,Algorithms,Oleh Koval,80.08,2024-10-10
+nazar.boyko121@example.com,Nazar Boyko,IPZ-21,CS107,Cloud Computing,Nazar Polishchuk,75.0,2023-11-23
+iryna.kozak15@example.com,Iryna Kozak,CS-22,CS106,Web Development,Anastasiia Lytvyn,93.57,2023-12-11
+viktoriia.tkachenko333@example.com,Viktoriia Tkachenko,KN-21,CS106,Web Development,Anastasiia Lytvyn,65.5,2024-01-28
+iryna.boyko147@example.com,Iryna Boyko,IPZ-21,CS108,Data Structures,Olena Mazur,90.35,2024-01-21
+olena.savchuk241@example.com,Olena Savchuk,IPZ-21,CS108,Data Structures,Olena Mazur,60.21,2025-05-23
+sofiia.koval41@example.com,Sofiia Koval,CS-21,CS101,Algorithms,Oleh Koval,68.63,2024-05-20
+oleh.kozak77@example.com,Oleh Kozak,IPZ-21,CS109,Machine Learning,Kateryna Kozak,81.11,2025-05-16
+viktoriia.lytvyn57@example.com,Viktoriia Lytvyn,SE-22,CS105,Software Engineering,Marta Kravets,72.05,2024-05-01
+anastasiia.tkachenko25@example.com,Anastasiia Tkachenko,KN-22,CS104,Operating Systems,Roman Boyko,85.56,2024-11-03
+oleh.mazur319@example.com,Oleh Mazur,IPZ-22,CS108,Data Structures,Olena Mazur,64.43,2023-11-04
+olena.kozak256@example.com,Olena Kozak,IPZ-22,CS110,Cybersecurity,Viktoriia Bondarenko,60.66,2025-03-02
+kateryna.koval264@example.com,Kateryna Koval,KN-22,CS110,Cybersecurity,Viktoriia Bondarenko,88.74,2024-05-05
+viktoriia.kravets150@example.com,Viktoriia Kravets,SE-22,CS107,Cloud Computing,Nazar Polishchuk,84.59,2023-09-02
+olena.melnyk124@example.com,Olena Melnyk,IPZ-22,CS110,Cybersecurity,Viktoriia Bondarenko,67.49,2024-10-31
+marta.bondarenko343@example.com,Marta Bondarenko,KN-22,CS102,Databases,Iryna Hnatiuk,98.99,2025-02-18
+solomiia.koval35@example.com,Solomiia Koval,IPZ-21,CS109,Machine Learning,Kateryna Kozak,80.29,2025-03-11
+iryna.savchuk260@example.com,Iryna Savchuk,KN-22,CS109,Machine Learning,Kateryna Kozak,75.62,2023-09-21
+olena.savchuk241@example.com,Olena Savchuk,IPZ-21,CS101,Algorithms,Oleh Koval,75.48,2025-06-12
+sofiia.shevchenko192@example.com,Sofiia Shevchenko,SE-21,CS105,Software Engineering,Marta Kravets,74.28,2023-09-17
+solomiia.koval35@example.com,Solomiia Koval,IPZ-21,CS106,Web Development,Anastasiia Lytvyn,89.32,2024-05-04
+kateryna.koval322@example.com,Kateryna Koval,IPZ-22,CS102,Databases,Iryna Hnatiuk,89.41,2025-04-18
+maksym.polishchuk171@example.com,Maksym Polishchuk,CS-21,CS103,Computer Networks,Taras Melnyk,74.09,2023-10-16
+ivan.melnyk174@example.com,Ivan Melnyk,KN-22,CS103,Computer Networks,Taras Melnyk,99.23,2024-12-19
+oleh.tkachenko246@example.com,Oleh Tkachenko,SE-22,CS103,Computer Networks,Taras Melnyk,62.52,2024-01-17
+ivan.koval398@example.com,Ivan Koval,KN-21,CS108,Data Structures,Olena Mazur,71.74,2023-10-08
+maksym.mazur23@example.com,Maksym Mazur,KN-21,CS104,Operating Systems,Roman Boyko,72.62,2023-10-13
+anastasiia.kravets159@example.com,Anastasiia Kravets,SE-21,CS109,Machine Learning,Kateryna Kozak,99.56,2024-10-12
+marta.boyko279@example.com,Marta Boyko,CS-22,CS108,Data Structures,Olena Mazur,61.46,2024-05-17
+viktoriia.tkachenko332@example.com,Viktoriia Tkachenko,IPZ-21,CS104,Operating Systems,Roman Boyko,74.28,2024-06-19
+anastasiia.mazur400@example.com,Anastasiia Mazur,CS-21,CS101,Algorithms,Oleh Koval,73.28,2025-07-03
+olena.kozak64@example.com,Olena Kozak,SE-22,CS106,Web Development,Anastasiia Lytvyn,95.58,2024-11-21
+yurii.bondarenko381@example.com,Yurii Bondarenko,CS-22,CS108,Data Structures,Olena Mazur,73.56,2024-09-30
+viktoriia.shevchenko96@example.com,Viktoriia Shevchenko,IPZ-22,CS108,Data Structures,Olena Mazur,74.69,2025-01-22
+maksym.savchuk266@example.com,Maksym Savchuk,KN-21,CS105,Software Engineering,Marta Kravets,89.08,2023-11-24
+sofiia.koval41@example.com,Sofiia Koval,CS-21,CS107,Cloud Computing,Nazar Polishchuk,99.8,2025-05-09
+olena.bondarenko93@example.com,Olena Bondarenko,CS-22,CS109,Machine Learning,Kateryna Kozak,72.85,2024-06-27
+sofiia.koval41@example.com,Sofiia Koval,CS-21,CS106,Web Development,Anastasiia Lytvyn,71.83,2025-07-08
+roman.tkachenko229@example.com,Roman Tkachenko,CS-22,CS110,Cybersecurity,Viktoriia Bondarenko,66.67,2024-11-10
+iryna.bondarenko228@example.com,Iryna Bondarenko,SE-21,CS106,Web Development,Anastasiia Lytvyn,61.69,2024-12-01
+marta.tkachenko181@example.com,Marta Tkachenko,SE-21,CS110,Cybersecurity,Viktoriia Bondarenko,70.98,2024-11-19
+anastasiia.kozak30@example.com,Anastasiia Kozak,SE-22,CS102,Databases,Iryna Hnatiuk,85.5,2025-07-19
+andrii.boyko187@example.com,Andrii Boyko,IPZ-21,CS109,Machine Learning,Kateryna Kozak,66.4,2025-07-27
+yurii.polishchuk16@example.com,Yurii Polishchuk,IPZ-22,CS103,Computer Networks,Taras Melnyk,87.12,2025-05-15
+solomiia.lytvyn225@example.com,Solomiia Lytvyn,KN-22,CS101,Algorithms,Oleh Koval,62.69,2024-01-08
+olena.mazur399@example.com,Olena Mazur,CS-22,CS106,Web Development,Anastasiia Lytvyn,75.31,2024-09-05
+solomiia.koval291@example.com,Solomiia Koval,IPZ-21,CS101,Algorithms,Oleh Koval,66.14,2025-05-12
+kateryna.polishchuk231@example.com,Kateryna Polishchuk,CS-22,CS106,Web Development,Anastasiia Lytvyn,77.76,2024-09-15
+taras.kozak40@example.com,Taras Kozak,CS-21,CS110,Cybersecurity,Viktoriia Bondarenko,81.18,2024-01-19
+andrii.tkachenko204@example.com,Andrii Tkachenko,SE-21,CS106,Web Development,Anastasiia Lytvyn,71.15,2025-06-27
+maksym.shevchenko59@example.com,Maksym Shevchenko,IPZ-21,CS101,Algorithms,Oleh Koval,79.96,2024-03-09
+roman.melnyk199@example.com,Roman Melnyk,SE-22,CS109,Machine Learning,Kateryna Kozak,70.47,2023-12-30
+oleh.koval134@example.com,Oleh Koval,SE-21,CS108,Data Structures,Olena Mazur,99.85,2024-04-07
+iryna.boyko147@example.com,Iryna Boyko,IPZ-21,CS108,Data Structures,Olena Mazur,64.91,2024-03-23
+anastasiia.boyko38@example.com,Anastasiia Boyko,SE-22,CS108,Data Structures,Olena Mazur,95.95,2024-02-24
+iryna.bondarenko228@example.com,Iryna Bondarenko,SE-21,CS102,Databases,Iryna Hnatiuk,98.7,2025-07-30
+taras.kravets164@example.com,Taras Kravets,KN-21,CS106,Web Development,Anastasiia Lytvyn,82.0,2023-11-06
+kateryna.mazur149@example.com,Kateryna Mazur,CS-22,CS105,Software Engineering,Marta Kravets,88.47,2024-02-09
+taras.kozak359@example.com,Taras Kozak,KN-22,CS103,Computer Networks,Taras Melnyk,80.35,2024-09-05
+sofiia.koval63@example.com,Sofiia Koval,KN-22,CS104,Operating Systems,Roman Boyko,69.47,2024-01-21
+iryna.mazur253@example.com,Iryna Mazur,SE-21,CS101,Algorithms,Oleh Koval,82.16,2024-09-04
+ivan.kravets189@example.com,Ivan Kravets,KN-21,CS108,Data Structures,Olena Mazur,65.19,2025-03-18
+iryna.kozak45@example.com,Iryna Kozak,KN-22,CS102,Databases,Iryna Hnatiuk,75.93,2024-07-13
+kateryna.mazur368@example.com,Kateryna Mazur,KN-21,CS108,Data Structures,Olena Mazur,76.43,2025-02-20
+marta.koval210@example.com,Marta Koval,CS-22,CS110,Cybersecurity,Viktoriia Bondarenko,65.01,2023-11-15
+oleh.lytvyn163@example.com,Oleh Lytvyn,KN-22,CS102,Databases,Iryna Hnatiuk,78.63,2024-12-04
+ivan.tkachenko265@example.com,Ivan Tkachenko,KN-21,CS106,Web Development,Anastasiia Lytvyn,95.12,2024-01-10
+anastasiia.mazur400@example.com,Anastasiia Mazur,CS-21,CS109,Machine Learning,Kateryna Kozak,83.51,2025-06-17
+oleh.kravets394@example.com,Oleh Kravets,SE-21,CS103,Computer Networks,Taras Melnyk,80.11,2024-11-17
+sofiia.bondarenko29@example.com,Sofiia Bondarenko,SE-22,CS102,Databases,Iryna Hnatiuk,66.12,2025-02-12
+yurii.savchuk85@example.com,Yurii Savchuk,IPZ-21,CS103,Computer Networks,Taras Melnyk,97.39,2024-07-27
+kateryna.melnyk116@example.com,Kateryna Melnyk,IPZ-21,CS106,Web Development,Anastasiia Lytvyn,95.8,2025-02-13
+sofiia.koval41@example.com,Sofiia Koval,CS-21,CS105,Software Engineering,Marta Kravets,85.4,2024-03-20
+oleh.kravets283@example.com,Oleh Kravets,IPZ-22,CS105,Software Engineering,Marta Kravets,85.0,2024-01-07
+maksym.kravets315@example.com,Maksym Kravets,CS-21,CS109,Machine Learning,Kateryna Kozak,80.1,2023-12-05
+solomiia.lytvyn87@example.com,Solomiia Lytvyn,KN-21,CS110,Cybersecurity,Viktoriia Bondarenko,66.17,2025-04-17
+taras.bondarenko338@example.com,Taras Bondarenko,SE-21,CS110,Cybersecurity,Viktoriia Bondarenko,73.5,2025-05-12
+oleh.bondarenko289@example.com,Oleh Bondarenko,CS-21,CS101,Algorithms,Oleh Koval,63.25,2023-09-30
+maksym.mazur329@example.com,Maksym Mazur,SE-21,CS110,Cybersecurity,Viktoriia Bondarenko,86.05,2024-05-29
+viktoriia.kozak393@example.com,Viktoriia Kozak,IPZ-21,CS110,Cybersecurity,Viktoriia Bondarenko,84.72,2024-10-31
+yurii.polishchuk16@example.com,Yurii Polishchuk,IPZ-22,CS108,Data Structures,Olena Mazur,81.82,2025-06-04
+maksym.mazur329@example.com,Maksym Mazur,SE-21,CS105,Software Engineering,Marta Kravets,69.8,2025-01-07
+olena.melnyk351@example.com,Olena Melnyk,CS-21,CS107,Cloud Computing,Nazar Polishchuk,78.14,2024-07-01
+taras.kravets353@example.com,Taras Kravets,IPZ-22,CS101,Algorithms,Oleh Koval,77.58,2024-02-09
+solomiia.koval248@example.com,Solomiia Koval,IPZ-21,CS108,Data Structures,Olena Mazur,73.61,2024-03-27
+ivan.boyko74@example.com,Ivan Boyko,KN-21,CS106,Web Development,Anastasiia Lytvyn,89.37,2024-07-23
+kateryna.shevchenko177@example.com,Kateryna Shevchenko,SE-22,CS107,Cloud Computing,Nazar Polishchuk,90.43,2024-01-12
+kateryna.koval264@example.com,Kateryna Koval,KN-22,CS109,Machine Learning,Kateryna Kozak,72.76,2023-12-18
+roman.shevchenko239@example.com,Roman Shevchenko,KN-21,CS102,Databases,Iryna Hnatiuk,77.98,2024-05-31
+yurii.bondarenko73@example.com,Yurii Bondarenko,SE-22,CS102,Databases,Iryna Hnatiuk,71.61,2023-10-22
+andrii.bondarenko197@example.com,Andrii Bondarenko,KN-22,CS110,Cybersecurity,Viktoriia Bondarenko,69.93,2024-11-02
+anastasiia.tkachenko82@example.com,Anastasiia Tkachenko,SE-22,CS106,Web Development,Anastasiia Lytvyn,88.85,2025-04-14
+maksym.lytvyn98@example.com,Maksym Lytvyn,KN-22,CS103,Computer Networks,Taras Melnyk,99.84,2025-01-23
+iryna.savchuk240@example.com,Iryna Savchuk,KN-21,CS108,Data Structures,Olena Mazur,79.89,2024-07-12
+andrii.mazur47@example.com,Andrii Mazur,CS-22,CS107,Cloud Computing,Nazar Polishchuk,78.29,2025-01-30
+olena.melnyk124@example.com,Olena Melnyk,IPZ-22,CS104,Operating Systems,Roman Boyko,74.12,2025-04-20
+sofiia.savchuk26@example.com,Sofiia Savchuk,KN-22,CS105,Software Engineering,Marta Kravets,83.9,2025-01-19
+iryna.kozak335@example.com,Iryna Kozak,SE-21,CS108,Data Structures,Olena Mazur,81.47,2024-06-19
+iryna.boyko56@example.com,Iryna Boyko,CS-22,CS107,Cloud Computing,Nazar Polishchuk,95.3,2024-01-16
+roman.shevchenko373@example.com,Roman Shevchenko,IPZ-22,CS106,Web Development,Anastasiia Lytvyn,74.64,2024-10-17
+maksym.mazur206@example.com,Maksym Mazur,KN-22,CS101,Algorithms,Oleh Koval,82.47,2025-04-06
+nazar.kravets186@example.com,Nazar Kravets,KN-21,CS109,Machine Learning,Kateryna Kozak,62.94,2024-06-22
+kateryna.kravets259@example.com,Kateryna Kravets,SE-22,CS108,Data Structures,Olena Mazur,71.19,2025-03-17
+roman.kozak320@example.com,Roman Kozak,CS-21,CS110,Cybersecurity,Viktoriia Bondarenko,65.15,2023-12-31
+oleh.bondarenko50@example.com,Oleh Bondarenko,IPZ-22,CS107,Cloud Computing,Nazar Polishchuk,91.8,2024-09-17
+ivan.melnyk174@example.com,Ivan Melnyk,KN-22,CS109,Machine Learning,Kateryna Kozak,90.2,2024-09-09
+iryna.mazur102@example.com,Iryna Mazur,IPZ-21,CS110,Cybersecurity,Viktoriia Bondarenko,76.06,2025-02-03
+nazar.shevchenko21@example.com,Nazar Shevchenko,CS-22,CS101,Algorithms,Oleh Koval,65.48,2023-10-10
+maksym.polishchuk171@example.com,Maksym Polishchuk,CS-21,CS108,Data Structures,Olena Mazur,78.28,2025-02-13
+sofiia.koval311@example.com,Sofiia Koval,SE-22,CS109,Machine Learning,Kateryna Kozak,73.12,2024-01-22
+kateryna.kozak314@example.com,Kateryna Kozak,KN-21,CS106,Web Development,Anastasiia Lytvyn,75.72,2024-02-14
+sofiia.mazur316@example.com,Sofiia Mazur,SE-21,CS105,Software Engineering,Marta Kravets,73.45,2025-04-30
+iryna.polishchuk261@example.com,Iryna Polishchuk,CS-21,CS109,Machine Learning,Kateryna Kozak,88.35,2025-01-14
+maksym.bondarenko154@example.com,Maksym Bondarenko,CS-21,CS108,Data Structures,Olena Mazur,74.73,2023-09-18
+taras.kozak345@example.com,Taras Kozak,IPZ-21,CS102,Databases,Iryna Hnatiuk,83.35,2024-10-31
+yurii.kravets372@example.com,Yurii Kravets,SE-22,CS101,Algorithms,Oleh Koval,78.98,2025-05-04
+olena.kravets336@example.com,Olena Kravets,CS-21,CS110,Cybersecurity,Viktoriia Bondarenko,69.1,2025-04-14
+oleh.shevchenko27@example.com,Oleh Shevchenko,SE-21,CS110,Cybersecurity,Viktoriia Bondarenko,66.82,2025-01-04
+viktoriia.melnyk323@example.com,Viktoriia Melnyk,CS-21,CS110,Cybersecurity,Viktoriia Bondarenko,65.91,2024-09-24
+kateryna.melnyk349@example.com,Kateryna Melnyk,KN-22,CS104,Operating Systems,Roman Boyko,82.9,2023-10-03
+taras.kozak359@example.com,Taras Kozak,KN-22,CS102,Databases,Iryna Hnatiuk,60.76,2024-03-14
+taras.boyko161@example.com,Taras Boyko,KN-22,CS107,Cloud Computing,Nazar Polishchuk,76.52,2024-02-03
+taras.polishchuk105@example.com,Taras Polishchuk,KN-21,CS107,Cloud Computing,Nazar Polishchuk,91.0,2025-01-26
+iryna.polishchuk242@example.com,Iryna Polishchuk,KN-21,CS101,Algorithms,Oleh Koval,80.75,2024-01-20
+solomiia.kozak288@example.com,Solomiia Kozak,SE-22,CS106,Web Development,Anastasiia Lytvyn,79.13,2025-07-10
+olena.boyko193@example.com,Olena Boyko,CS-21,CS106,Web Development,Anastasiia Lytvyn,78.39,2024-02-25
+olena.savchuk273@example.com,Olena Savchuk,IPZ-22,CS106,Web Development,Anastasiia Lytvyn,74.17,2025-03-13
+solomiia.polishchuk396@example.com,Solomiia Polishchuk,SE-22,CS105,Software Engineering,Marta Kravets,79.37,2025-05-17
+marta.tkachenko127@example.com,Marta Tkachenko,KN-22,CS105,Software Engineering,Marta Kravets,71.94,2025-03-25
+iryna.lytvyn153@example.com,Iryna Lytvyn,CS-22,CS105,Software Engineering,Marta Kravets,87.61,2024-03-31
+kateryna.mazur251@example.com,Kateryna Mazur,KN-22,CS106,Web Development,Anastasiia Lytvyn,73.95,2025-01-04
+solomiia.mazur370@example.com,Solomiia Mazur,SE-21,CS105,Software Engineering,Marta Kravets,64.87,2024-06-21
+marta.polishchuk347@example.com,Marta Polishchuk,KN-21,CS109,Machine Learning,Kateryna Kozak,95.83,2024-09-23
+nazar.tkachenko203@example.com,Nazar Tkachenko,IPZ-22,CS106,Web Development,Anastasiia Lytvyn,71.62,2024-01-28
+iryna.tkachenko148@example.com,Iryna Tkachenko,KN-22,CS102,Databases,Iryna Hnatiuk,96.96,2024-08-20
+olena.kravets336@example.com,Olena Kravets,CS-21,CS105,Software Engineering,Marta Kravets,68.56,2025-01-03
+nazar.kravets276@example.com,Nazar Kravets,SE-22,CS105,Software Engineering,Marta Kravets,87.85,2025-03-29
+taras.savchuk71@example.com,Taras Savchuk,SE-21,CS102,Databases,Iryna Hnatiuk,89.64,2025-05-23
+kateryna.kozak123@example.com,Kateryna Kozak,KN-22,CS104,Operating Systems,Roman Boyko,86.79,2023-10-22
+kateryna.polishchuk272@example.com,Kateryna Polishchuk,CS-22,CS104,Operating Systems,Roman Boyko,69.31,2025-06-15
+maksym.lytvyn52@example.com,Maksym Lytvyn,KN-21,CS107,Cloud Computing,Nazar Polishchuk,88.69,2024-08-04
+maksym.lytvyn52@example.com,Maksym Lytvyn,KN-21,CS103,Computer Networks,Taras Melnyk,98.58,2023-09-06
+nazar.boyko81@example.com,Nazar Boyko,IPZ-21,CS107,Cloud Computing,Nazar Polishchuk,97.4,2025-06-30
+iryna.kravets244@example.com,Iryna Kravets,SE-22,CS108,Data Structures,Olena Mazur,67.98,2025-06-28
+iryna.tkachenko148@example.com,Iryna Tkachenko,KN-22,CS106,Web Development,Anastasiia Lytvyn,85.84,2024-06-19
+oleh.kravets394@example.com,Oleh Kravets,SE-21,CS102,Databases,Iryna Hnatiuk,82.97,2025-06-29
+roman.kozak274@example.com,Roman Kozak,IPZ-21,CS101,Algorithms,Oleh Koval,76.72,2024-02-27
+roman.mazur91@example.com,Roman Mazur,IPZ-21,CS101,Algorithms,Oleh Koval,91.52,2024-10-11
+viktoriia.shevchenko96@example.com,Viktoriia Shevchenko,IPZ-22,CS105,Software Engineering,Marta Kravets,60.37,2023-10-09
+solomiia.koval291@example.com,Solomiia Koval,IPZ-21,CS110,Cybersecurity,Viktoriia Bondarenko,97.14,2023-12-19
+roman.tkachenko172@example.com,Roman Tkachenko,CS-22,CS105,Software Engineering,Marta Kravets,99.56,2024-12-09
+marta.boyko279@example.com,Marta Boyko,CS-22,CS109,Machine Learning,Kateryna Kozak,95.57,2025-01-18
+marta.boyko69@example.com,Marta Boyko,SE-21,CS109,Machine Learning,Kateryna Kozak,70.91,2024-12-23
+taras.bondarenko58@example.com,Taras Bondarenko,KN-22,CS106,Web Development,Anastasiia Lytvyn,89.24,2024-02-14
+viktoriia.tkachenko332@example.com,Viktoriia Tkachenko,IPZ-21,CS105,Software Engineering,Marta Kravets,60.56,2024-03-09
+sofiia.lytvyn173@example.com,Sofiia Lytvyn,IPZ-22,CS105,Software Engineering,Marta Kravets,86.98,2025-04-04
+olena.melnyk99@example.com,Olena Melnyk,CS-22,CS103,Computer Networks,Taras Melnyk,94.25,2025-05-18
+taras.mazur208@example.com,Taras Mazur,IPZ-21,CS107,Cloud Computing,Nazar Polishchuk,73.12,2025-02-09
+maksym.mazur206@example.com,Maksym Mazur,KN-22,CS102,Databases,Iryna Hnatiuk,99.27,2024-03-08
+viktoriia.shevchenko245@example.com,Viktoriia Shevchenko,KN-21,CS106,Web Development,Anastasiia Lytvyn,60.27,2024-05-12
+andrii.bondarenko197@example.com,Andrii Bondarenko,KN-22,CS104,Operating Systems,Roman Boyko,90.15,2024-12-01
+olena.lytvyn169@example.com,Olena Lytvyn,SE-22,CS105,Software Engineering,Marta Kravets,88.92,2025-04-19
+andrii.lytvyn6@example.com,Andrii Lytvyn,KN-22,CS105,Software Engineering,Marta Kravets,74.38,2025-07-01
+nazar.boyko121@example.com,Nazar Boyko,IPZ-21,CS101,Algorithms,Oleh Koval,64.73,2025-07-15
+viktoriia.boyko158@example.com,Viktoriia Boyko,KN-22,CS103,Computer Networks,Taras Melnyk,87.44,2024-10-20
+roman.kozak361@example.com,Roman Kozak,IPZ-22,CS105,Software Engineering,Marta Kravets,85.55,2023-12-30
+nazar.kozak152@example.com,Nazar Kozak,IPZ-22,CS106,Web Development,Anastasiia Lytvyn,68.83,2025-05-22
+marta.boyko69@example.com,Marta Boyko,SE-21,CS108,Data Structures,Olena Mazur,78.2,2024-02-04
+sofiia.koval311@example.com,Sofiia Koval,SE-22,CS106,Web Development,Anastasiia Lytvyn,88.08,2024-10-30
+iryna.polishchuk242@example.com,Iryna Polishchuk,KN-21,CS109,Machine Learning,Kateryna Kozak,93.02,2025-07-12
+taras.kravets391@example.com,Taras Kravets,KN-22,CS104,Operating Systems,Roman Boyko,90.19,2025-07-28
+kateryna.melnyk42@example.com,Kateryna Melnyk,SE-22,CS109,Machine Learning,Kateryna Kozak,81.13,2024-12-01
+nazar.kravets186@example.com,Nazar Kravets,KN-21,CS102,Databases,Iryna Hnatiuk,64.49,2025-03-31
+nazar.shevchenko281@example.com,Nazar Shevchenko,SE-21,CS109,Machine Learning,Kateryna Kozak,82.91,2024-03-26
+oleh.kozak77@example.com,Oleh Kozak,IPZ-21,CS103,Computer Networks,Taras Melnyk,94.18,2024-08-01
+viktoriia.savchuk227@example.com,Viktoriia Savchuk,IPZ-22,CS102,Databases,Iryna Hnatiuk,68.22,2025-07-28
+ivan.boyko299@example.com,Ivan Boyko,KN-22,CS108,Data Structures,Olena Mazur,95.96,2023-12-03
+roman.tkachenko229@example.com,Roman Tkachenko,CS-22,CS101,Algorithms,Oleh Koval,65.28,2024-12-08
+viktoriia.polishchuk213@example.com,Viktoriia Polishchuk,KN-21,CS108,Data Structures,Olena Mazur,62.31,2025-03-31
+olena.polishchuk237@example.com,Olena Polishchuk,CS-21,CS105,Software Engineering,Marta Kravets,75.84,2023-09-23
+roman.bondarenko2@example.com,Roman Bondarenko,KN-21,CS104,Operating Systems,Roman Boyko,62.92,2025-04-15
+maksym.tkachenko217@example.com,Maksym Tkachenko,SE-22,CS106,Web Development,Anastasiia Lytvyn,81.65,2023-11-05
+ivan.tkachenko31@example.com,Ivan Tkachenko,KN-21,CS102,Databases,Iryna Hnatiuk,61.27,2024-12-27
+marta.koval210@example.com,Marta Koval,CS-22,CS103,Computer Networks,Taras Melnyk,90.63,2024-01-17
+marta.lytvyn374@example.com,Marta Lytvyn,CS-22,CS107,Cloud Computing,Nazar Polishchuk,99.71,2024-09-18
+maksym.kozak196@example.com,Maksym Kozak,IPZ-21,CS108,Data Structures,Olena Mazur,75.03,2024-09-21
+ivan.lytvyn350@example.com,Ivan Lytvyn,CS-22,CS109,Machine Learning,Kateryna Kozak,86.14,2024-01-15
+kateryna.boyko179@example.com,Kateryna Boyko,IPZ-21,CS102,Databases,Iryna Hnatiuk,99.71,2024-03-01
+marta.melnyk202@example.com,Marta Melnyk,IPZ-22,CS109,Machine Learning,Kateryna Kozak,89.11,2024-01-09
+oleh.shevchenko115@example.com,Oleh Shevchenko,KN-21,CS101,Algorithms,Oleh Koval,99.14,2023-09-24
+taras.bondarenko238@example.com,Taras Bondarenko,CS-21,CS109,Machine Learning,Kateryna Kozak,81.28,2024-11-08
+marta.bondarenko118@example.com,Marta Bondarenko,KN-22,CS104,Operating Systems,Roman Boyko,73.85,2024-12-15
+taras.polishchuk142@example.com,Taras Polishchuk,CS-21,CS104,Operating Systems,Roman Boyko,61.29,2023-12-25
+marta.mazur339@example.com,Marta Mazur,CS-21,CS107,Cloud Computing,Nazar Polishchuk,90.64,2025-05-22
+kateryna.shevchenko9@example.com,Kateryna Shevchenko,CS-21,CS104,Operating Systems,Roman Boyko,62.69,2024-03-30
+anastasiia.kravets305@example.com,Anastasiia Kravets,CS-22,CS101,Algorithms,Oleh Koval,83.91,2024-12-01
+roman.kozak361@example.com,Roman Kozak,IPZ-22,CS101,Algorithms,Oleh Koval,89.62,2024-05-08
+maksym.mazur206@example.com,Maksym Mazur,KN-22,CS108,Data Structures,Olena Mazur,81.59,2024-04-27
+andrii.melnyk387@example.com,Andrii Melnyk,CS-21,CS101,Algorithms,Oleh Koval,80.16,2024-01-22
+kateryna.mazur149@example.com,Kateryna Mazur,CS-22,CS104,Operating Systems,Roman Boyko,72.76,2025-04-12
+anastasiia.bondarenko307@example.com,Anastasiia Bondarenko,SE-21,CS106,Web Development,Anastasiia Lytvyn,72.07,2024-04-30
+ivan.boyko74@example.com,Ivan Boyko,KN-21,CS109,Machine Learning,Kateryna Kozak,76.54,2024-04-14
+sofiia.mazur141@example.com,Sofiia Mazur,CS-22,CS101,Algorithms,Oleh Koval,97.94,2025-03-24
+maksym.kozak377@example.com,Maksym Kozak,KN-22,CS103,Computer Networks,Taras Melnyk,87.15,2025-06-03
+taras.boyko285@example.com,Taras Boyko,IPZ-21,CS108,Data Structures,Olena Mazur,98.89,2023-10-19
+roman.kravets330@example.com,Roman Kravets,KN-21,CS107,Cloud Computing,Nazar Polishchuk,72.75,2025-02-19
+kateryna.melnyk214@example.com,Kateryna Melnyk,CS-21,CS107,Cloud Computing,Nazar Polishchuk,72.0,2024-01-31
+ivan.kozak95@example.com,Ivan Kozak,CS-21,CS109,Machine Learning,Kateryna Kozak,69.64,2024-12-28
+kateryna.melnyk116@example.com,Kateryna Melnyk,IPZ-21,CS105,Software Engineering,Marta Kravets,92.23,2024-01-26
+anastasiia.kozak30@example.com,Anastasiia Kozak,SE-22,CS109,Machine Learning,Kateryna Kozak,98.71,2024-10-27
+viktoriia.boyko286@example.com,Viktoriia Boyko,IPZ-21,CS109,Machine Learning,Kateryna Kozak,75.54,2024-01-16
+anastasiia.kozak131@example.com,Anastasiia Kozak,CS-22,CS104,Operating Systems,Roman Boyko,85.87,2024-08-04
+kateryna.polishchuk231@example.com,Kateryna Polishchuk,CS-22,CS106,Web Development,Anastasiia Lytvyn,81.43,2023-12-04
+maksym.lytvyn98@example.com,Maksym Lytvyn,KN-22,CS101,Algorithms,Oleh Koval,75.09,2024-06-01
+solomiia.savchuk310@example.com,Solomiia Savchuk,KN-21,CS110,Cybersecurity,Viktoriia Bondarenko,94.94,2023-10-11
+andrii.kravets97@example.com,Andrii Kravets,IPZ-22,CS110,Cybersecurity,Viktoriia Bondarenko,82.35,2025-07-19
+oleh.tkachenko246@example.com,Oleh Tkachenko,SE-22,CS104,Operating Systems,Roman Boyko,72.13,2024-08-06
+olena.savchuk8@example.com,Olena Savchuk,KN-21,CS104,Operating Systems,Roman Boyko,98.48,2024-03-13
+andrii.koval61@example.com,Andrii Koval,IPZ-21,CS108,Data Structures,Olena Mazur,87.83,2024-05-06
+roman.kozak361@example.com,Roman Kozak,IPZ-22,CS104,Operating Systems,Roman Boyko,96.61,2024-10-11
+oleh.kravets283@example.com,Oleh Kravets,IPZ-22,CS106,Web Development,Anastasiia Lytvyn,75.23,2024-06-16
+roman.kozak274@example.com,Roman Kozak,IPZ-21,CS106,Web Development,Anastasiia Lytvyn,70.46,2024-07-12
+olena.kozak263@example.com,Olena Kozak,KN-22,CS108,Data Structures,Olena Mazur,63.94,2024-12-21
+solomiia.mazur370@example.com,Solomiia Mazur,SE-21,CS108,Data Structures,Olena Mazur,96.57,2024-07-24
+oleh.tkachenko190@example.com,Oleh Tkachenko,SE-21,CS106,Web Development,Anastasiia Lytvyn,61.83,2024-10-28
+taras.koval114@example.com,Taras Koval,KN-21,CS103,Computer Networks,Taras Melnyk,70.43,2023-09-17
+ivan.koval300@example.com,Ivan Koval,CS-21,CS110,Cybersecurity,Viktoriia Bondarenko,71.81,2024-11-01
+iryna.melnyk101@example.com,Iryna Melnyk,SE-22,CS106,Web Development,Anastasiia Lytvyn,75.19,2024-04-23
+roman.bondarenko126@example.com,Roman Bondarenko,SE-22,CS108,Data Structures,Olena Mazur,86.18,2025-03-17
+olena.melnyk351@example.com,Olena Melnyk,CS-21,CS106,Web Development,Anastasiia Lytvyn,90.53,2024-05-21
+kateryna.mazur251@example.com,Kateryna Mazur,KN-22,CS108,Data Structures,Olena Mazur,66.73,2024-12-15
+marta.tkachenko181@example.com,Marta Tkachenko,SE-21,CS103,Computer Networks,Taras Melnyk,88.81,2024-01-22
+kateryna.mazur251@example.com,Kateryna Mazur,KN-22,CS103,Computer Networks,Taras Melnyk,99.61,2025-03-09
+ivan.tkachenko31@example.com,Ivan Tkachenko,KN-21,CS109,Machine Learning,Kateryna Kozak,93.56,2023-10-05
+olena.lytvyn39@example.com,Olena Lytvyn,IPZ-21,CS101,Algorithms,Oleh Koval,76.5,2023-09-07
+viktoriia.melnyk323@example.com,Viktoriia Melnyk,CS-21,CS104,Operating Systems,Roman Boyko,88.29,2023-11-09
+maksym.bondarenko5@example.com,Maksym Bondarenko,KN-22,CS104,Operating Systems,Roman Boyko,78.24,2025-01-30
+ivan.tkachenko31@example.com,Ivan Tkachenko,KN-21,CS110,Cybersecurity,Viktoriia Bondarenko,86.67,2025-06-15
+sofiia.mazur316@example.com,Sofiia Mazur,SE-21,CS108,Data Structures,Olena Mazur,79.51,2025-07-07
+kateryna.savchuk4@example.com,Kateryna Savchuk,IPZ-21,CS109,Machine Learning,Kateryna Kozak,76.45,2025-03-18
+kateryna.shevchenko9@example.com,Kateryna Shevchenko,CS-21,CS109,Machine Learning,Kateryna Kozak,81.43,2024-06-08
+iryna.boyko147@example.com,Iryna Boyko,IPZ-21,CS101,Algorithms,Oleh Koval,92.53,2025-01-27
+iryna.kravets346@example.com,Iryna Kravets,IPZ-21,CS107,Cloud Computing,Nazar Polishchuk,64.28,2024-03-02
+oleh.bondarenko50@example.com,Oleh Bondarenko,IPZ-22,CS109,Machine Learning,Kateryna Kozak,69.64,2024-01-31
+sofiia.kozak318@example.com,Sofiia Kozak,SE-22,CS109,Machine Learning,Kateryna Kozak,92.61,2024-05-16
+anastasiia.mazur137@example.com,Anastasiia Mazur,KN-22,CS107,Cloud Computing,Nazar Polishchuk,74.92,2023-11-20
+taras.mazur208@example.com,Taras Mazur,IPZ-21,CS108,Data Structures,Olena Mazur,69.73,2025-04-01
+viktoriia.shevchenko357@example.com,Viktoriia Shevchenko,CS-21,CS104,Operating Systems,Roman Boyko,87.36,2024-07-04
+kateryna.melnyk42@example.com,Kateryna Melnyk,SE-22,CS101,Algorithms,Oleh Koval,76.21,2023-12-05
+maksym.kravets194@example.com,Maksym Kravets,IPZ-21,CS109,Machine Learning,Kateryna Kozak,62.24,2024-12-31
+maksym.bondarenko5@example.com,Maksym Bondarenko,KN-22,CS103,Computer Networks,Taras Melnyk,79.99,2023-11-24
+andrii.lytvyn223@example.com,Andrii Lytvyn,KN-22,CS106,Web Development,Anastasiia Lytvyn,99.09,2025-04-02
+marta.tkachenko49@example.com,Marta Tkachenko,KN-22,CS109,Machine Learning,Kateryna Kozak,69.19,2023-10-14
+marta.koval355@example.com,Marta Koval,SE-21,CS110,Cybersecurity,Viktoriia Bondarenko,70.84,2024-12-30
+olena.lytvyn39@example.com,Olena Lytvyn,IPZ-21,CS105,Software Engineering,Marta Kravets,82.54,2025-03-10
+oleh.kozak17@example.com,Oleh Kozak,KN-22,CS103,Computer Networks,Taras Melnyk,60.63,2024-07-19
+sofiia.bondarenko107@example.com,Sofiia Bondarenko,CS-21,CS110,Cybersecurity,Viktoriia Bondarenko,90.09,2024-01-26
+solomiia.koval365@example.com,Solomiia Koval,IPZ-22,CS107,Cloud Computing,Nazar Polishchuk,71.97,2023-11-18
+oleh.bondarenko289@example.com,Oleh Bondarenko,CS-21,CS104,Operating Systems,Roman Boyko,93.39,2025-04-03
+taras.mazur200@example.com,Taras Mazur,KN-22,CS109,Machine Learning,Kateryna Kozak,75.35,2024-08-05
+roman.melnyk379@example.com,Roman Melnyk,KN-22,CS103,Computer Networks,Taras Melnyk,80.03,2023-11-20
+kateryna.savchuk178@example.com,Kateryna Savchuk,KN-22,CS101,Algorithms,Oleh Koval,77.48,2023-12-10
+olena.lytvyn39@example.com,Olena Lytvyn,IPZ-21,CS106,Web Development,Anastasiia Lytvyn,90.76,2025-05-12
+anastasiia.kravets305@example.com,Anastasiia Kravets,CS-22,CS107,Cloud Computing,Nazar Polishchuk,61.19,2024-07-31
+marta.boyko140@example.com,Marta Boyko,IPZ-22,CS108,Data Structures,Olena Mazur,69.13,2025-01-15
+sofiia.tkachenko284@example.com,Sofiia Tkachenko,CS-22,CS107,Cloud Computing,Nazar Polishchuk,67.43,2024-11-16
+ivan.koval300@example.com,Ivan Koval,CS-21,CS107,Cloud Computing,Nazar Polishchuk,90.89,2023-11-27
+nazar.kozak152@example.com,Nazar Kozak,IPZ-22,CS104,Operating Systems,Roman Boyko,63.28,2023-11-15
+kateryna.kravets79@example.com,Kateryna Kravets,SE-22,CS107,Cloud Computing,Nazar Polishchuk,66.17,2025-06-11
+taras.mazur200@example.com,Taras Mazur,KN-22,CS106,Web Development,Anastasiia Lytvyn,64.26,2024-09-04
+taras.kozak3@example.com,Taras Kozak,IPZ-22,CS105,Software Engineering,Marta Kravets,74.4,2024-11-29
+andrii.lytvyn139@example.com,Andrii Lytvyn,KN-22,CS102,Databases,Iryna Hnatiuk,63.49,2024-01-14
+yurii.shevchenko221@example.com,Yurii Shevchenko,CS-21,CS108,Data Structures,Olena Mazur,82.19,2025-03-24
+marta.lytvyn209@example.com,Marta Lytvyn,SE-21,CS102,Databases,Iryna Hnatiuk,63.58,2023-09-27
+sofiia.tkachenko284@example.com,Sofiia Tkachenko,CS-22,CS102,Databases,Iryna Hnatiuk,83.92,2025-05-04
+viktoriia.melnyk167@example.com,Viktoriia Melnyk,SE-22,CS107,Cloud Computing,Nazar Polishchuk,71.67,2023-09-13
+roman.melnyk199@example.com,Roman Melnyk,SE-22,CS102,Databases,Iryna Hnatiuk,96.21,2025-03-26
+anastasiia.savchuk125@example.com,Anastasiia Savchuk,SE-22,CS110,Cybersecurity,Viktoriia Bondarenko,66.78,2025-02-15
+oleh.shevchenko195@example.com,Oleh Shevchenko,KN-22,CS103,Computer Networks,Taras Melnyk,70.76,2024-01-21
+olena.savchuk138@example.com,Olena Savchuk,SE-21,CS108,Data Structures,Olena Mazur,62.53,2024-01-28
+andrii.lytvyn223@example.com,Andrii Lytvyn,KN-22,CS105,Software Engineering,Marta Kravets,71.99,2024-11-05
+taras.kozak40@example.com,Taras Kozak,CS-21,CS106,Web Development,Anastasiia Lytvyn,97.77,2024-05-15
+solomiia.mazur370@example.com,Solomiia Mazur,SE-21,CS108,Data Structures,Olena Mazur,84.67,2025-05-01
+sofiia.koval235@example.com,Sofiia Koval,KN-21,CS102,Databases,Iryna Hnatiuk,72.19,2024-01-17
+nazar.tkachenko203@example.com,Nazar Tkachenko,IPZ-22,CS106,Web Development,Anastasiia Lytvyn,75.2,2025-05-28
+olena.lytvyn169@example.com,Olena Lytvyn,SE-22,CS108,Data Structures,Olena Mazur,77.22,2024-08-08
+maksym.kravets334@example.com,Maksym Kravets,CS-22,CS110,Cybersecurity,Viktoriia Bondarenko,72.02,2024-01-18
+anastasiia.boyko309@example.com,Anastasiia Boyko,KN-21,CS104,Operating Systems,Roman Boyko,72.57,2025-01-03
+andrii.tkachenko204@example.com,Andrii Tkachenko,SE-21,CS106,Web Development,Anastasiia Lytvyn,89.39,2024-06-25
+oleh.tkachenko325@example.com,Oleh Tkachenko,CS-22,CS108,Data Structures,Olena Mazur,91.28,2025-04-12
+viktoriia.melnyk167@example.com,Viktoriia Melnyk,SE-22,CS107,Cloud Computing,Nazar Polishchuk,92.66,2024-06-14
+marta.melnyk202@example.com,Marta Melnyk,IPZ-22,CS106,Web Development,Anastasiia Lytvyn,97.28,2023-12-26
+iryna.kozak103@example.com,Iryna Kozak,IPZ-22,CS110,Cybersecurity,Viktoriia Bondarenko,67.2,2025-03-12
+oleh.kravets394@example.com,Oleh Kravets,SE-21,CS109,Machine Learning,Kateryna Kozak,98.12,2023-09-28
+olena.polishchuk237@example.com,Olena Polishchuk,CS-21,CS104,Operating Systems,Roman Boyko,91.91,2024-11-22
+marta.koval355@example.com,Marta Koval,SE-21,CS102,Databases,Iryna Hnatiuk,86.92,2024-10-23
+sofiia.koval72@example.com,Sofiia Koval,KN-22,CS105,Software Engineering,Marta Kravets,70.11,2024-05-05
+kateryna.kravets79@example.com,Kateryna Kravets,SE-22,CS107,Cloud Computing,Nazar Polishchuk,62.96,2024-09-21
+anastasiia.bondarenko307@example.com,Anastasiia Bondarenko,SE-21,CS108,Data Structures,Olena Mazur,76.03,2025-04-19
+iryna.savchuk260@example.com,Iryna Savchuk,KN-22,CS107,Cloud Computing,Nazar Polishchuk,61.47,2025-03-10
+anastasiia.shevchenko185@example.com,Anastasiia Shevchenko,SE-21,CS109,Machine Learning,Kateryna Kozak,85.53,2025-05-01
+nazar.lytvyn44@example.com,Nazar Lytvyn,IPZ-22,CS102,Databases,Iryna Hnatiuk,86.3,2024-05-12
+kateryna.lytvyn182@example.com,Kateryna Lytvyn,KN-22,CS103,Computer Networks,Taras Melnyk,84.51,2025-06-24
+oleh.bondarenko289@example.com,Oleh Bondarenko,CS-21,CS107,Cloud Computing,Nazar Polishchuk,98.63,2024-08-05
+yurii.shevchenko221@example.com,Yurii Shevchenko,CS-21,CS102,Databases,Iryna Hnatiuk,63.94,2023-09-11
+taras.koval114@example.com,Taras Koval,KN-21,CS109,Machine Learning,Kateryna Kozak,82.32,2025-02-13
+taras.kravets353@example.com,Taras Kravets,IPZ-22,CS110,Cybersecurity,Viktoriia Bondarenko,77.83,2024-04-14
+viktoriia.polishchuk201@example.com,Viktoriia Polishchuk,CS-21,CS108,Data Structures,Olena Mazur,83.54,2025-07-27
+nazar.bondarenko257@example.com,Nazar Bondarenko,KN-21,CS103,Computer Networks,Taras Melnyk,99.91,2024-08-19
+solomiia.koval248@example.com,Solomiia Koval,IPZ-21,CS102,Databases,Iryna Hnatiuk,76.64,2024-06-29
+nazar.lytvyn44@example.com,Nazar Lytvyn,IPZ-22,CS102,Databases,Iryna Hnatiuk,73.93,2024-01-24
+yurii.koval176@example.com,Yurii Koval,SE-21,CS108,Data Structures,Olena Mazur,80.84,2024-03-30
+kateryna.boyko179@example.com,Kateryna Boyko,IPZ-21,CS108,Data Structures,Olena Mazur,77.53,2023-12-09
+viktoriia.shevchenko357@example.com,Viktoriia Shevchenko,CS-21,CS108,Data Structures,Olena Mazur,62.69,2024-07-23
+maksym.mazur23@example.com,Maksym Mazur,KN-21,CS102,Databases,Iryna Hnatiuk,93.97,2023-09-24
+viktoriia.tkachenko332@example.com,Viktoriia Tkachenko,IPZ-21,CS102,Databases,Iryna Hnatiuk,92.0,2025-07-25
+maksym.lytvyn380@example.com,Maksym Lytvyn,KN-22,CS104,Operating Systems,Roman Boyko,66.98,2025-02-10
+anastasiia.tkachenko82@example.com,Anastasiia Tkachenko,SE-22,CS106,Web Development,Anastasiia Lytvyn,77.05,2025-03-27
+olena.polishchuk237@example.com,Olena Polishchuk,CS-21,CS104,Operating Systems,Roman Boyko,85.19,2024-10-19
+viktoriia.shevchenko96@example.com,Viktoriia Shevchenko,IPZ-22,CS107,Cloud Computing,Nazar Polishchuk,61.17,2024-10-10
+maksym.kravets315@example.com,Maksym Kravets,CS-21,CS104,Operating Systems,Roman Boyko,83.69,2024-12-04
+taras.mazur200@example.com,Taras Mazur,KN-22,CS101,Algorithms,Oleh Koval,68.23,2024-04-07
+marta.bondarenko386@example.com,Marta Bondarenko,CS-22,CS102,Databases,Iryna Hnatiuk,64.07,2025-04-14
+olena.mazur275@example.com,Olena Mazur,IPZ-21,CS103,Computer Networks,Taras Melnyk,73.04,2024-09-09
+sofiia.koval235@example.com,Sofiia Koval,KN-21,CS102,Databases,Iryna Hnatiuk,86.83,2024-05-26
+kateryna.mazur251@example.com,Kateryna Mazur,KN-22,CS109,Machine Learning,Kateryna Kozak,72.54,2025-06-16
+roman.melnyk199@example.com,Roman Melnyk,SE-22,CS110,Cybersecurity,Viktoriia Bondarenko,83.48,2024-10-06
+kateryna.boyko179@example.com,Kateryna Boyko,IPZ-21,CS106,Web Development,Anastasiia Lytvyn,84.69,2024-12-12
+taras.kozak345@example.com,Taras Kozak,IPZ-21,CS105,Software Engineering,Marta Kravets,83.61,2025-05-22
+taras.kozak345@example.com,Taras Kozak,IPZ-21,CS103,Computer Networks,Taras Melnyk,64.71,2024-07-17
+solomiia.mazur157@example.com,Solomiia Mazur,IPZ-22,CS102,Databases,Iryna Hnatiuk,74.93,2024-03-06
+yurii.bondarenko73@example.com,Yurii Bondarenko,SE-22,CS109,Machine Learning,Kateryna Kozak,76.73,2024-10-02
+taras.savchuk71@example.com,Taras Savchuk,SE-21,CS110,Cybersecurity,Viktoriia Bondarenko,76.92,2024-09-27
+maksym.bondarenko250@example.com,Maksym Bondarenko,IPZ-22,CS109,Machine Learning,Kateryna Kozak,97.23,2025-06-22
+nazar.koval89@example.com,Nazar Koval,IPZ-22,CS109,Machine Learning,Kateryna Kozak,79.59,2024-02-18
+sofiia.koval72@example.com,Sofiia Koval,KN-22,CS103,Computer Networks,Taras Melnyk,93.68,2024-07-19
+sofiia.kozak318@example.com,Sofiia Kozak,SE-22,CS101,Algorithms,Oleh Koval,98.07,2024-09-02
+ivan.melnyk249@example.com,Ivan Melnyk,CS-21,CS103,Computer Networks,Taras Melnyk,92.61,2024-03-18
+solomiia.kozak288@example.com,Solomiia Kozak,SE-22,CS109,Machine Learning,Kateryna Kozak,79.8,2025-06-30
+olena.melnyk351@example.com,Olena Melnyk,CS-21,CS108,Data Structures,Olena Mazur,88.41,2024-10-30
+iryna.bondarenko228@example.com,Iryna Bondarenko,SE-21,CS108,Data Structures,Olena Mazur,63.31,2024-02-19
+yurii.polishchuk16@example.com,Yurii Polishchuk,IPZ-22,CS104,Operating Systems,Roman Boyko,61.31,2024-06-26
+kateryna.melnyk116@example.com,Kateryna Melnyk,IPZ-21,CS109,Machine Learning,Kateryna Kozak,66.73,2024-06-22
+sofiia.koval235@example.com,Sofiia Koval,KN-21,CS110,Cybersecurity,Viktoriia Bondarenko,81.99,2025-01-20
+taras.bondarenko58@example.com,Taras Bondarenko,KN-22,CS110,Cybersecurity,Viktoriia Bondarenko,70.72,2023-12-26
+marta.boyko279@example.com,Marta Boyko,CS-22,CS106,Web Development,Anastasiia Lytvyn,92.9,2025-03-09
+yurii.kozak22@example.com,Yurii Kozak,CS-21,CS108,Data Structures,Olena Mazur,68.74,2025-03-13
+roman.kravets218@example.com,Roman Kravets,SE-21,CS102,Databases,Iryna Hnatiuk,90.05,2025-07-01
+iryna.lytvyn153@example.com,Iryna Lytvyn,CS-22,CS101,Algorithms,Oleh Koval,70.51,2024-12-04
+iryna.kozak45@example.com,Iryna Kozak,KN-22,CS108,Data Structures,Olena Mazur,91.03,2023-12-30
+nazar.polishchuk122@example.com,Nazar Polishchuk,CS-22,CS104,Operating Systems,Roman Boyko,87.57,2025-04-25
+oleh.savchuk364@example.com,Oleh Savchuk,CS-21,CS110,Cybersecurity,Viktoriia Bondarenko,77.13,2025-06-09
+sofiia.mazur316@example.com,Sofiia Mazur,SE-21,CS103,Computer Networks,Taras Melnyk,92.54,2024-03-30
+ivan.tkachenko31@example.com,Ivan Tkachenko,KN-21,CS110,Cybersecurity,Viktoriia Bondarenko,81.29,2024-08-25
+yurii.polishchuk306@example.com,Yurii Polishchuk,KN-22,CS109,Machine Learning,Kateryna Kozak,72.95,2024-02-20
+roman.kozak361@example.com,Roman Kozak,IPZ-22,CS105,Software Engineering,Marta Kravets,82.91,2024-06-23
+kateryna.koval264@example.com,Kateryna Koval,KN-22,CS102,Databases,Iryna Hnatiuk,98.51,2024-01-17
+andrii.boyko211@example.com,Andrii Boyko,SE-22,CS101,Algorithms,Oleh Koval,94.68,2024-06-10
+yurii.lytvyn65@example.com,Yurii Lytvyn,KN-21,CS103,Computer Networks,Taras Melnyk,65.85,2024-05-13
+viktoriia.kozak165@example.com,Viktoriia Kozak,CS-22,CS104,Operating Systems,Roman Boyko,75.71,2025-07-24
+yurii.bondarenko73@example.com,Yurii Bondarenko,SE-22,CS110,Cybersecurity,Viktoriia Bondarenko,70.75,2025-06-09
+viktoriia.polishchuk213@example.com,Viktoriia Polishchuk,KN-21,CS107,Cloud Computing,Nazar Polishchuk,63.02,2024-12-06
+oleh.kravets394@example.com,Oleh Kravets,SE-21,CS102,Databases,Iryna Hnatiuk,80.62,2024-10-17
+iryna.kozak143@example.com,Iryna Kozak,SE-21,CS106,Web Development,Anastasiia Lytvyn,98.01,2024-12-09
+viktoriia.tkachenko168@example.com,Viktoriia Tkachenko,KN-22,CS110,Cybersecurity,Viktoriia Bondarenko,94.76,2023-09-03
+yurii.koval376@example.com,Yurii Koval,SE-22,CS102,Databases,Iryna Hnatiuk,85.39,2024-12-13
+anastasiia.kozak358@example.com,Anastasiia Kozak,CS-22,CS106,Web Development,Anastasiia Lytvyn,91.83,2023-11-04
+andrii.tkachenko204@example.com,Andrii Tkachenko,SE-21,CS104,Operating Systems,Roman Boyko,92.99,2024-11-13
+iryna.mazur254@example.com,Iryna Mazur,IPZ-21,CS105,Software Engineering,Marta Kravets,93.13,2024-07-27
+sofiia.lytvyn173@example.com,Sofiia Lytvyn,IPZ-22,CS109,Machine Learning,Kateryna Kozak,65.22,2025-04-14
+ivan.melnyk249@example.com,Ivan Melnyk,CS-21,CS106,Web Development,Anastasiia Lytvyn,90.49,2025-07-30
+roman.melnyk24@example.com,Roman Melnyk,SE-22,CS102,Databases,Iryna Hnatiuk,91.36,2025-06-03
+yurii.bondarenko236@example.com,Yurii Bondarenko,SE-22,CS101,Algorithms,Oleh Koval,97.18,2024-01-06
+nazar.boyko81@example.com,Nazar Boyko,IPZ-21,CS108,Data Structures,Olena Mazur,60.03,2024-12-11
+sofiia.melnyk220@example.com,Sofiia Melnyk,SE-22,CS104,Operating Systems,Roman Boyko,95.29,2024-01-14
+roman.bondarenko155@example.com,Roman Bondarenko,KN-21,CS103,Computer Networks,Taras Melnyk,63.73,2024-06-07
+anastasiia.shevchenko185@example.com,Anastasiia Shevchenko,SE-21,CS105,Software Engineering,Marta Kravets,74.87,2023-11-24
+viktoriia.tkachenko333@example.com,Viktoriia Tkachenko,KN-21,CS103,Computer Networks,Taras Melnyk,75.85,2023-10-24
+solomiia.mazur157@example.com,Solomiia Mazur,IPZ-22,CS104,Operating Systems,Roman Boyko,86.22,2024-11-13
+roman.kozak361@example.com,Roman Kozak,IPZ-22,CS102,Databases,Iryna Hnatiuk,68.54,2023-09-02
+taras.kozak40@example.com,Taras Kozak,CS-21,CS103,Computer Networks,Taras Melnyk,69.05,2025-04-30
+kateryna.melnyk349@example.com,Kateryna Melnyk,KN-22,CS108,Data Structures,Olena Mazur,60.32,2023-09-10
+yurii.koval176@example.com,Yurii Koval,SE-21,CS102,Databases,Iryna Hnatiuk,87.76,2024-11-06
+viktoriia.shevchenko245@example.com,Viktoriia Shevchenko,KN-21,CS102,Databases,Iryna Hnatiuk,75.32,2024-04-22
+oleh.boyko375@example.com,Oleh Boyko,CS-21,CS102,Databases,Iryna Hnatiuk,72.53,2023-12-15
+maksym.bondarenko154@example.com,Maksym Bondarenko,CS-21,CS103,Computer Networks,Taras Melnyk,90.94,2024-09-26
+marta.bondarenko386@example.com,Marta Bondarenko,CS-22,CS103,Computer Networks,Taras Melnyk,99.72,2025-06-18
+ivan.boyko74@example.com,Ivan Boyko,KN-21,CS102,Databases,Iryna Hnatiuk,82.53,2025-02-25
+andrii.polishchuk313@example.com,Andrii Polishchuk,KN-21,CS103,Computer Networks,Taras Melnyk,74.05,2024-11-24
+olena.savchuk110@example.com,Olena Savchuk,IPZ-21,CS103,Computer Networks,Taras Melnyk,84.64,2024-10-26
+viktoriia.savchuk227@example.com,Viktoriia Savchuk,IPZ-22,CS104,Operating Systems,Roman Boyko,95.86,2023-11-28
+sofiia.koval72@example.com,Sofiia Koval,KN-22,CS102,Databases,Iryna Hnatiuk,89.2,2025-04-26
+anastasiia.kravets180@example.com,Anastasiia Kravets,IPZ-21,CS107,Cloud Computing,Nazar Polishchuk,91.64,2024-07-19
+marta.tkachenko127@example.com,Marta Tkachenko,KN-22,CS105,Software Engineering,Marta Kravets,63.37,2025-06-22
+sofiia.tkachenko284@example.com,Sofiia Tkachenko,CS-22,CS110,Cybersecurity,Viktoriia Bondarenko,88.85,2025-05-07
+anastasiia.kozak146@example.com,Anastasiia Kozak,KN-21,CS101,Algorithms,Oleh Koval,95.03,2025-07-06
+olena.tkachenko106@example.com,Olena Tkachenko,KN-22,CS109,Machine Learning,Kateryna Kozak,80.38,2025-05-14
+olena.melnyk383@example.com,Olena Melnyk,KN-21,CS107,Cloud Computing,Nazar Polishchuk,85.85,2024-06-29
+kateryna.kozak123@example.com,Kateryna Kozak,KN-22,CS108,Data Structures,Olena Mazur,64.51,2024-09-30
+olena.kozak256@example.com,Olena Kozak,IPZ-22,CS110,Cybersecurity,Viktoriia Bondarenko,81.13,2023-11-12
+kateryna.bondarenko7@example.com,Kateryna Bondarenko,SE-22,CS106,Web Development,Anastasiia Lytvyn,65.28,2024-07-21
+roman.polishchuk292@example.com,Roman Polishchuk,KN-21,CS107,Cloud Computing,Nazar Polishchuk,81.85,2024-09-09
+nazar.koval89@example.com,Nazar Koval,IPZ-22,CS108,Data Structures,Olena Mazur,60.67,2023-11-14
+solomiia.koval35@example.com,Solomiia Koval,IPZ-21,CS101,Algorithms,Oleh Koval,68.63,2024-05-26
+ivan.tkachenko31@example.com,Ivan Tkachenko,KN-21,CS107,Cloud Computing,Nazar Polishchuk,71.46,2025-01-31
+solomiia.koval365@example.com,Solomiia Koval,IPZ-22,CS109,Machine Learning,Kateryna Kozak,76.94,2024-10-30
+maksym.mazur206@example.com,Maksym Mazur,KN-22,CS102,Databases,Iryna Hnatiuk,81.46,2025-06-17
+sofiia.mazur316@example.com,Sofiia Mazur,SE-21,CS103,Computer Networks,Taras Melnyk,63.34,2024-06-11
+sofiia.koval41@example.com,Sofiia Koval,CS-21,CS109,Machine Learning,Kateryna Kozak,98.97,2024-03-27
+yurii.boyko80@example.com,Yurii Boyko,IPZ-21,CS109,Machine Learning,Kateryna Kozak,75.63,2024-07-31
+oleh.tkachenko325@example.com,Oleh Tkachenko,CS-22,CS102,Databases,Iryna Hnatiuk,87.95,2024-07-14
+marta.lytvyn374@example.com,Marta Lytvyn,CS-22,CS104,Operating Systems,Roman Boyko,69.78,2023-10-30
+andrii.lytvyn223@example.com,Andrii Lytvyn,KN-22,CS102,Databases,Iryna Hnatiuk,84.49,2024-12-08
+sofiia.bondarenko29@example.com,Sofiia Bondarenko,SE-22,CS105,Software Engineering,Marta Kravets,89.67,2025-07-14
+maksym.lytvyn380@example.com,Maksym Lytvyn,KN-22,CS103,Computer Networks,Taras Melnyk,60.51,2024-01-01
+taras.savchuk71@example.com,Taras Savchuk,SE-21,CS101,Algorithms,Oleh Koval,79.86,2024-02-15
+kateryna.savchuk178@example.com,Kateryna Savchuk,KN-22,CS109,Machine Learning,Kateryna Kozak,91.32,2025-02-11
+solomiia.mazur370@example.com,Solomiia Mazur,SE-21,CS105,Software Engineering,Marta Kravets,74.87,2024-02-18
+olena.melnyk384@example.com,Olena Melnyk,IPZ-22,CS105,Software Engineering,Marta Kravets,90.86,2023-12-30
+yurii.polishchuk16@example.com,Yurii Polishchuk,IPZ-22,CS106,Web Development,Anastasiia Lytvyn,70.88,2024-11-13
+kateryna.mazur33@example.com,Kateryna Mazur,SE-21,CS105,Software Engineering,Marta Kravets,85.1,2025-04-13
+taras.bondarenko255@example.com,Taras Bondarenko,KN-22,CS108,Data Structures,Olena Mazur,74.4,2025-02-05
+olena.kozak256@example.com,Olena Kozak,IPZ-22,CS110,Cybersecurity,Viktoriia Bondarenko,74.71,2024-02-18
+anastasiia.kozak131@example.com,Anastasiia Kozak,CS-22,CS102,Databases,Iryna Hnatiuk,86.96,2025-04-10
+roman.mazur60@example.com,Roman Mazur,KN-22,CS104,Operating Systems,Roman Boyko,60.1,2025-02-03
+kateryna.bondarenko7@example.com,Kateryna Bondarenko,SE-22,CS104,Operating Systems,Roman Boyko,78.87,2023-10-18
+andrii.bondarenko197@example.com,Andrii Bondarenko,KN-22,CS103,Computer Networks,Taras Melnyk,97.25,2024-03-02
+taras.boyko19@example.com,Taras Boyko,CS-21,CS109,Machine Learning,Kateryna Kozak,76.77,2025-07-03
+viktoriia.kozak165@example.com,Viktoriia Kozak,CS-22,CS104,Operating Systems,Roman Boyko,96.63,2024-10-31
+taras.kravets164@example.com,Taras Kravets,KN-21,CS105,Software Engineering,Marta Kravets,82.86,2023-11-19
+roman.koval62@example.com,Roman Koval,IPZ-21,CS109,Machine Learning,Kateryna Kozak,96.08,2025-07-21
+maksym.boyko92@example.com,Maksym Boyko,CS-22,CS104,Operating Systems,Roman Boyko,99.26,2025-02-10
+maksym.mazur206@example.com,Maksym Mazur,KN-22,CS102,Databases,Iryna Hnatiuk,94.64,2024-12-20
+maksym.koval397@example.com,Maksym Koval,CS-22,CS105,Software Engineering,Marta Kravets,63.46,2024-08-01
+roman.koval234@example.com,Roman Koval,KN-22,CS101,Algorithms,Oleh Koval,68.03,2024-09-12
+oleh.bondarenko289@example.com,Oleh Bondarenko,CS-21,CS105,Software Engineering,Marta Kravets,69.7,2025-05-30
+ivan.kravets189@example.com,Ivan Kravets,KN-21,CS110,Cybersecurity,Viktoriia Bondarenko,99.91,2025-01-18
+ivan.koval398@example.com,Ivan Koval,KN-21,CS104,Operating Systems,Roman Boyko,90.42,2025-03-13
+roman.bondarenko126@example.com,Roman Bondarenko,SE-22,CS103,Computer Networks,Taras Melnyk,97.3,2023-09-07
+olena.savchuk13@example.com,Olena Savchuk,SE-22,CS104,Operating Systems,Roman Boyko,73.86,2025-03-08
+andrii.tkachenko356@example.com,Andrii Tkachenko,IPZ-22,CS101,Algorithms,Oleh Koval,60.06,2024-08-09
+yurii.boyko337@example.com,Yurii Boyko,SE-22,CS107,Cloud Computing,Nazar Polishchuk,64.16,2024-07-11
+kateryna.polishchuk272@example.com,Kateryna Polishchuk,CS-22,CS104,Operating Systems,Roman Boyko,79.68,2024-11-03
+ivan.tkachenko31@example.com,Ivan Tkachenko,KN-21,CS103,Computer Networks,Taras Melnyk,63.72,2024-06-13
+taras.shevchenko119@example.com,Taras Shevchenko,SE-21,CS109,Machine Learning,Kateryna Kozak,88.03,2024-10-27
+sofiia.bondarenko191@example.com,Sofiia Bondarenko,SE-22,CS108,Data Structures,Olena Mazur,83.23,2023-11-26
+kateryna.kravets259@example.com,Kateryna Kravets,SE-22,CS103,Computer Networks,Taras Melnyk,92.8,2025-06-14
+olena.lytvyn39@example.com,Olena Lytvyn,IPZ-21,CS110,Cybersecurity,Viktoriia Bondarenko,62.49,2025-04-04
+iryna.savchuk340@example.com,Iryna Savchuk,SE-21,CS103,Computer Networks,Taras Melnyk,71.67,2024-04-30
+nazar.polishchuk162@example.com,Nazar Polishchuk,SE-22,CS107,Cloud Computing,Nazar Polishchuk,72.72,2024-07-31
+marta.boyko140@example.com,Marta Boyko,IPZ-22,CS104,Operating Systems,Roman Boyko,97.74,2023-11-16
+viktoriia.polishchuk70@example.com,Viktoriia Polishchuk,IPZ-21,CS110,Cybersecurity,Viktoriia Bondarenko,66.22,2023-12-21
+yurii.savchuk85@example.com,Yurii Savchuk,IPZ-21,CS108,Data Structures,Olena Mazur,72.56,2024-12-21
+roman.koval62@example.com,Roman Koval,IPZ-21,CS109,Machine Learning,Kateryna Kozak,98.59,2024-09-01
+sofiia.bondarenko107@example.com,Sofiia Bondarenko,CS-21,CS108,Data Structures,Olena Mazur,78.53,2024-07-12
+roman.koval62@example.com,Roman Koval,IPZ-21,CS102,Databases,Iryna Hnatiuk,92.3,2024-02-09
+andrii.savchuk156@example.com,Andrii Savchuk,KN-22,CS110,Cybersecurity,Viktoriia Bondarenko,68.6,2023-10-12
+viktoriia.tkachenko168@example.com,Viktoriia Tkachenko,KN-22,CS103,Computer Networks,Taras Melnyk,88.45,2023-12-03
+solomiia.bondarenko183@example.com,Solomiia Bondarenko,CS-21,CS107,Cloud Computing,Nazar Polishchuk,61.96,2025-02-07
+maksym.bondarenko154@example.com,Maksym Bondarenko,CS-21,CS105,Software Engineering,Marta Kravets,61.24,2024-02-26
+taras.mazur208@example.com,Taras Mazur,IPZ-21,CS108,Data Structures,Olena Mazur,89.92,2025-03-23
+roman.savchuk128@example.com,Roman Savchuk,KN-22,CS102,Databases,Iryna Hnatiuk,64.08,2024-12-17
+sofiia.koval72@example.com,Sofiia Koval,KN-22,CS102,Databases,Iryna Hnatiuk,62.47,2023-09-13
+anastasiia.mazur400@example.com,Anastasiia Mazur,CS-21,CS104,Operating Systems,Roman Boyko,67.93,2024-01-12
+maksym.mazur206@example.com,Maksym Mazur,KN-22,CS106,Web Development,Anastasiia Lytvyn,97.5,2025-06-07
+nazar.lytvyn44@example.com,Nazar Lytvyn,IPZ-22,CS110,Cybersecurity,Viktoriia Bondarenko,70.35,2025-04-23
+olena.lytvyn39@example.com,Olena Lytvyn,IPZ-21,CS101,Algorithms,Oleh Koval,67.91,2023-11-06
+roman.kravets331@example.com,Roman Kravets,CS-21,CS108,Data Structures,Olena Mazur,63.68,2024-01-10
+roman.tkachenko170@example.com,Roman Tkachenko,SE-22,CS102,Databases,Iryna Hnatiuk,97.69,2023-10-14
+sofiia.savchuk26@example.com,Sofiia Savchuk,KN-22,CS103,Computer Networks,Taras Melnyk,77.33,2025-04-10
+olena.savchuk371@example.com,Olena Savchuk,CS-22,CS107,Cloud Computing,Nazar Polishchuk,61.18,2025-01-21
+ivan.lytvyn350@example.com,Ivan Lytvyn,CS-22,CS107,Cloud Computing,Nazar Polishchuk,74.16,2024-02-24
+viktoriia.shevchenko96@example.com,Viktoriia Shevchenko,IPZ-22,CS105,Software Engineering,Marta Kravets,77.84,2024-06-13
+oleh.kozak77@example.com,Oleh Kozak,IPZ-21,CS101,Algorithms,Oleh Koval,84.77,2025-05-21
+roman.bondarenko126@example.com,Roman Bondarenko,SE-22,CS105,Software Engineering,Marta Kravets,76.48,2025-01-23
+solomiia.tkachenko282@example.com,Solomiia Tkachenko,SE-21,CS108,Data Structures,Olena Mazur,63.51,2023-11-02
+andrii.bondarenko197@example.com,Andrii Bondarenko,KN-22,CS103,Computer Networks,Taras Melnyk,67.98,2024-11-03
+olena.lytvyn270@example.com,Olena Lytvyn,SE-22,CS104,Operating Systems,Roman Boyko,99.76,2025-06-07
+marta.boyko279@example.com,Marta Boyko,CS-22,CS101,Algorithms,Oleh Koval,91.28,2024-09-26
+kateryna.kravets184@example.com,Kateryna Kravets,IPZ-21,CS108,Data Structures,Olena Mazur,91.26,2025-03-11
+kateryna.shevchenko177@example.com,Kateryna Shevchenko,SE-22,CS110,Cybersecurity,Viktoriia Bondarenko,72.86,2025-01-27
+andrii.lytvyn139@example.com,Andrii Lytvyn,KN-22,CS103,Computer Networks,Taras Melnyk,72.76,2023-09-27
+kateryna.lytvyn113@example.com,Kateryna Lytvyn,IPZ-21,CS101,Algorithms,Oleh Koval,62.34,2024-06-14
+iryna.polishchuk242@example.com,Iryna Polishchuk,KN-21,CS109,Machine Learning,Kateryna Kozak,90.67,2024-09-01
+ivan.bondarenko120@example.com,Ivan Bondarenko,KN-21,CS103,Computer Networks,Taras Melnyk,69.91,2023-12-12
+olena.melnyk124@example.com,Olena Melnyk,IPZ-22,CS105,Software Engineering,Marta Kravets,92.65,2025-02-28
+andrii.savchuk378@example.com,Andrii Savchuk,CS-22,CS101,Algorithms,Oleh Koval,83.03,2024-04-12
+roman.melnyk199@example.com,Roman Melnyk,SE-22,CS106,Web Development,Anastasiia Lytvyn,67.04,2024-02-25
+solomiia.shevchenko304@example.com,Solomiia Shevchenko,CS-22,CS106,Web Development,Anastasiia Lytvyn,96.56,2024-09-02
+iryna.kozak15@example.com,Iryna Kozak,CS-22,CS106,Web Development,Anastasiia Lytvyn,82.54,2025-04-04
+oleh.bondarenko289@example.com,Oleh Bondarenko,CS-21,CS104,Operating Systems,Roman Boyko,81.68,2025-01-17
+roman.boyko90@example.com,Roman Boyko,IPZ-22,CS108,Data Structures,Olena Mazur,63.61,2023-10-09
+ivan.bondarenko120@example.com,Ivan Bondarenko,KN-21,CS110,Cybersecurity,Viktoriia Bondarenko,60.8,2024-04-12
+viktoriia.shevchenko245@example.com,Viktoriia Shevchenko,KN-21,CS101,Algorithms,Oleh Koval,96.72,2024-08-05
+ivan.tkachenko104@example.com,Ivan Tkachenko,IPZ-22,CS103,Computer Networks,Taras Melnyk,88.68,2024-08-14
+viktoriia.mazur166@example.com,Viktoriia Mazur,SE-21,CS101,Algorithms,Oleh Koval,65.91,2023-09-23
+roman.kozak361@example.com,Roman Kozak,IPZ-22,CS103,Computer Networks,Taras Melnyk,93.86,2023-12-23
+andrii.boyko187@example.com,Andrii Boyko,IPZ-21,CS102,Databases,Iryna Hnatiuk,88.18,2024-09-17
+iryna.savchuk340@example.com,Iryna Savchuk,SE-21,CS107,Cloud Computing,Nazar Polishchuk,64.04,2025-04-23
+roman.bondarenko155@example.com,Roman Bondarenko,KN-21,CS106,Web Development,Anastasiia Lytvyn,99.03,2024-01-18
+oleh.boyko375@example.com,Oleh Boyko,CS-21,CS107,Cloud Computing,Nazar Polishchuk,98.43,2025-06-16
+viktoriia.tkachenko333@example.com,Viktoriia Tkachenko,KN-21,CS106,Web Development,Anastasiia Lytvyn,88.29,2024-02-26
+solomiia.kozak288@example.com,Solomiia Kozak,SE-22,CS110,Cybersecurity,Viktoriia Bondarenko,68.93,2024-08-31
+andrii.tkachenko302@example.com,Andrii Tkachenko,CS-21,CS103,Computer Networks,Taras Melnyk,72.27,2024-09-22
+taras.kravets353@example.com,Taras Kravets,IPZ-22,CS105,Software Engineering,Marta Kravets,67.11,2024-01-09
+taras.savchuk1@example.com,Taras Savchuk,CS-21,CS110,Cybersecurity,Viktoriia Bondarenko,94.03,2024-10-05
+kateryna.kozak395@example.com,Kateryna Kozak,IPZ-22,CS110,Cybersecurity,Viktoriia Bondarenko,67.28,2023-10-04
+oleh.lytvyn163@example.com,Oleh Lytvyn,KN-22,CS110,Cybersecurity,Viktoriia Bondarenko,85.59,2024-04-14
+nazar.tkachenko54@example.com,Nazar Tkachenko,SE-21,CS108,Data Structures,Olena Mazur,73.25,2024-01-23
+taras.kozak40@example.com,Taras Kozak,CS-21,CS104,Operating Systems,Roman Boyko,99.3,2024-08-21
+sofiia.savchuk86@example.com,Sofiia Savchuk,IPZ-21,CS102,Databases,Iryna Hnatiuk,85.56,2025-07-18
+roman.tkachenko172@example.com,Roman Tkachenko,CS-22,CS108,Data Structures,Olena Mazur,70.61,2023-09-12
+roman.savchuk128@example.com,Roman Savchuk,KN-22,CS102,Databases,Iryna Hnatiuk,70.27,2024-08-24
+iryna.boyko56@example.com,Iryna Boyko,CS-22,CS101,Algorithms,Oleh Koval,75.44,2023-10-20
+yurii.koval376@example.com,Yurii Koval,SE-22,CS107,Cloud Computing,Nazar Polishchuk,95.38,2024-02-18
+iryna.mazur253@example.com,Iryna Mazur,SE-21,CS107,Cloud Computing,Nazar Polishchuk,81.84,2024-08-25
+maksym.lytvyn52@example.com,Maksym Lytvyn,KN-21,CS108,Data Structures,Olena Mazur,86.04,2025-04-14
+solomiia.tkachenko352@example.com,Solomiia Tkachenko,CS-22,CS104,Operating Systems,Roman Boyko,78.05,2024-02-14
+iryna.koval18@example.com,Iryna Koval,KN-22,CS105,Software Engineering,Marta Kravets,72.75,2023-09-21
+nazar.tkachenko54@example.com,Nazar Tkachenko,SE-21,CS102,Databases,Iryna Hnatiuk,66.8,2024-08-16
+olena.boyko193@example.com,Olena Boyko,CS-21,CS103,Computer Networks,Taras Melnyk,81.88,2023-11-16
+solomiia.savchuk48@example.com,Solomiia Savchuk,IPZ-22,CS106,Web Development,Anastasiia Lytvyn,99.41,2025-05-01
+solomiia.koval248@example.com,Solomiia Koval,IPZ-21,CS101,Algorithms,Oleh Koval,97.7,2024-11-15
+yurii.savchuk85@example.com,Yurii Savchuk,IPZ-21,CS110,Cybersecurity,Viktoriia Bondarenko,66.28,2024-11-18
+maksym.lytvyn52@example.com,Maksym Lytvyn,KN-21,CS106,Web Development,Anastasiia Lytvyn,98.98,2024-03-29
+marta.koval210@example.com,Marta Koval,CS-22,CS109,Machine Learning,Kateryna Kozak,70.61,2025-03-07
+ivan.bondarenko145@example.com,Ivan Bondarenko,SE-21,CS105,Software Engineering,Marta Kravets,63.84,2024-05-01
+marta.melnyk202@example.com,Marta Melnyk,IPZ-22,CS110,Cybersecurity,Viktoriia Bondarenko,93.59,2025-03-16
+kateryna.kravets79@example.com,Kateryna Kravets,SE-22,CS101,Algorithms,Oleh Koval,60.15,2024-09-04
+iryna.kozak45@example.com,Iryna Kozak,KN-22,CS105,Software Engineering,Marta Kravets,85.0,2025-07-09
+oleh.tkachenko246@example.com,Oleh Tkachenko,SE-22,CS104,Operating Systems,Roman Boyko,61.03,2023-12-09
+oleh.lytvyn88@example.com,Oleh Lytvyn,IPZ-22,CS105,Software Engineering,Marta Kravets,78.94,2023-11-23
+roman.mazur60@example.com,Roman Mazur,KN-22,CS105,Software Engineering,Marta Kravets,78.84,2024-10-12
+marta.mazur339@example.com,Marta Mazur,CS-21,CS105,Software Engineering,Marta Kravets,85.67,2023-12-03
+roman.melnyk199@example.com,Roman Melnyk,SE-22,CS103,Computer Networks,Taras Melnyk,95.42,2024-09-14
+oleh.tkachenko190@example.com,Oleh Tkachenko,SE-21,CS103,Computer Networks,Taras Melnyk,61.78,2024-11-30
+solomiia.kozak226@example.com,Solomiia Kozak,SE-22,CS108,Data Structures,Olena Mazur,69.05,2024-05-27
+olena.savchuk138@example.com,Olena Savchuk,SE-21,CS110,Cybersecurity,Viktoriia Bondarenko,66.05,2023-11-03
+viktoriia.shevchenko357@example.com,Viktoriia Shevchenko,CS-21,CS102,Databases,Iryna Hnatiuk,86.73,2023-11-27
+solomiia.koval278@example.com,Solomiia Koval,SE-22,CS107,Cloud Computing,Nazar Polishchuk,69.1,2025-04-26
+roman.polishchuk32@example.com,Roman Polishchuk,CS-21,CS107,Cloud Computing,Nazar Polishchuk,76.75,2025-02-17
+olena.mazur275@example.com,Olena Mazur,IPZ-21,CS108,Data Structures,Olena Mazur,95.27,2025-04-09
+iryna.kravets244@example.com,Iryna Kravets,SE-22,CS105,Software Engineering,Marta Kravets,75.79,2023-11-20
+roman.lytvyn366@example.com,Roman Lytvyn,KN-21,CS101,Algorithms,Oleh Koval,82.85,2025-01-27
+ivan.tkachenko265@example.com,Ivan Tkachenko,KN-21,CS110,Cybersecurity,Viktoriia Bondarenko,99.31,2025-07-25
+maksym.kravets76@example.com,Maksym Kravets,IPZ-22,CS102,Databases,Iryna Hnatiuk,66.92,2024-12-03
+sofiia.savchuk86@example.com,Sofiia Savchuk,IPZ-21,CS104,Operating Systems,Roman Boyko,65.05,2024-03-16
+maksym.tkachenko217@example.com,Maksym Tkachenko,SE-22,CS102,Databases,Iryna Hnatiuk,77.42,2025-07-31
+kateryna.koval322@example.com,Kateryna Koval,IPZ-22,CS103,Computer Networks,Taras Melnyk,70.32,2025-05-02
+roman.shevchenko373@example.com,Roman Shevchenko,IPZ-22,CS102,Databases,Iryna Hnatiuk,75.52,2023-11-29
+andrii.tkachenko204@example.com,Andrii Tkachenko,SE-21,CS109,Machine Learning,Kateryna Kozak,94.26,2024-07-30
+iryna.mazur267@example.com,Iryna Mazur,CS-21,CS108,Data Structures,Olena Mazur,91.46,2023-09-13
+roman.kozak320@example.com,Roman Kozak,CS-21,CS110,Cybersecurity,Viktoriia Bondarenko,91.27,2025-02-17
+taras.bondarenko58@example.com,Taras Bondarenko,KN-22,CS107,Cloud Computing,Nazar Polishchuk,65.93,2024-02-01
+andrii.tkachenko302@example.com,Andrii Tkachenko,CS-21,CS110,Cybersecurity,Viktoriia Bondarenko,97.0,2023-12-12
+oleh.bondarenko289@example.com,Oleh Bondarenko,CS-21,CS102,Databases,Iryna Hnatiuk,94.7,2024-06-19
+kateryna.shevchenko177@example.com,Kateryna Shevchenko,SE-22,CS107,Cloud Computing,Nazar Polishchuk,75.32,2024-05-28
+ivan.melnyk249@example.com,Ivan Melnyk,CS-21,CS110,Cybersecurity,Viktoriia Bondarenko,78.92,2025-05-16
+nazar.koval89@example.com,Nazar Koval,IPZ-22,CS105,Software Engineering,Marta Kravets,65.75,2024-10-17
+taras.lytvyn312@example.com,Taras Lytvyn,SE-22,CS107,Cloud Computing,Nazar Polishchuk,75.83,2023-10-10
+roman.tkachenko170@example.com,Roman Tkachenko,SE-22,CS104,Operating Systems,Roman Boyko,89.83,2023-10-21
+olena.savchuk138@example.com,Olena Savchuk,SE-21,CS106,Web Development,Anastasiia Lytvyn,73.51,2023-09-21
+andrii.savchuk156@example.com,Andrii Savchuk,KN-22,CS105,Software Engineering,Marta Kravets,93.71,2024-06-14
+viktoriia.shevchenko357@example.com,Viktoriia Shevchenko,CS-21,CS102,Databases,Iryna Hnatiuk,65.38,2024-04-21
+yurii.bondarenko381@example.com,Yurii Bondarenko,CS-22,CS108,Data Structures,Olena Mazur,70.78,2024-07-25
+kateryna.melnyk214@example.com,Kateryna Melnyk,CS-21,CS110,Cybersecurity,Viktoriia Bondarenko,63.57,2025-06-23
+viktoriia.savchuk227@example.com,Viktoriia Savchuk,IPZ-22,CS104,Operating Systems,Roman Boyko,89.64,2024-10-21
+taras.polishchuk389@example.com,Taras Polishchuk,IPZ-22,CS109,Machine Learning,Kateryna Kozak,92.84,2024-09-17
+kateryna.koval264@example.com,Kateryna Koval,KN-22,CS103,Computer Networks,Taras Melnyk,72.44,2023-11-07
+iryna.savchuk260@example.com,Iryna Savchuk,KN-22,CS107,Cloud Computing,Nazar Polishchuk,91.22,2024-01-17
+iryna.polishchuk269@example.com,Iryna Polishchuk,SE-21,CS110,Cybersecurity,Viktoriia Bondarenko,66.95,2023-09-30
+iryna.kozak103@example.com,Iryna Kozak,IPZ-22,CS101,Algorithms,Oleh Koval,61.32,2024-05-13
+sofiia.savchuk26@example.com,Sofiia Savchuk,KN-22,CS106,Web Development,Anastasiia Lytvyn,70.96,2024-03-22
+taras.bondarenko238@example.com,Taras Bondarenko,CS-21,CS109,Machine Learning,Kateryna Kozak,85.42,2024-10-11
+olena.kozak64@example.com,Olena Kozak,SE-22,CS101,Algorithms,Oleh Koval,74.9,2024-05-05
+anastasiia.kravets305@example.com,Anastasiia Kravets,CS-22,CS108,Data Structures,Olena Mazur,98.42,2024-02-29
+solomiia.koval243@example.com,Solomiia Koval,IPZ-21,CS110,Cybersecurity,Viktoriia Bondarenko,73.99,2025-03-18
+ivan.bondarenko84@example.com,Ivan Bondarenko,CS-21,CS105,Software Engineering,Marta Kravets,71.4,2023-12-02
+andrii.mazur198@example.com,Andrii Mazur,KN-21,CS101,Algorithms,Oleh Koval,94.15,2024-02-14
+anastasiia.mazur400@example.com,Anastasiia Mazur,CS-21,CS104,Operating Systems,Roman Boyko,85.9,2024-04-14
+marta.polishchuk347@example.com,Marta Polishchuk,KN-21,CS104,Operating Systems,Roman Boyko,86.06,2024-06-02
+olena.kozak263@example.com,Olena Kozak,KN-22,CS101,Algorithms,Oleh Koval,60.36,2025-07-30
+taras.kozak68@example.com,Taras Kozak,SE-21,CS103,Computer Networks,Taras Melnyk,92.03,2025-05-08
+oleh.shevchenko115@example.com,Oleh Shevchenko,KN-21,CS105,Software Engineering,Marta Kravets,92.2,2025-05-15
+solomiia.mazur157@example.com,Solomiia Mazur,IPZ-22,CS105,Software Engineering,Marta Kravets,95.82,2024-11-07
+kateryna.boyko179@example.com,Kateryna Boyko,IPZ-21,CS108,Data Structures,Olena Mazur,68.73,2024-05-16
+roman.bondarenko155@example.com,Roman Bondarenko,KN-21,CS109,Machine Learning,Kateryna Kozak,75.89,2025-05-31
+ivan.kozak53@example.com,Ivan Kozak,SE-22,CS101,Algorithms,Oleh Koval,99.98,2025-02-05
+sofiia.shevchenko192@example.com,Sofiia Shevchenko,SE-21,CS109,Machine Learning,Kateryna Kozak,83.75,2025-06-24
+ivan.bondarenko145@example.com,Ivan Bondarenko,SE-21,CS105,Software Engineering,Marta Kravets,64.32,2025-08-01
+kateryna.mazur33@example.com,Kateryna Mazur,SE-21,CS106,Web Development,Anastasiia Lytvyn,85.62,2024-06-10
+taras.polishchuk142@example.com,Taras Polishchuk,CS-21,CS105,Software Engineering,Marta Kravets,88.44,2025-07-03
+maksym.kravets334@example.com,Maksym Kravets,CS-22,CS105,Software Engineering,Marta Kravets,66.0,2024-03-11
+oleh.polishchuk392@example.com,Oleh Polishchuk,CS-21,CS104,Operating Systems,Roman Boyko,92.22,2023-10-29
+oleh.shevchenko308@example.com,Oleh Shevchenko,SE-22,CS107,Cloud Computing,Nazar Polishchuk,72.78,2025-07-08
+sofiia.koval72@example.com,Sofiia Koval,KN-22,CS101,Algorithms,Oleh Koval,79.89,2025-07-03
+nazar.kozak152@example.com,Nazar Kozak,IPZ-22,CS105,Software Engineering,Marta Kravets,76.18,2024-11-02
+andrii.savchuk378@example.com,Andrii Savchuk,CS-22,CS101,Algorithms,Oleh Koval,88.32,2025-04-20
+iryna.lytvyn293@example.com,Iryna Lytvyn,IPZ-21,CS104,Operating Systems,Roman Boyko,89.06,2024-08-17
+taras.koval114@example.com,Taras Koval,KN-21,CS109,Machine Learning,Kateryna Kozak,91.4,2025-06-15
+olena.kozak344@example.com,Olena Kozak,KN-21,CS106,Web Development,Anastasiia Lytvyn,72.01,2025-02-01
+oleh.lytvyn88@example.com,Oleh Lytvyn,IPZ-22,CS109,Machine Learning,Kateryna Kozak,71.75,2024-03-04
+iryna.polishchuk242@example.com,Iryna Polishchuk,KN-21,CS103,Computer Networks,Taras Melnyk,89.01,2024-05-22
+yurii.lytvyn287@example.com,Yurii Lytvyn,CS-22,CS103,Computer Networks,Taras Melnyk,95.98,2025-07-28
+olena.kravets336@example.com,Olena Kravets,CS-21,CS102,Databases,Iryna Hnatiuk,74.21,2024-04-15
+ivan.mazur382@example.com,Ivan Mazur,IPZ-21,CS105,Software Engineering,Marta Kravets,91.52,2024-11-04
+roman.tkachenko170@example.com,Roman Tkachenko,SE-22,CS106,Web Development,Anastasiia Lytvyn,83.42,2024-05-24
+taras.bondarenko238@example.com,Taras Bondarenko,CS-21,CS102,Databases,Iryna Hnatiuk,62.15,2024-12-25
+oleh.tkachenko325@example.com,Oleh Tkachenko,CS-22,CS110,Cybersecurity,Viktoriia Bondarenko,97.77,2025-04-17
+kateryna.mazur37@example.com,Kateryna Mazur,IPZ-22,CS108,Data Structures,Olena Mazur,80.02,2024-03-18
+kateryna.melnyk349@example.com,Kateryna Melnyk,KN-22,CS107,Cloud Computing,Nazar Polishchuk,71.93,2025-02-24
+olena.koval28@example.com,Olena Koval,KN-22,CS103,Computer Networks,Taras Melnyk,99.69,2024-01-19
+yurii.koval176@example.com,Yurii Koval,SE-21,CS107,Cloud Computing,Nazar Polishchuk,95.71,2025-04-06
+sofiia.koval235@example.com,Sofiia Koval,KN-21,CS103,Computer Networks,Taras Melnyk,94.5,2024-07-20
+olena.bondarenko93@example.com,Olena Bondarenko,CS-22,CS102,Databases,Iryna Hnatiuk,73.31,2025-01-12
+roman.mazur91@example.com,Roman Mazur,IPZ-21,CS106,Web Development,Anastasiia Lytvyn,62.32,2025-06-11
+marta.polishchuk232@example.com,Marta Polishchuk,SE-22,CS105,Software Engineering,Marta Kravets,90.45,2024-04-02
+solomiia.lytvyn87@example.com,Solomiia Lytvyn,KN-21,CS110,Cybersecurity,Viktoriia Bondarenko,79.58,2024-02-10
+taras.kravets391@example.com,Taras Kravets,KN-22,CS102,Databases,Iryna Hnatiuk,84.58,2024-01-11
+oleh.tkachenko325@example.com,Oleh Tkachenko,CS-22,CS107,Cloud Computing,Nazar Polishchuk,77.16,2024-10-18
+viktoriia.shevchenko245@example.com,Viktoriia Shevchenko,KN-21,CS107,Cloud Computing,Nazar Polishchuk,61.51,2023-09-05
+iryna.kozak103@example.com,Iryna Kozak,IPZ-22,CS106,Web Development,Anastasiia Lytvyn,95.68,2023-09-15
+oleh.melnyk388@example.com,Oleh Melnyk,SE-21,CS109,Machine Learning,Kateryna Kozak,60.72,2024-03-14
+taras.kozak3@example.com,Taras Kozak,IPZ-22,CS104,Operating Systems,Roman Boyko,87.74,2024-04-19
+kateryna.shevchenko177@example.com,Kateryna Shevchenko,SE-22,CS105,Software Engineering,Marta Kravets,64.11,2024-01-11
+maksym.melnyk258@example.com,Maksym Melnyk,IPZ-21,CS110,Cybersecurity,Viktoriia Bondarenko,66.68,2024-07-10
+roman.melnyk24@example.com,Roman Melnyk,SE-22,CS105,Software Engineering,Marta Kravets,78.24,2024-06-24
+iryna.mazur267@example.com,Iryna Mazur,CS-21,CS110,Cybersecurity,Viktoriia Bondarenko,73.51,2025-02-18
+solomiia.tkachenko352@example.com,Solomiia Tkachenko,CS-22,CS103,Computer Networks,Taras Melnyk,99.85,2024-08-16
+kateryna.mazur251@example.com,Kateryna Mazur,KN-22,CS106,Web Development,Anastasiia Lytvyn,66.6,2024-03-11
+taras.polishchuk207@example.com,Taras Polishchuk,CS-21,CS101,Algorithms,Oleh Koval,68.97,2024-04-21
+taras.kozak68@example.com,Taras Kozak,SE-21,CS104,Operating Systems,Roman Boyko,83.59,2023-09-23
+solomiia.lytvyn87@example.com,Solomiia Lytvyn,KN-21,CS102,Databases,Iryna Hnatiuk,88.44,2024-09-10
+viktoriia.kozak20@example.com,Viktoriia Kozak,CS-22,CS107,Cloud Computing,Nazar Polishchuk,70.23,2025-06-17
+roman.kozak274@example.com,Roman Kozak,IPZ-21,CS110,Cybersecurity,Viktoriia Bondarenko,83.76,2023-10-20
+anastasiia.tkachenko25@example.com,Anastasiia Tkachenko,KN-22,CS102,Databases,Iryna Hnatiuk,93.44,2025-07-01
+anastasiia.tkachenko25@example.com,Anastasiia Tkachenko,KN-22,CS102,Databases,Iryna Hnatiuk,77.77,2024-10-31
+olena.kozak64@example.com,Olena Kozak,SE-22,CS109,Machine Learning,Kateryna Kozak,78.98,2024-05-16
+kateryna.kravets79@example.com,Kateryna Kravets,SE-22,CS104,Operating Systems,Roman Boyko,60.37,2025-06-07
+olena.shevchenko216@example.com,Olena Shevchenko,KN-22,CS102,Databases,Iryna Hnatiuk,80.81,2025-07-10
+oleh.mazur319@example.com,Oleh Mazur,IPZ-22,CS110,Cybersecurity,Viktoriia Bondarenko,76.75,2024-01-19
+nazar.tkachenko54@example.com,Nazar Tkachenko,SE-21,CS109,Machine Learning,Kateryna Kozak,64.71,2025-05-25
+maksym.shevchenko59@example.com,Maksym Shevchenko,IPZ-21,CS102,Databases,Iryna Hnatiuk,67.95,2025-01-22
+iryna.kozak103@example.com,Iryna Kozak,IPZ-22,CS105,Software Engineering,Marta Kravets,98.92,2025-02-17
+kateryna.kravets184@example.com,Kateryna Kravets,IPZ-21,CS107,Cloud Computing,Nazar Polishchuk,66.41,2024-06-29
+nazar.shevchenko281@example.com,Nazar Shevchenko,SE-21,CS108,Data Structures,Olena Mazur,87.53,2024-03-31
+taras.koval247@example.com,Taras Koval,SE-21,CS106,Web Development,Anastasiia Lytvyn,60.11,2024-04-28
+olena.kozak344@example.com,Olena Kozak,KN-21,CS102,Databases,Iryna Hnatiuk,93.41,2023-12-23
+marta.bondarenko343@example.com,Marta Bondarenko,KN-22,CS108,Data Structures,Olena Mazur,97.98,2024-01-31
+anastasiia.mazur400@example.com,Anastasiia Mazur,CS-21,CS109,Machine Learning,Kateryna Kozak,88.94,2023-11-16
+maksym.lytvyn52@example.com,Maksym Lytvyn,KN-21,CS105,Software Engineering,Marta Kravets,69.25,2025-06-21
+nazar.kozak152@example.com,Nazar Kozak,IPZ-22,CS105,Software Engineering,Marta Kravets,62.0,2024-12-19
+roman.boyko90@example.com,Roman Boyko,IPZ-22,CS101,Algorithms,Oleh Koval,74.41,2024-06-24
+marta.polishchuk347@example.com,Marta Polishchuk,KN-21,CS106,Web Development,Anastasiia Lytvyn,89.54,2024-11-10
+marta.tkachenko49@example.com,Marta Tkachenko,KN-22,CS101,Algorithms,Oleh Koval,94.08,2023-09-10
+iryna.savchuk340@example.com,Iryna Savchuk,SE-21,CS103,Computer Networks,Taras Melnyk,74.3,2024-08-02
+solomiia.lytvyn225@example.com,Solomiia Lytvyn,KN-22,CS110,Cybersecurity,Viktoriia Bondarenko,95.14,2024-06-01
+solomiia.savchuk48@example.com,Solomiia Savchuk,IPZ-22,CS106,Web Development,Anastasiia Lytvyn,67.31,2024-08-16
+maksym.mazur206@example.com,Maksym Mazur,KN-22,CS107,Cloud Computing,Nazar Polishchuk,70.87,2024-12-11
+andrii.mazur198@example.com,Andrii Mazur,KN-21,CS108,Data Structures,Olena Mazur,85.95,2024-11-05
+sofiia.savchuk86@example.com,Sofiia Savchuk,IPZ-21,CS102,Databases,Iryna Hnatiuk,87.85,2024-01-14
+ivan.tkachenko31@example.com,Ivan Tkachenko,KN-21,CS103,Computer Networks,Taras Melnyk,76.64,2023-12-16
+solomiia.melnyk303@example.com,Solomiia Melnyk,SE-22,CS108,Data Structures,Olena Mazur,87.14,2025-04-05
+olena.bondarenko93@example.com,Olena Bondarenko,CS-22,CS110,Cybersecurity,Viktoriia Bondarenko,91.17,2024-09-23
+kateryna.kozak314@example.com,Kateryna Kozak,KN-21,CS101,Algorithms,Oleh Koval,95.2,2025-08-01
+roman.shevchenko373@example.com,Roman Shevchenko,IPZ-22,CS103,Computer Networks,Taras Melnyk,96.82,2025-01-07
+taras.bondarenko58@example.com,Taras Bondarenko,KN-22,CS107,Cloud Computing,Nazar Polishchuk,61.84,2024-11-25
+oleh.koval134@example.com,Oleh Koval,SE-21,CS106,Web Development,Anastasiia Lytvyn,88.18,2023-09-13
+maksym.tkachenko348@example.com,Maksym Tkachenko,CS-22,CS109,Machine Learning,Kateryna Kozak,88.95,2025-04-13
+oleh.shevchenko115@example.com,Oleh Shevchenko,KN-21,CS106,Web Development,Anastasiia Lytvyn,80.92,2025-02-13
+taras.kozak359@example.com,Taras Kozak,KN-22,CS110,Cybersecurity,Viktoriia Bondarenko,77.31,2023-12-07
+roman.shevchenko373@example.com,Roman Shevchenko,IPZ-22,CS104,Operating Systems,Roman Boyko,73.83,2025-01-06
+marta.polishchuk347@example.com,Marta Polishchuk,KN-21,CS107,Cloud Computing,Nazar Polishchuk,93.56,2024-01-31
+viktoriia.boyko286@example.com,Viktoriia Boyko,IPZ-21,CS110,Cybersecurity,Viktoriia Bondarenko,60.47,2023-10-26
+nazar.boyko81@example.com,Nazar Boyko,IPZ-21,CS109,Machine Learning,Kateryna Kozak,94.07,2024-12-24
+yurii.savchuk85@example.com,Yurii Savchuk,IPZ-21,CS102,Databases,Iryna Hnatiuk,72.83,2025-01-16
+roman.tkachenko170@example.com,Roman Tkachenko,SE-22,CS105,Software Engineering,Marta Kravets,80.28,2023-10-22
+solomiia.tkachenko282@example.com,Solomiia Tkachenko,SE-21,CS107,Cloud Computing,Nazar Polishchuk,92.68,2024-10-17
+sofiia.koval41@example.com,Sofiia Koval,CS-21,CS108,Data Structures,Olena Mazur,92.05,2024-11-28
+solomiia.lytvyn230@example.com,Solomiia Lytvyn,CS-22,CS102,Databases,Iryna Hnatiuk,77.88,2025-01-23
+andrii.koval61@example.com,Andrii Koval,IPZ-21,CS108,Data Structures,Olena Mazur,60.71,2025-07-01
+taras.polishchuk207@example.com,Taras Polishchuk,CS-21,CS107,Cloud Computing,Nazar Polishchuk,82.29,2023-10-07
+taras.savchuk1@example.com,Taras Savchuk,CS-21,CS102,Databases,Iryna Hnatiuk,98.53,2025-05-11
+roman.lytvyn327@example.com,Roman Lytvyn,SE-21,CS105,Software Engineering,Marta Kravets,82.49,2025-02-02
+olena.kravets336@example.com,Olena Kravets,CS-21,CS108,Data Structures,Olena Mazur,74.53,2024-08-15
+olena.koval28@example.com,Olena Koval,KN-22,CS104,Operating Systems,Roman Boyko,73.28,2024-12-09
+viktoriia.kozak393@example.com,Viktoriia Kozak,IPZ-21,CS110,Cybersecurity,Viktoriia Bondarenko,78.93,2025-05-07
+yurii.boyko337@example.com,Yurii Boyko,SE-22,CS106,Web Development,Anastasiia Lytvyn,64.56,2024-12-07
+taras.polishchuk389@example.com,Taras Polishchuk,IPZ-22,CS104,Operating Systems,Roman Boyko,73.65,2023-09-03
+oleh.tkachenko325@example.com,Oleh Tkachenko,CS-22,CS105,Software Engineering,Marta Kravets,80.88,2025-03-14
+solomiia.savchuk360@example.com,Solomiia Savchuk,CS-22,CS102,Databases,Iryna Hnatiuk,95.88,2023-10-17
+iryna.mazur253@example.com,Iryna Mazur,SE-21,CS103,Computer Networks,Taras Melnyk,64.28,2024-10-24
+andrii.polishchuk313@example.com,Andrii Polishchuk,KN-21,CS104,Operating Systems,Roman Boyko,64.83,2024-03-11
+marta.melnyk202@example.com,Marta Melnyk,IPZ-22,CS104,Operating Systems,Roman Boyko,92.98,2024-12-12
+maksym.lytvyn98@example.com,Maksym Lytvyn,KN-22,CS106,Web Development,Anastasiia Lytvyn,90.29,2023-12-20
+roman.melnyk24@example.com,Roman Melnyk,SE-22,CS110,Cybersecurity,Viktoriia Bondarenko,90.89,2024-01-05
+kateryna.polishchuk231@example.com,Kateryna Polishchuk,CS-22,CS108,Data Structures,Olena Mazur,83.57,2025-07-06
+kateryna.kravets259@example.com,Kateryna Kravets,SE-22,CS103,Computer Networks,Taras Melnyk,60.17,2025-01-23
+maksym.kozak377@example.com,Maksym Kozak,KN-22,CS101,Algorithms,Oleh Koval,97.41,2025-03-20
+ivan.koval300@example.com,Ivan Koval,CS-21,CS108,Data Structures,Olena Mazur,91.24,2025-02-02
+roman.mazur91@example.com,Roman Mazur,IPZ-21,CS110,Cybersecurity,Viktoriia Bondarenko,89.22,2024-02-25
+solomiia.bondarenko66@example.com,Solomiia Bondarenko,SE-22,CS102,Databases,Iryna Hnatiuk,86.3,2024-10-01
+sofiia.koval311@example.com,Sofiia Koval,SE-22,CS106,Web Development,Anastasiia Lytvyn,95.26,2025-01-29
+solomiia.kravets215@example.com,Solomiia Kravets,SE-21,CS110,Cybersecurity,Viktoriia Bondarenko,70.94,2024-05-12
+yurii.koval176@example.com,Yurii Koval,SE-21,CS105,Software Engineering,Marta Kravets,92.19,2024-12-07
+taras.savchuk71@example.com,Taras Savchuk,SE-21,CS107,Cloud Computing,Nazar Polishchuk,88.0,2025-05-09
+olena.melnyk384@example.com,Olena Melnyk,IPZ-22,CS109,Machine Learning,Kateryna Kozak,93.72,2024-07-03
+nazar.shevchenko281@example.com,Nazar Shevchenko,SE-21,CS106,Web Development,Anastasiia Lytvyn,85.3,2025-03-20
+iryna.kozak103@example.com,Iryna Kozak,IPZ-22,CS104,Operating Systems,Roman Boyko,88.58,2025-06-01
+solomiia.tkachenko352@example.com,Solomiia Tkachenko,CS-22,CS106,Web Development,Anastasiia Lytvyn,65.31,2025-07-20
+oleh.savchuk364@example.com,Oleh Savchuk,CS-21,CS103,Computer Networks,Taras Melnyk,81.7,2025-01-28
+roman.lytvyn327@example.com,Roman Lytvyn,SE-21,CS106,Web Development,Anastasiia Lytvyn,90.43,2023-12-28
+solomiia.kozak288@example.com,Solomiia Kozak,SE-22,CS108,Data Structures,Olena Mazur,82.83,2025-04-19
+solomiia.tkachenko342@example.com,Solomiia Tkachenko,KN-22,CS107,Cloud Computing,Nazar Polishchuk,89.91,2025-07-22
+roman.kozak274@example.com,Roman Kozak,IPZ-21,CS105,Software Engineering,Marta Kravets,92.33,2024-11-06
+viktoriia.koval268@example.com,Viktoriia Koval,SE-22,CS102,Databases,Iryna Hnatiuk,75.23,2023-09-26
+olena.koval28@example.com,Olena Koval,KN-22,CS101,Algorithms,Oleh Koval,70.68,2024-03-23
+iryna.boyko83@example.com,Iryna Boyko,SE-22,CS105,Software Engineering,Marta Kravets,70.02,2025-07-31
+roman.polishchuk32@example.com,Roman Polishchuk,CS-21,CS105,Software Engineering,Marta Kravets,90.14,2024-03-27
+oleh.kozak17@example.com,Oleh Kozak,KN-22,CS106,Web Development,Anastasiia Lytvyn,64.1,2024-12-07
+iryna.kravets346@example.com,Iryna Kravets,IPZ-21,CS109,Machine Learning,Kateryna Kozak,89.7,2024-04-17
+solomiia.kozak288@example.com,Solomiia Kozak,SE-22,CS107,Cloud Computing,Nazar Polishchuk,80.44,2024-05-01
+viktoriia.shevchenko357@example.com,Viktoriia Shevchenko,CS-21,CS105,Software Engineering,Marta Kravets,61.88,2025-07-12
+maksym.kozak196@example.com,Maksym Kozak,IPZ-21,CS107,Cloud Computing,Nazar Polishchuk,98.27,2024-10-31
+olena.melnyk351@example.com,Olena Melnyk,CS-21,CS106,Web Development,Anastasiia Lytvyn,62.15,2025-03-19
+yurii.bondarenko381@example.com,Yurii Bondarenko,CS-22,CS105,Software Engineering,Marta Kravets,84.82,2024-03-26
+anastasiia.mazur400@example.com,Anastasiia Mazur,CS-21,CS108,Data Structures,Olena Mazur,96.46,2024-04-18
+roman.kozak361@example.com,Roman Kozak,IPZ-22,CS106,Web Development,Anastasiia Lytvyn,81.86,2025-04-25
+anastasiia.boyko309@example.com,Anastasiia Boyko,KN-21,CS104,Operating Systems,Roman Boyko,71.77,2024-03-17
+roman.mazur91@example.com,Roman Mazur,IPZ-21,CS102,Databases,Iryna Hnatiuk,98.5,2024-03-10
+maksym.kozak377@example.com,Maksym Kozak,KN-22,CS109,Machine Learning,Kateryna Kozak,75.09,2024-01-01
+sofiia.melnyk220@example.com,Sofiia Melnyk,SE-22,CS105,Software Engineering,Marta Kravets,70.57,2025-03-23
+iryna.boyko83@example.com,Iryna Boyko,SE-22,CS110,Cybersecurity,Viktoriia Bondarenko,60.23,2024-05-19
+roman.shevchenko239@example.com,Roman Shevchenko,KN-21,CS103,Computer Networks,Taras Melnyk,66.15,2023-10-11
+viktoriia.mazur166@example.com,Viktoriia Mazur,SE-21,CS110,Cybersecurity,Viktoriia Bondarenko,90.95,2023-10-23
+roman.polishchuk321@example.com,Roman Polishchuk,IPZ-22,CS110,Cybersecurity,Viktoriia Bondarenko,72.05,2025-07-09
+kateryna.koval294@example.com,Kateryna Koval,KN-22,CS109,Machine Learning,Kateryna Kozak,62.92,2024-09-01
+kateryna.koval363@example.com,Kateryna Koval,KN-21,CS106,Web Development,Anastasiia Lytvyn,68.8,2025-02-20
+ivan.kozak95@example.com,Ivan Kozak,CS-21,CS109,Machine Learning,Kateryna Kozak,91.45,2023-11-09
+anastasiia.tkachenko82@example.com,Anastasiia Tkachenko,SE-22,CS107,Cloud Computing,Nazar Polishchuk,81.48,2025-03-10
+solomiia.savchuk48@example.com,Solomiia Savchuk,IPZ-22,CS106,Web Development,Anastasiia Lytvyn,95.34,2024-04-14
+iryna.savchuk340@example.com,Iryna Savchuk,SE-21,CS106,Web Development,Anastasiia Lytvyn,74.43,2024-08-05
+nazar.polishchuk112@example.com,Nazar Polishchuk,SE-22,CS110,Cybersecurity,Viktoriia Bondarenko,78.99,2025-02-25
+solomiia.kozak288@example.com,Solomiia Kozak,SE-22,CS101,Algorithms,Oleh Koval,86.76,2023-12-27
+roman.tkachenko229@example.com,Roman Tkachenko,CS-22,CS104,Operating Systems,Roman Boyko,84.55,2025-06-19
+oleh.mazur319@example.com,Oleh Mazur,IPZ-22,CS104,Operating Systems,Roman Boyko,87.3,2023-10-11
+viktoriia.kozak165@example.com,Viktoriia Kozak,CS-22,CS107,Cloud Computing,Nazar Polishchuk,75.44,2023-12-26
+olena.melnyk277@example.com,Olena Melnyk,SE-21,CS105,Software Engineering,Marta Kravets,96.45,2023-09-26
+kateryna.kozak395@example.com,Kateryna Kozak,IPZ-22,CS106,Web Development,Anastasiia Lytvyn,92.11,2025-02-08
+roman.tkachenko229@example.com,Roman Tkachenko,CS-22,CS108,Data Structures,Olena Mazur,71.86,2023-10-15
+maksym.kravets334@example.com,Maksym Kravets,CS-22,CS104,Operating Systems,Roman Boyko,80.56,2024-07-25
+oleh.bondarenko50@example.com,Oleh Bondarenko,IPZ-22,CS103,Computer Networks,Taras Melnyk,81.33,2025-03-04
+roman.polishchuk321@example.com,Roman Polishchuk,IPZ-22,CS102,Databases,Iryna Hnatiuk,86.81,2024-04-03
+maksym.koval397@example.com,Maksym Koval,CS-22,CS104,Operating Systems,Roman Boyko,93.43,2024-11-08
+olena.tkachenko106@example.com,Olena Tkachenko,KN-22,CS109,Machine Learning,Kateryna Kozak,85.86,2024-11-19
+kateryna.mazur37@example.com,Kateryna Mazur,IPZ-22,CS103,Computer Networks,Taras Melnyk,78.37,2023-09-25
+roman.tkachenko170@example.com,Roman Tkachenko,SE-22,CS101,Algorithms,Oleh Koval,62.93,2023-11-29
+maksym.boyko92@example.com,Maksym Boyko,CS-22,CS105,Software Engineering,Marta Kravets,62.82,2025-03-25
+iryna.shevchenko117@example.com,Iryna Shevchenko,IPZ-21,CS105,Software Engineering,Marta Kravets,75.52,2024-10-22
+viktoriia.melnyk323@example.com,Viktoriia Melnyk,CS-21,CS107,Cloud Computing,Nazar Polishchuk,72.66,2024-11-17
+taras.mazur200@example.com,Taras Mazur,KN-22,CS102,Databases,Iryna Hnatiuk,60.24,2025-03-01
+kateryna.kozak369@example.com,Kateryna Kozak,IPZ-22,CS110,Cybersecurity,Viktoriia Bondarenko,90.24,2023-11-04
+ivan.koval300@example.com,Ivan Koval,CS-21,CS101,Algorithms,Oleh Koval,74.31,2023-11-14
+maksym.melnyk258@example.com,Maksym Melnyk,IPZ-21,CS102,Databases,Iryna Hnatiuk,91.48,2024-06-23
+roman.bondarenko155@example.com,Roman Bondarenko,KN-21,CS110,Cybersecurity,Viktoriia Bondarenko,71.26,2023-11-28
+solomiia.lytvyn225@example.com,Solomiia Lytvyn,KN-22,CS107,Cloud Computing,Nazar Polishchuk,92.88,2024-10-09
+yurii.polishchuk16@example.com,Yurii Polishchuk,IPZ-22,CS108,Data Structures,Olena Mazur,81.34,2024-02-08
+viktoriia.polishchuk70@example.com,Viktoriia Polishchuk,IPZ-21,CS107,Cloud Computing,Nazar Polishchuk,71.8,2025-03-12
+oleh.tkachenko325@example.com,Oleh Tkachenko,CS-22,CS103,Computer Networks,Taras Melnyk,87.09,2024-07-02
+marta.lytvyn374@example.com,Marta Lytvyn,CS-22,CS106,Web Development,Anastasiia Lytvyn,82.14,2023-09-12
+taras.boyko285@example.com,Taras Boyko,IPZ-21,CS103,Computer Networks,Taras Melnyk,61.67,2024-01-05
+kateryna.koval294@example.com,Kateryna Koval,KN-22,CS110,Cybersecurity,Viktoriia Bondarenko,81.49,2024-10-08
+nazar.lytvyn44@example.com,Nazar Lytvyn,IPZ-22,CS105,Software Engineering,Marta Kravets,89.93,2024-04-03
+yurii.kravets372@example.com,Yurii Kravets,SE-22,CS106,Web Development,Anastasiia Lytvyn,76.51,2024-04-04
+roman.kravets331@example.com,Roman Kravets,CS-21,CS109,Machine Learning,Kateryna Kozak,66.44,2024-01-24
+taras.koval114@example.com,Taras Koval,KN-21,CS110,Cybersecurity,Viktoriia Bondarenko,67.77,2024-05-16
+olena.bondarenko93@example.com,Olena Bondarenko,CS-22,CS110,Cybersecurity,Viktoriia Bondarenko,94.06,2023-10-26
+solomiia.tkachenko282@example.com,Solomiia Tkachenko,SE-21,CS108,Data Structures,Olena Mazur,81.99,2025-06-22
+kateryna.mazur149@example.com,Kateryna Mazur,CS-22,CS102,Databases,Iryna Hnatiuk,63.93,2024-05-14
+yurii.kravets372@example.com,Yurii Kravets,SE-22,CS110,Cybersecurity,Viktoriia Bondarenko,98.06,2025-01-11
+solomiia.bondarenko183@example.com,Solomiia Bondarenko,CS-21,CS103,Computer Networks,Taras Melnyk,86.22,2025-07-19
+maksym.lytvyn52@example.com,Maksym Lytvyn,KN-21,CS105,Software Engineering,Marta Kravets,62.79,2025-05-27
+maksym.bondarenko100@example.com,Maksym Bondarenko,CS-22,CS106,Web Development,Anastasiia Lytvyn,78.03,2025-01-10
+sofiia.mazur316@example.com,Sofiia Mazur,SE-21,CS105,Software Engineering,Marta Kravets,66.1,2025-04-21
+solomiia.koval291@example.com,Solomiia Koval,IPZ-21,CS106,Web Development,Anastasiia Lytvyn,98.35,2024-07-20
+solomiia.lytvyn87@example.com,Solomiia Lytvyn,KN-21,CS101,Algorithms,Oleh Koval,69.85,2024-07-17
+taras.koval114@example.com,Taras Koval,KN-21,CS107,Cloud Computing,Nazar Polishchuk,93.6,2024-06-10
+marta.boyko69@example.com,Marta Boyko,SE-21,CS106,Web Development,Anastasiia Lytvyn,78.51,2025-01-04
+kateryna.kravets184@example.com,Kateryna Kravets,IPZ-21,CS105,Software Engineering,Marta Kravets,82.07,2025-01-11
+roman.boyko90@example.com,Roman Boyko,IPZ-22,CS110,Cybersecurity,Viktoriia Bondarenko,93.67,2023-11-23
+sofiia.koval72@example.com,Sofiia Koval,KN-22,CS109,Machine Learning,Kateryna Kozak,70.53,2024-03-20
+roman.polishchuk321@example.com,Roman Polishchuk,IPZ-22,CS102,Databases,Iryna Hnatiuk,95.68,2023-11-17
+iryna.savchuk260@example.com,Iryna Savchuk,KN-22,CS101,Algorithms,Oleh Koval,83.16,2025-04-18
+oleh.kravets394@example.com,Oleh Kravets,SE-21,CS110,Cybersecurity,Viktoriia Bondarenko,96.25,2024-04-05
+oleh.kravets283@example.com,Oleh Kravets,IPZ-22,CS105,Software Engineering,Marta Kravets,95.76,2025-03-10
+olena.melnyk277@example.com,Olena Melnyk,SE-21,CS108,Data Structures,Olena Mazur,91.01,2025-07-01
+maksym.kozak188@example.com,Maksym Kozak,SE-21,CS107,Cloud Computing,Nazar Polishchuk,95.66,2024-04-16
+andrii.tkachenko302@example.com,Andrii Tkachenko,CS-21,CS105,Software Engineering,Marta Kravets,78.59,2024-01-16
+viktoriia.koval262@example.com,Viktoriia Koval,KN-22,CS102,Databases,Iryna Hnatiuk,74.55,2024-10-11
+andrii.lytvyn6@example.com,Andrii Lytvyn,KN-22,CS104,Operating Systems,Roman Boyko,87.37,2025-05-21
+oleh.melnyk388@example.com,Oleh Melnyk,SE-21,CS109,Machine Learning,Kateryna Kozak,77.85,2024-01-22
+maksym.boyko92@example.com,Maksym Boyko,CS-22,CS110,Cybersecurity,Viktoriia Bondarenko,86.38,2025-04-02
+olena.kravets75@example.com,Olena Kravets,KN-22,CS108,Data Structures,Olena Mazur,61.62,2024-09-02
+solomiia.kravets390@example.com,Solomiia Kravets,CS-22,CS108,Data Structures,Olena Mazur,62.51,2024-04-25
+oleh.tkachenko190@example.com,Oleh Tkachenko,SE-21,CS104,Operating Systems,Roman Boyko,86.74,2023-10-14
+maksym.savchuk266@example.com,Maksym Savchuk,KN-21,CS106,Web Development,Anastasiia Lytvyn,78.79,2024-10-02
+olena.tkachenko233@example.com,Olena Tkachenko,CS-21,CS101,Algorithms,Oleh Koval,99.22,2023-10-11
+viktoriia.mazur166@example.com,Viktoriia Mazur,SE-21,CS102,Databases,Iryna Hnatiuk,85.34,2025-02-15
+sofiia.mazur141@example.com,Sofiia Mazur,CS-22,CS105,Software Engineering,Marta Kravets,81.77,2025-04-15
+roman.boyko90@example.com,Roman Boyko,IPZ-22,CS107,Cloud Computing,Nazar Polishchuk,75.14,2025-07-01
+kateryna.shevchenko301@example.com,Kateryna Shevchenko,CS-21,CS102,Databases,Iryna Hnatiuk,70.06,2025-02-11
+oleh.shevchenko115@example.com,Oleh Shevchenko,KN-21,CS109,Machine Learning,Kateryna Kozak,74.12,2024-10-20
+kateryna.shevchenko177@example.com,Kateryna Shevchenko,SE-22,CS108,Data Structures,Olena Mazur,95.49,2025-01-06
+kateryna.savchuk4@example.com,Kateryna Savchuk,IPZ-21,CS109,Machine Learning,Kateryna Kozak,77.6,2024-01-21
+marta.bondarenko118@example.com,Marta Bondarenko,KN-22,CS102,Databases,Iryna Hnatiuk,85.74,2025-02-08
+maksym.kozak109@example.com,Maksym Kozak,SE-21,CS103,Computer Networks,Taras Melnyk,66.29,2024-03-10
+anastasiia.boyko309@example.com,Anastasiia Boyko,KN-21,CS102,Databases,Iryna Hnatiuk,69.21,2025-07-08
+roman.tkachenko170@example.com,Roman Tkachenko,SE-22,CS102,Databases,Iryna Hnatiuk,87.01,2025-01-06
+oleh.tkachenko246@example.com,Oleh Tkachenko,SE-22,CS104,Operating Systems,Roman Boyko,66.45,2025-04-27
+andrii.boyko211@example.com,Andrii Boyko,SE-22,CS101,Algorithms,Oleh Koval,61.73,2024-05-07
+kateryna.koval294@example.com,Kateryna Koval,KN-22,CS110,Cybersecurity,Viktoriia Bondarenko,65.39,2024-02-12
+olena.kozak263@example.com,Olena Kozak,KN-22,CS101,Algorithms,Oleh Koval,65.87,2025-04-09
+sofiia.savchuk86@example.com,Sofiia Savchuk,IPZ-21,CS105,Software Engineering,Marta Kravets,80.67,2024-03-03
+taras.mazur208@example.com,Taras Mazur,IPZ-21,CS110,Cybersecurity,Viktoriia Bondarenko,85.5,2025-03-31
+kateryna.kozak369@example.com,Kateryna Kozak,IPZ-22,CS105,Software Engineering,Marta Kravets,68.66,2023-11-27
+sofiia.koval311@example.com,Sofiia Koval,SE-22,CS108,Data Structures,Olena Mazur,66.82,2025-01-06
+andrii.boyko211@example.com,Andrii Boyko,SE-22,CS110,Cybersecurity,Viktoriia Bondarenko,91.78,2024-01-25
+viktoriia.kozak393@example.com,Viktoriia Kozak,IPZ-21,CS103,Computer Networks,Taras Melnyk,86.39,2025-05-31
+kateryna.mazur136@example.com,Kateryna Mazur,IPZ-22,CS103,Computer Networks,Taras Melnyk,96.89,2024-08-16
+yurii.polishchuk306@example.com,Yurii Polishchuk,KN-22,CS110,Cybersecurity,Viktoriia Bondarenko,69.19,2023-11-10
+andrii.mazur198@example.com,Andrii Mazur,KN-21,CS103,Computer Networks,Taras Melnyk,60.66,2023-12-21
+viktoriia.koval268@example.com,Viktoriia Koval,SE-22,CS109,Machine Learning,Kateryna Kozak,76.79,2025-08-01
+oleh.kozak77@example.com,Oleh Kozak,IPZ-21,CS110,Cybersecurity,Viktoriia Bondarenko,67.1,2023-12-08
+maksym.kravets315@example.com,Maksym Kravets,CS-21,CS110,Cybersecurity,Viktoriia Bondarenko,95.11,2023-10-10
+olena.savchuk273@example.com,Olena Savchuk,IPZ-22,CS109,Machine Learning,Kateryna Kozak,63.73,2023-12-30
+taras.bondarenko338@example.com,Taras Bondarenko,SE-21,CS103,Computer Networks,Taras Melnyk,81.57,2025-05-10
+taras.savchuk1@example.com,Taras Savchuk,CS-21,CS107,Cloud Computing,Nazar Polishchuk,76.83,2025-02-16
+maksym.mazur23@example.com,Maksym Mazur,KN-21,CS109,Machine Learning,Kateryna Kozak,69.18,2024-11-13
+taras.koval247@example.com,Taras Koval,SE-21,CS107,Cloud Computing,Nazar Polishchuk,83.56,2024-08-24
+maksym.lytvyn380@example.com,Maksym Lytvyn,KN-22,CS110,Cybersecurity,Viktoriia Bondarenko,77.02,2023-12-10
+anastasiia.kozak131@example.com,Anastasiia Kozak,CS-22,CS108,Data Structures,Olena Mazur,96.4,2024-04-26
+andrii.polishchuk43@example.com,Andrii Polishchuk,CS-21,CS105,Software Engineering,Marta Kravets,95.07,2025-05-05
+marta.koval210@example.com,Marta Koval,CS-22,CS105,Software Engineering,Marta Kravets,60.22,2024-03-12
+yurii.bondarenko381@example.com,Yurii Bondarenko,CS-22,CS101,Algorithms,Oleh Koval,80.9,2025-04-14
+iryna.mazur267@example.com,Iryna Mazur,CS-21,CS101,Algorithms,Oleh Koval,86.18,2024-09-19
+taras.kravets353@example.com,Taras Kravets,IPZ-22,CS106,Web Development,Anastasiia Lytvyn,74.49,2024-10-23
+yurii.boyko80@example.com,Yurii Boyko,IPZ-21,CS107,Cloud Computing,Nazar Polishchuk,83.41,2025-06-29
+oleh.koval134@example.com,Oleh Koval,SE-21,CS109,Machine Learning,Kateryna Kozak,82.59,2024-11-07
+kateryna.kozak314@example.com,Kateryna Kozak,KN-21,CS105,Software Engineering,Marta Kravets,75.9,2025-07-28
+taras.polishchuk105@example.com,Taras Polishchuk,KN-21,CS107,Cloud Computing,Nazar Polishchuk,91.35,2025-03-19
+solomiia.koval248@example.com,Solomiia Koval,IPZ-21,CS103,Computer Networks,Taras Melnyk,82.36,2024-09-14
+solomiia.koval248@example.com,Solomiia Koval,IPZ-21,CS105,Software Engineering,Marta Kravets,83.11,2024-07-11
+maksym.koval397@example.com,Maksym Koval,CS-22,CS107,Cloud Computing,Nazar Polishchuk,94.2,2024-01-20
+taras.bondarenko338@example.com,Taras Bondarenko,SE-21,CS102,Databases,Iryna Hnatiuk,77.86,2024-04-23
+taras.kozak359@example.com,Taras Kozak,KN-22,CS103,Computer Networks,Taras Melnyk,68.58,2023-12-12
+maksym.mazur206@example.com,Maksym Mazur,KN-22,CS106,Web Development,Anastasiia Lytvyn,84.56,2025-03-17
+olena.melnyk351@example.com,Olena Melnyk,CS-21,CS101,Algorithms,Oleh Koval,75.56,2024-02-12
+marta.boyko326@example.com,Marta Boyko,KN-21,CS101,Algorithms,Oleh Koval,92.93,2023-12-03
+iryna.polishchuk242@example.com,Iryna Polishchuk,KN-21,CS110,Cybersecurity,Viktoriia Bondarenko,63.53,2024-11-19
+marta.polishchuk135@example.com,Marta Polishchuk,CS-22,CS104,Operating Systems,Roman Boyko,63.2,2024-09-14
+viktoriia.kozak20@example.com,Viktoriia Kozak,CS-22,CS107,Cloud Computing,Nazar Polishchuk,84.56,2024-10-15
+iryna.mazur267@example.com,Iryna Mazur,CS-21,CS105,Software Engineering,Marta Kravets,62.3,2025-05-04
+maksym.koval397@example.com,Maksym Koval,CS-22,CS103,Computer Networks,Taras Melnyk,79.77,2025-06-17
+andrii.lytvyn6@example.com,Andrii Lytvyn,KN-22,CS104,Operating Systems,Roman Boyko,97.23,2025-07-04
+maksym.savchuk266@example.com,Maksym Savchuk,KN-21,CS105,Software Engineering,Marta Kravets,61.34,2024-03-18
+anastasiia.bondarenko307@example.com,Anastasiia Bondarenko,SE-21,CS109,Machine Learning,Kateryna Kozak,87.94,2025-02-10
+maksym.kravets315@example.com,Maksym Kravets,CS-21,CS103,Computer Networks,Taras Melnyk,61.44,2025-07-22
+kateryna.kozak123@example.com,Kateryna Kozak,KN-22,CS101,Algorithms,Oleh Koval,63.47,2024-02-09
+taras.polishchuk142@example.com,Taras Polishchuk,CS-21,CS107,Cloud Computing,Nazar Polishchuk,86.79,2024-08-27
+taras.mazur208@example.com,Taras Mazur,IPZ-21,CS110,Cybersecurity,Viktoriia Bondarenko,80.71,2024-03-24
+andrii.savchuk378@example.com,Andrii Savchuk,CS-22,CS102,Databases,Iryna Hnatiuk,81.98,2023-12-02
+yurii.kravets372@example.com,Yurii Kravets,SE-22,CS109,Machine Learning,Kateryna Kozak,73.92,2025-04-19
+taras.polishchuk142@example.com,Taras Polishchuk,CS-21,CS104,Operating Systems,Roman Boyko,98.52,2025-05-13
+olena.tkachenko233@example.com,Olena Tkachenko,CS-21,CS107,Cloud Computing,Nazar Polishchuk,60.19,2025-04-11
+roman.boyko90@example.com,Roman Boyko,IPZ-22,CS107,Cloud Computing,Nazar Polishchuk,64.26,2025-01-31
+anastasiia.boyko38@example.com,Anastasiia Boyko,SE-22,CS109,Machine Learning,Kateryna Kozak,73.6,2024-06-28
+roman.mazur60@example.com,Roman Mazur,KN-22,CS109,Machine Learning,Kateryna Kozak,95.04,2024-05-21
+taras.kravets295@example.com,Taras Kravets,IPZ-22,CS105,Software Engineering,Marta Kravets,98.64,2024-11-27
+oleh.bondarenko289@example.com,Oleh Bondarenko,CS-21,CS108,Data Structures,Olena Mazur,90.3,2024-05-07
+ivan.koval398@example.com,Ivan Koval,KN-21,CS108,Data Structures,Olena Mazur,78.43,2025-07-29
+kateryna.shevchenko301@example.com,Kateryna Shevchenko,CS-21,CS101,Algorithms,Oleh Koval,64.65,2025-01-06
+solomiia.koval35@example.com,Solomiia Koval,IPZ-21,CS107,Cloud Computing,Nazar Polishchuk,91.55,2025-06-10
+kateryna.lytvyn113@example.com,Kateryna Lytvyn,IPZ-21,CS104,Operating Systems,Roman Boyko,76.5,2024-07-20
+marta.tkachenko181@example.com,Marta Tkachenko,SE-21,CS109,Machine Learning,Kateryna Kozak,60.39,2025-03-02
+marta.polishchuk135@example.com,Marta Polishchuk,CS-22,CS104,Operating Systems,Roman Boyko,63.72,2024-06-21
+taras.kozak345@example.com,Taras Kozak,IPZ-21,CS106,Web Development,Anastasiia Lytvyn,82.18,2023-11-17
+maksym.boyko92@example.com,Maksym Boyko,CS-22,CS108,Data Structures,Olena Mazur,74.14,2024-07-18
+kateryna.koval294@example.com,Kateryna Koval,KN-22,CS105,Software Engineering,Marta Kravets,97.88,2024-03-06
+ivan.lytvyn350@example.com,Ivan Lytvyn,CS-22,CS104,Operating Systems,Roman Boyko,89.48,2025-01-23
+nazar.boyko121@example.com,Nazar Boyko,IPZ-21,CS104,Operating Systems,Roman Boyko,68.27,2024-05-29
+ivan.tkachenko104@example.com,Ivan Tkachenko,IPZ-22,CS104,Operating Systems,Roman Boyko,74.24,2025-05-26
+olena.mazur399@example.com,Olena Mazur,CS-22,CS102,Databases,Iryna Hnatiuk,96.81,2024-01-01
+marta.polishchuk347@example.com,Marta Polishchuk,KN-21,CS108,Data Structures,Olena Mazur,60.26,2025-05-21
+solomiia.koval278@example.com,Solomiia Koval,SE-22,CS101,Algorithms,Oleh Koval,74.85,2025-01-06
+nazar.polishchuk162@example.com,Nazar Polishchuk,SE-22,CS108,Data Structures,Olena Mazur,94.75,2025-04-11
+anastasiia.kravets252@example.com,Anastasiia Kravets,SE-22,CS103,Computer Networks,Taras Melnyk,71.21,2025-02-05
+taras.koval114@example.com,Taras Koval,KN-21,CS110,Cybersecurity,Viktoriia Bondarenko,62.17,2024-01-10
+maksym.tkachenko217@example.com,Maksym Tkachenko,SE-22,CS108,Data Structures,Olena Mazur,61.3,2025-03-07
+kateryna.savchuk178@example.com,Kateryna Savchuk,KN-22,CS107,Cloud Computing,Nazar Polishchuk,78.29,2024-02-26
+roman.koval62@example.com,Roman Koval,IPZ-21,CS109,Machine Learning,Kateryna Kozak,72.63,2024-12-15
+maksym.bondarenko5@example.com,Maksym Bondarenko,KN-22,CS101,Algorithms,Oleh Koval,68.43,2025-07-22
+solomiia.bondarenko298@example.com,Solomiia Bondarenko,SE-22,CS102,Databases,Iryna Hnatiuk,74.46,2024-07-30
+nazar.mazur133@example.com,Nazar Mazur,CS-21,CS103,Computer Networks,Taras Melnyk,70.51,2025-03-15
+olena.savchuk138@example.com,Olena Savchuk,SE-21,CS108,Data Structures,Olena Mazur,73.72,2025-05-20
+ivan.kozak95@example.com,Ivan Kozak,CS-21,CS108,Data Structures,Olena Mazur,68.42,2024-11-08
+taras.kozak359@example.com,Taras Kozak,KN-22,CS106,Web Development,Anastasiia Lytvyn,94.17,2024-09-08
+sofiia.boyko144@example.com,Sofiia Boyko,CS-21,CS108,Data Structures,Olena Mazur,82.86,2024-03-03
+taras.kravets295@example.com,Taras Kravets,IPZ-22,CS104,Operating Systems,Roman Boyko,88.83,2023-12-12
+nazar.boyko121@example.com,Nazar Boyko,IPZ-21,CS109,Machine Learning,Kateryna Kozak,94.25,2024-11-16
+iryna.melnyk101@example.com,Iryna Melnyk,SE-22,CS103,Computer Networks,Taras Melnyk,78.92,2024-02-01
+maksym.bondarenko5@example.com,Maksym Bondarenko,KN-22,CS103,Computer Networks,Taras Melnyk,79.98,2024-11-05
+viktoriia.melnyk323@example.com,Viktoriia Melnyk,CS-21,CS109,Machine Learning,Kateryna Kozak,88.82,2025-02-28
+maksym.bondarenko250@example.com,Maksym Bondarenko,IPZ-22,CS105,Software Engineering,Marta Kravets,82.49,2024-05-14
+solomiia.koval291@example.com,Solomiia Koval,IPZ-21,CS101,Algorithms,Oleh Koval,63.96,2024-10-12
+ivan.bondarenko84@example.com,Ivan Bondarenko,CS-21,CS101,Algorithms,Oleh Koval,92.55,2024-04-08
+iryna.kravets244@example.com,Iryna Kravets,SE-22,CS102,Databases,Iryna Hnatiuk,89.78,2024-12-04
+oleh.koval134@example.com,Oleh Koval,SE-21,CS106,Web Development,Anastasiia Lytvyn,82.41,2024-09-03
+andrii.koval132@example.com,Andrii Koval,CS-21,CS106,Web Development,Anastasiia Lytvyn,76.47,2023-09-21
+anastasiia.kravets180@example.com,Anastasiia Kravets,IPZ-21,CS110,Cybersecurity,Viktoriia Bondarenko,83.07,2024-03-22
+viktoriia.tkachenko333@example.com,Viktoriia Tkachenko,KN-21,CS109,Machine Learning,Kateryna Kozak,99.17,2024-02-26
+anastasiia.kozak146@example.com,Anastasiia Kozak,KN-21,CS106,Web Development,Anastasiia Lytvyn,86.93,2024-07-29
+maksym.bondarenko250@example.com,Maksym Bondarenko,IPZ-22,CS108,Data Structures,Olena Mazur,75.24,2023-11-20
+iryna.boyko147@example.com,Iryna Boyko,IPZ-21,CS108,Data Structures,Olena Mazur,98.26,2025-06-08
+sofiia.savchuk86@example.com,Sofiia Savchuk,IPZ-21,CS106,Web Development,Anastasiia Lytvyn,85.25,2024-11-05
+iryna.lytvyn293@example.com,Iryna Lytvyn,IPZ-21,CS107,Cloud Computing,Nazar Polishchuk,63.16,2023-11-13
+yurii.koval176@example.com,Yurii Koval,SE-21,CS104,Operating Systems,Roman Boyko,72.68,2024-07-18
+viktoriia.kravets150@example.com,Viktoriia Kravets,SE-22,CS105,Software Engineering,Marta Kravets,85.79,2025-05-12
+andrii.lytvyn139@example.com,Andrii Lytvyn,KN-22,CS108,Data Structures,Olena Mazur,89.92,2024-09-06
+iryna.mazur267@example.com,Iryna Mazur,CS-21,CS108,Data Structures,Olena Mazur,66.69,2024-10-28
+taras.shevchenko12@example.com,Taras Shevchenko,CS-22,CS103,Computer Networks,Taras Melnyk,86.48,2024-04-28
+yurii.bondarenko381@example.com,Yurii Bondarenko,CS-22,CS102,Databases,Iryna Hnatiuk,66.68,2024-04-03
+ivan.kozak53@example.com,Ivan Kozak,SE-22,CS102,Databases,Iryna Hnatiuk,97.47,2023-11-05
+solomiia.koval243@example.com,Solomiia Koval,IPZ-21,CS109,Machine Learning,Kateryna Kozak,61.05,2023-10-26
+andrii.tkachenko204@example.com,Andrii Tkachenko,SE-21,CS109,Machine Learning,Kateryna Kozak,64.16,2023-11-25
+maksym.shevchenko317@example.com,Maksym Shevchenko,SE-21,CS103,Computer Networks,Taras Melnyk,86.19,2023-11-26
+taras.mazur200@example.com,Taras Mazur,KN-22,CS105,Software Engineering,Marta Kravets,69.9,2024-04-22
+anastasiia.kozak146@example.com,Anastasiia Kozak,KN-21,CS108,Data Structures,Olena Mazur,65.06,2025-06-03
+olena.lytvyn270@example.com,Olena Lytvyn,SE-22,CS103,Computer Networks,Taras Melnyk,61.41,2023-09-30
+solomiia.bondarenko183@example.com,Solomiia Bondarenko,CS-21,CS106,Web Development,Anastasiia Lytvyn,78.69,2024-12-31
+olena.melnyk277@example.com,Olena Melnyk,SE-21,CS105,Software Engineering,Marta Kravets,77.79,2025-03-15
+anastasiia.kozak358@example.com,Anastasiia Kozak,CS-22,CS109,Machine Learning,Kateryna Kozak,83.63,2024-02-29
+roman.koval234@example.com,Roman Koval,KN-22,CS110,Cybersecurity,Viktoriia Bondarenko,80.94,2024-11-19
+nazar.melnyk328@example.com,Nazar Melnyk,KN-21,CS109,Machine Learning,Kateryna Kozak,96.36,2024-07-14
+taras.koval247@example.com,Taras Koval,SE-21,CS109,Machine Learning,Kateryna Kozak,92.19,2024-04-20
+viktoriia.savchuk227@example.com,Viktoriia Savchuk,IPZ-22,CS105,Software Engineering,Marta Kravets,76.49,2024-09-09
+yurii.boyko80@example.com,Yurii Boyko,IPZ-21,CS105,Software Engineering,Marta Kravets,60.0,2023-09-11
+taras.polishchuk389@example.com,Taras Polishchuk,IPZ-22,CS103,Computer Networks,Taras Melnyk,71.47,2024-08-18
+roman.kozak274@example.com,Roman Kozak,IPZ-21,CS101,Algorithms,Oleh Koval,97.88,2025-01-16
+viktoriia.shevchenko245@example.com,Viktoriia Shevchenko,KN-21,CS105,Software Engineering,Marta Kravets,90.63,2023-09-10
+viktoriia.kravets150@example.com,Viktoriia Kravets,SE-22,CS110,Cybersecurity,Viktoriia Bondarenko,91.87,2024-04-24
+nazar.shevchenko281@example.com,Nazar Shevchenko,SE-21,CS106,Web Development,Anastasiia Lytvyn,76.47,2024-03-12
+solomiia.kozak288@example.com,Solomiia Kozak,SE-22,CS107,Cloud Computing,Nazar Polishchuk,70.0,2024-10-09
+anastasiia.kravets367@example.com,Anastasiia Kravets,CS-22,CS107,Cloud Computing,Nazar Polishchuk,68.82,2024-09-22
+sofiia.koval41@example.com,Sofiia Koval,CS-21,CS107,Cloud Computing,Nazar Polishchuk,69.58,2025-06-02
+oleh.polishchuk392@example.com,Oleh Polishchuk,CS-21,CS110,Cybersecurity,Viktoriia Bondarenko,71.39,2024-06-05
+yurii.bondarenko381@example.com,Yurii Bondarenko,CS-22,CS109,Machine Learning,Kateryna Kozak,76.52,2024-06-02
+taras.melnyk36@example.com,Taras Melnyk,KN-21,CS103,Computer Networks,Taras Melnyk,71.58,2024-01-18
+roman.lytvyn327@example.com,Roman Lytvyn,SE-21,CS108,Data Structures,Olena Mazur,78.11,2025-05-25
+taras.kozak359@example.com,Taras Kozak,KN-22,CS110,Cybersecurity,Viktoriia Bondarenko,67.51,2025-01-16
+ivan.bondarenko10@example.com,Ivan Bondarenko,CS-22,CS103,Computer Networks,Taras Melnyk,98.79,2023-10-21
+taras.shevchenko12@example.com,Taras Shevchenko,CS-22,CS103,Computer Networks,Taras Melnyk,71.28,2023-12-14
+yurii.lytvyn65@example.com,Yurii Lytvyn,KN-21,CS108,Data Structures,Olena Mazur,69.31,2023-09-09
+maksym.bondarenko78@example.com,Maksym Bondarenko,KN-21,CS101,Algorithms,Oleh Koval,68.69,2025-01-18
+olena.shevchenko216@example.com,Olena Shevchenko,KN-22,CS105,Software Engineering,Marta Kravets,99.92,2025-01-23
+taras.bondarenko238@example.com,Taras Bondarenko,CS-21,CS101,Algorithms,Oleh Koval,63.21,2024-08-04
+andrii.melnyk385@example.com,Andrii Melnyk,IPZ-21,CS103,Computer Networks,Taras Melnyk,70.66,2023-10-28
+viktoriia.polishchuk201@example.com,Viktoriia Polishchuk,CS-21,CS102,Databases,Iryna Hnatiuk,78.81,2025-03-10
+olena.melnyk99@example.com,Olena Melnyk,CS-22,CS105,Software Engineering,Marta Kravets,93.13,2024-09-25
+sofiia.koval63@example.com,Sofiia Koval,KN-22,CS104,Operating Systems,Roman Boyko,90.85,2024-09-29
+viktoriia.savchuk227@example.com,Viktoriia Savchuk,IPZ-22,CS104,Operating Systems,Roman Boyko,67.97,2023-10-05
+maksym.kozak377@example.com,Maksym Kozak,KN-22,CS102,Databases,Iryna Hnatiuk,86.64,2025-02-15
+sofiia.bondarenko107@example.com,Sofiia Bondarenko,CS-21,CS108,Data Structures,Olena Mazur,87.26,2024-10-03
+roman.melnyk160@example.com,Roman Melnyk,IPZ-21,CS106,Web Development,Anastasiia Lytvyn,85.17,2024-02-10
+yurii.kozak22@example.com,Yurii Kozak,CS-21,CS109,Machine Learning,Kateryna Kozak,64.89,2025-02-15
+taras.koval247@example.com,Taras Koval,SE-21,CS105,Software Engineering,Marta Kravets,74.42,2024-03-22
+oleh.shevchenko27@example.com,Oleh Shevchenko,SE-21,CS104,Operating Systems,Roman Boyko,69.44,2023-12-25
+andrii.lytvyn223@example.com,Andrii Lytvyn,KN-22,CS106,Web Development,Anastasiia Lytvyn,66.69,2023-09-16
+taras.polishchuk142@example.com,Taras Polishchuk,CS-21,CS110,Cybersecurity,Viktoriia Bondarenko,75.83,2024-01-01
+anastasiia.savchuk125@example.com,Anastasiia Savchuk,SE-22,CS101,Algorithms,Oleh Koval,83.24,2023-10-14
+ivan.bondarenko354@example.com,Ivan Bondarenko,SE-21,CS108,Data Structures,Olena Mazur,66.2,2025-05-03
+kateryna.kozak395@example.com,Kateryna Kozak,IPZ-22,CS102,Databases,Iryna Hnatiuk,66.31,2024-05-12
+andrii.mazur47@example.com,Andrii Mazur,CS-22,CS110,Cybersecurity,Viktoriia Bondarenko,97.23,2024-08-12
+taras.polishchuk389@example.com,Taras Polishchuk,IPZ-22,CS101,Algorithms,Oleh Koval,74.22,2023-11-01
+kateryna.kravets79@example.com,Kateryna Kravets,SE-22,CS109,Machine Learning,Kateryna Kozak,65.03,2023-12-19
+ivan.bondarenko120@example.com,Ivan Bondarenko,KN-21,CS106,Web Development,Anastasiia Lytvyn,91.54,2025-03-25
+oleh.melnyk388@example.com,Oleh Melnyk,SE-21,CS106,Web Development,Anastasiia Lytvyn,89.33,2024-11-23
+taras.koval11@example.com,Taras Koval,SE-21,CS107,Cloud Computing,Nazar Polishchuk,88.98,2024-09-01
+anastasiia.shevchenko129@example.com,Anastasiia Shevchenko,CS-21,CS101,Algorithms,Oleh Koval,88.27,2025-01-09
+yurii.lytvyn287@example.com,Yurii Lytvyn,CS-22,CS105,Software Engineering,Marta Kravets,87.88,2025-03-09
+maksym.lytvyn98@example.com,Maksym Lytvyn,KN-22,CS110,Cybersecurity,Viktoriia Bondarenko,81.74,2024-03-10
+viktoriia.mazur166@example.com,Viktoriia Mazur,SE-21,CS108,Data Structures,Olena Mazur,94.71,2024-06-08
+anastasiia.bondarenko307@example.com,Anastasiia Bondarenko,SE-21,CS109,Machine Learning,Kateryna Kozak,62.76,2024-02-12
+yurii.boyko80@example.com,Yurii Boyko,IPZ-21,CS108,Data Structures,Olena Mazur,92.78,2024-06-29
+solomiia.koval278@example.com,Solomiia Koval,SE-22,CS106,Web Development,Anastasiia Lytvyn,60.03,2024-12-08
+roman.lytvyn327@example.com,Roman Lytvyn,SE-21,CS109,Machine Learning,Kateryna Kozak,89.35,2024-09-23
+ivan.bondarenko10@example.com,Ivan Bondarenko,CS-22,CS110,Cybersecurity,Viktoriia Bondarenko,91.04,2024-09-07
+kateryna.kozak123@example.com,Kateryna Kozak,KN-22,CS106,Web Development,Anastasiia Lytvyn,86.33,2023-11-04
+nazar.kravets276@example.com,Nazar Kravets,SE-22,CS107,Cloud Computing,Nazar Polishchuk,80.96,2024-03-13
+taras.bondarenko255@example.com,Taras Bondarenko,KN-22,CS109,Machine Learning,Kateryna Kozak,84.52,2024-02-05
+viktoriia.mazur166@example.com,Viktoriia Mazur,SE-21,CS107,Cloud Computing,Nazar Polishchuk,72.88,2025-06-18
+oleh.bondarenko50@example.com,Oleh Bondarenko,IPZ-22,CS109,Machine Learning,Kateryna Kozak,62.67,2025-07-06
+kateryna.bondarenko67@example.com,Kateryna Bondarenko,IPZ-22,CS103,Computer Networks,Taras Melnyk,68.08,2023-10-03
+ivan.melnyk249@example.com,Ivan Melnyk,CS-21,CS104,Operating Systems,Roman Boyko,61.27,2023-12-11
+maksym.mazur329@example.com,Maksym Mazur,SE-21,CS107,Cloud Computing,Nazar Polishchuk,79.6,2025-07-05
+roman.kozak320@example.com,Roman Kozak,CS-21,CS110,Cybersecurity,Viktoriia Bondarenko,61.96,2024-05-20
+taras.koval114@example.com,Taras Koval,KN-21,CS110,Cybersecurity,Viktoriia Bondarenko,60.52,2023-11-12
+sofiia.bondarenko107@example.com,Sofiia Bondarenko,CS-21,CS108,Data Structures,Olena Mazur,78.72,2023-11-21
+nazar.melnyk328@example.com,Nazar Melnyk,KN-21,CS101,Algorithms,Oleh Koval,82.32,2024-09-04
+viktoriia.polishchuk213@example.com,Viktoriia Polishchuk,KN-21,CS106,Web Development,Anastasiia Lytvyn,92.95,2023-10-30
+anastasiia.mazur137@example.com,Anastasiia Mazur,KN-22,CS109,Machine Learning,Kateryna Kozak,89.37,2023-10-12
+andrii.savchuk156@example.com,Andrii Savchuk,KN-22,CS102,Databases,Iryna Hnatiuk,98.42,2024-04-09
+oleh.bondarenko50@example.com,Oleh Bondarenko,IPZ-22,CS102,Databases,Iryna Hnatiuk,81.27,2024-04-24
+maksym.lytvyn98@example.com,Maksym Lytvyn,KN-22,CS104,Operating Systems,Roman Boyko,86.28,2025-02-20
+roman.polishchuk292@example.com,Roman Polishchuk,KN-21,CS103,Computer Networks,Taras Melnyk,89.97,2025-03-25
+viktoriia.polishchuk213@example.com,Viktoriia Polishchuk,KN-21,CS102,Databases,Iryna Hnatiuk,83.06,2025-06-15
+iryna.kravets346@example.com,Iryna Kravets,IPZ-21,CS108,Data Structures,Olena Mazur,77.08,2025-07-13
+nazar.tkachenko54@example.com,Nazar Tkachenko,SE-21,CS103,Computer Networks,Taras Melnyk,82.0,2024-03-03
+kateryna.kravets259@example.com,Kateryna Kravets,SE-22,CS106,Web Development,Anastasiia Lytvyn,66.33,2025-07-05
+oleh.shevchenko308@example.com,Oleh Shevchenko,SE-22,CS108,Data Structures,Olena Mazur,96.1,2024-08-26
+solomiia.tkachenko282@example.com,Solomiia Tkachenko,SE-21,CS106,Web Development,Anastasiia Lytvyn,76.49,2024-09-15
+oleh.tkachenko325@example.com,Oleh Tkachenko,CS-22,CS107,Cloud Computing,Nazar Polishchuk,84.34,2024-07-28
+oleh.bondarenko289@example.com,Oleh Bondarenko,CS-21,CS109,Machine Learning,Kateryna Kozak,75.0,2024-04-07
+solomiia.tkachenko282@example.com,Solomiia Tkachenko,SE-21,CS105,Software Engineering,Marta Kravets,98.47,2024-09-03
+solomiia.lytvyn230@example.com,Solomiia Lytvyn,CS-22,CS107,Cloud Computing,Nazar Polishchuk,89.05,2023-09-01
+anastasiia.kozak146@example.com,Anastasiia Kozak,KN-21,CS110,Cybersecurity,Viktoriia Bondarenko,80.7,2023-09-17
+roman.bondarenko155@example.com,Roman Bondarenko,KN-21,CS101,Algorithms,Oleh Koval,99.38,2024-07-04
+olena.savchuk110@example.com,Olena Savchuk,IPZ-21,CS106,Web Development,Anastasiia Lytvyn,90.86,2023-09-23
+ivan.bondarenko354@example.com,Ivan Bondarenko,SE-21,CS105,Software Engineering,Marta Kravets,80.45,2025-03-20
+iryna.lytvyn293@example.com,Iryna Lytvyn,IPZ-21,CS110,Cybersecurity,Viktoriia Bondarenko,63.77,2024-02-06
+yurii.bondarenko236@example.com,Yurii Bondarenko,SE-22,CS106,Web Development,Anastasiia Lytvyn,65.54,2024-02-07
+maksym.kozak188@example.com,Maksym Kozak,SE-21,CS110,Cybersecurity,Viktoriia Bondarenko,69.32,2024-05-13
+maksym.bondarenko154@example.com,Maksym Bondarenko,CS-21,CS102,Databases,Iryna Hnatiuk,75.99,2025-04-07
+nazar.polishchuk112@example.com,Nazar Polishchuk,SE-22,CS102,Databases,Iryna Hnatiuk,91.72,2024-07-29
+nazar.koval89@example.com,Nazar Koval,IPZ-22,CS108,Data Structures,Olena Mazur,92.78,2025-04-13
+marta.tkachenko49@example.com,Marta Tkachenko,KN-22,CS110,Cybersecurity,Viktoriia Bondarenko,72.02,2025-06-19
+oleh.boyko375@example.com,Oleh Boyko,CS-21,CS110,Cybersecurity,Viktoriia Bondarenko,63.14,2024-09-25
+sofiia.bondarenko29@example.com,Sofiia Bondarenko,SE-22,CS106,Web Development,Anastasiia Lytvyn,95.19,2024-08-22
+andrii.lytvyn223@example.com,Andrii Lytvyn,KN-22,CS107,Cloud Computing,Nazar Polishchuk,94.79,2024-01-02
+iryna.shevchenko117@example.com,Iryna Shevchenko,IPZ-21,CS110,Cybersecurity,Viktoriia Bondarenko,85.36,2023-09-12
+andrii.savchuk324@example.com,Andrii Savchuk,CS-22,CS107,Cloud Computing,Nazar Polishchuk,72.19,2023-10-26
+yurii.kozak22@example.com,Yurii Kozak,CS-21,CS106,Web Development,Anastasiia Lytvyn,82.6,2025-03-06
+viktoriia.tkachenko168@example.com,Viktoriia Tkachenko,KN-22,CS109,Machine Learning,Kateryna Kozak,66.13,2024-04-14
+taras.kozak345@example.com,Taras Kozak,IPZ-21,CS107,Cloud Computing,Nazar Polishchuk,90.11,2024-11-30
+taras.kravets295@example.com,Taras Kravets,IPZ-22,CS109,Machine Learning,Kateryna Kozak,68.88,2023-12-02
+kateryna.mazur149@example.com,Kateryna Mazur,CS-22,CS107,Cloud Computing,Nazar Polishchuk,65.29,2024-01-30
+andrii.polishchuk43@example.com,Andrii Polishchuk,CS-21,CS108,Data Structures,Olena Mazur,89.81,2025-04-08
+nazar.shevchenko281@example.com,Nazar Shevchenko,SE-21,CS107,Cloud Computing,Nazar Polishchuk,63.4,2024-05-26
+nazar.bondarenko257@example.com,Nazar Bondarenko,KN-21,CS107,Cloud Computing,Nazar Polishchuk,90.48,2024-01-12
+taras.koval247@example.com,Taras Koval,SE-21,CS109,Machine Learning,Kateryna Kozak,79.51,2024-03-21
+maksym.kravets334@example.com,Maksym Kravets,CS-22,CS110,Cybersecurity,Viktoriia Bondarenko,82.45,2024-03-19
+maksym.kozak377@example.com,Maksym Kozak,KN-22,CS109,Machine Learning,Kateryna Kozak,69.69,2024-05-10
+anastasiia.mazur137@example.com,Anastasiia Mazur,KN-22,CS107,Cloud Computing,Nazar Polishchuk,87.39,2024-07-28
+taras.kravets295@example.com,Taras Kravets,IPZ-22,CS102,Databases,Iryna Hnatiuk,86.87,2023-12-25
+maksym.tkachenko217@example.com,Maksym Tkachenko,SE-22,CS106,Web Development,Anastasiia Lytvyn,67.62,2024-08-22
+kateryna.shevchenko177@example.com,Kateryna Shevchenko,SE-22,CS110,Cybersecurity,Viktoriia Bondarenko,60.97,2025-07-03
+solomiia.mazur157@example.com,Solomiia Mazur,IPZ-22,CS103,Computer Networks,Taras Melnyk,84.65,2024-08-24
+viktoriia.savchuk227@example.com,Viktoriia Savchuk,IPZ-22,CS110,Cybersecurity,Viktoriia Bondarenko,77.62,2024-01-28
+ivan.bondarenko120@example.com,Ivan Bondarenko,KN-21,CS104,Operating Systems,Roman Boyko,66.24,2024-09-17
+roman.shevchenko373@example.com,Roman Shevchenko,IPZ-22,CS102,Databases,Iryna Hnatiuk,89.58,2023-12-25
+anastasiia.savchuk125@example.com,Anastasiia Savchuk,SE-22,CS110,Cybersecurity,Viktoriia Bondarenko,94.75,2024-01-30
+iryna.tkachenko148@example.com,Iryna Tkachenko,KN-22,CS101,Algorithms,Oleh Koval,87.75,2024-08-17
+viktoriia.lytvyn57@example.com,Viktoriia Lytvyn,SE-22,CS105,Software Engineering,Marta Kravets,78.85,2024-12-04
+roman.tkachenko170@example.com,Roman Tkachenko,SE-22,CS104,Operating Systems,Roman Boyko,68.48,2025-03-04
+sofiia.kozak280@example.com,Sofiia Kozak,IPZ-22,CS109,Machine Learning,Kateryna Kozak,81.95,2024-05-22
+oleh.mazur319@example.com,Oleh Mazur,IPZ-22,CS103,Computer Networks,Taras Melnyk,60.74,2025-07-16
+ivan.boyko299@example.com,Ivan Boyko,KN-22,CS109,Machine Learning,Kateryna Kozak,70.22,2023-10-15
+ivan.tkachenko31@example.com,Ivan Tkachenko,KN-21,CS105,Software Engineering,Marta Kravets,91.57,2024-03-24
+maksym.shevchenko317@example.com,Maksym Shevchenko,SE-21,CS105,Software Engineering,Marta Kravets,78.6,2023-10-25
+maksym.bondarenko5@example.com,Maksym Bondarenko,KN-22,CS102,Databases,Iryna Hnatiuk,86.41,2024-10-02
+iryna.savchuk340@example.com,Iryna Savchuk,SE-21,CS106,Web Development,Anastasiia Lytvyn,60.76,2023-12-20
+viktoriia.tkachenko333@example.com,Viktoriia Tkachenko,KN-21,CS107,Cloud Computing,Nazar Polishchuk,99.19,2024-04-24
+iryna.polishchuk261@example.com,Iryna Polishchuk,CS-21,CS102,Databases,Iryna Hnatiuk,79.39,2024-07-20
+yurii.polishchuk306@example.com,Yurii Polishchuk,KN-22,CS109,Machine Learning,Kateryna Kozak,67.46,2023-11-30
+nazar.bondarenko257@example.com,Nazar Bondarenko,KN-21,CS108,Data Structures,Olena Mazur,97.05,2025-03-28
+taras.shevchenko12@example.com,Taras Shevchenko,CS-22,CS101,Algorithms,Oleh Koval,96.89,2024-05-11
+solomiia.mazur157@example.com,Solomiia Mazur,IPZ-22,CS106,Web Development,Anastasiia Lytvyn,75.74,2025-01-14
+nazar.boyko81@example.com,Nazar Boyko,IPZ-21,CS101,Algorithms,Oleh Koval,87.37,2024-08-21
+kateryna.lytvyn182@example.com,Kateryna Lytvyn,KN-22,CS105,Software Engineering,Marta Kravets,99.84,2024-04-29
+nazar.bondarenko257@example.com,Nazar Bondarenko,KN-21,CS105,Software Engineering,Marta Kravets,85.03,2023-11-03
+roman.melnyk199@example.com,Roman Melnyk,SE-22,CS101,Algorithms,Oleh Koval,97.96,2025-03-22
+kateryna.melnyk116@example.com,Kateryna Melnyk,IPZ-21,CS103,Computer Networks,Taras Melnyk,95.89,2024-08-15
+yurii.boyko337@example.com,Yurii Boyko,SE-22,CS103,Computer Networks,Taras Melnyk,89.2,2023-11-29
+iryna.mazur267@example.com,Iryna Mazur,CS-21,CS110,Cybersecurity,Viktoriia Bondarenko,87.46,2025-06-02
+kateryna.melnyk214@example.com,Kateryna Melnyk,CS-21,CS104,Operating Systems,Roman Boyko,66.11,2025-04-09
+roman.melnyk160@example.com,Roman Melnyk,IPZ-21,CS110,Cybersecurity,Viktoriia Bondarenko,77.97,2024-08-03
+taras.kozak68@example.com,Taras Kozak,SE-21,CS104,Operating Systems,Roman Boyko,65.54,2025-06-30
+solomiia.koval278@example.com,Solomiia Koval,SE-22,CS104,Operating Systems,Roman Boyko,72.36,2024-01-20
+viktoriia.polishchuk362@example.com,Viktoriia Polishchuk,CS-21,CS109,Machine Learning,Kateryna Kozak,77.2,2024-01-17
+kateryna.kozak395@example.com,Kateryna Kozak,IPZ-22,CS103,Computer Networks,Taras Melnyk,97.32,2025-07-03
+nazar.boyko81@example.com,Nazar Boyko,IPZ-21,CS106,Web Development,Anastasiia Lytvyn,82.29,2023-11-09
+kateryna.kozak369@example.com,Kateryna Kozak,IPZ-22,CS102,Databases,Iryna Hnatiuk,72.7,2024-03-07
+olena.kravets75@example.com,Olena Kravets,KN-22,CS101,Algorithms,Oleh Koval,95.21,2024-07-23
+taras.boyko212@example.com,Taras Boyko,CS-22,CS107,Cloud Computing,Nazar Polishchuk,77.72,2024-07-07
+roman.lytvyn327@example.com,Roman Lytvyn,SE-21,CS105,Software Engineering,Marta Kravets,91.16,2024-02-03
+yurii.lytvyn55@example.com,Yurii Lytvyn,KN-22,CS103,Computer Networks,Taras Melnyk,61.05,2024-03-08
+kateryna.kozak314@example.com,Kateryna Kozak,KN-21,CS110,Cybersecurity,Viktoriia Bondarenko,84.22,2024-05-31
+kateryna.kozak314@example.com,Kateryna Kozak,KN-21,CS104,Operating Systems,Roman Boyko,69.29,2025-05-03
+solomiia.tkachenko352@example.com,Solomiia Tkachenko,CS-22,CS101,Algorithms,Oleh Koval,63.18,2024-09-02
+anastasiia.mazur400@example.com,Anastasiia Mazur,CS-21,CS108,Data Structures,Olena Mazur,80.09,2024-01-16
+solomiia.savchuk310@example.com,Solomiia Savchuk,KN-21,CS108,Data Structures,Olena Mazur,74.96,2025-06-27
+roman.melnyk199@example.com,Roman Melnyk,SE-22,CS108,Data Structures,Olena Mazur,65.5,2024-12-29
+olena.melnyk99@example.com,Olena Melnyk,CS-22,CS104,Operating Systems,Roman Boyko,76.34,2023-10-04
+olena.savchuk8@example.com,Olena Savchuk,KN-21,CS105,Software Engineering,Marta Kravets,68.9,2024-10-27
+olena.kozak344@example.com,Olena Kozak,KN-21,CS104,Operating Systems,Roman Boyko,62.65,2024-03-28
+solomiia.lytvyn225@example.com,Solomiia Lytvyn,KN-22,CS110,Cybersecurity,Viktoriia Bondarenko,87.51,2025-01-14
+sofiia.koval235@example.com,Sofiia Koval,KN-21,CS104,Operating Systems,Roman Boyko,76.19,2024-11-11
+yurii.kozak22@example.com,Yurii Kozak,CS-21,CS110,Cybersecurity,Viktoriia Bondarenko,88.81,2024-09-24
+marta.melnyk202@example.com,Marta Melnyk,IPZ-22,CS110,Cybersecurity,Viktoriia Bondarenko,83.75,2025-04-08
+iryna.polishchuk269@example.com,Iryna Polishchuk,SE-21,CS101,Algorithms,Oleh Koval,64.37,2025-02-15
+roman.koval234@example.com,Roman Koval,KN-22,CS101,Algorithms,Oleh Koval,80.75,2024-05-09
+nazar.tkachenko203@example.com,Nazar Tkachenko,IPZ-22,CS101,Algorithms,Oleh Koval,75.5,2025-03-25
+oleh.polishchuk392@example.com,Oleh Polishchuk,CS-21,CS101,Algorithms,Oleh Koval,71.65,2024-03-13
+andrii.tkachenko204@example.com,Andrii Tkachenko,SE-21,CS105,Software Engineering,Marta Kravets,78.45,2024-06-19
+maksym.tkachenko217@example.com,Maksym Tkachenko,SE-22,CS105,Software Engineering,Marta Kravets,96.76,2025-05-20
+ivan.bondarenko354@example.com,Ivan Bondarenko,SE-21,CS109,Machine Learning,Kateryna Kozak,78.54,2024-01-24
+roman.kravets331@example.com,Roman Kravets,CS-21,CS108,Data Structures,Olena Mazur,88.91,2023-12-02
+taras.bondarenko58@example.com,Taras Bondarenko,KN-22,CS103,Computer Networks,Taras Melnyk,97.51,2025-04-22
+viktoriia.shevchenko357@example.com,Viktoriia Shevchenko,CS-21,CS109,Machine Learning,Kateryna Kozak,75.72,2024-01-17
+viktoriia.mazur166@example.com,Viktoriia Mazur,SE-21,CS108,Data Structures,Olena Mazur,67.16,2023-09-26
+solomiia.melnyk303@example.com,Solomiia Melnyk,SE-22,CS104,Operating Systems,Roman Boyko,63.61,2024-12-09
+viktoriia.mazur166@example.com,Viktoriia Mazur,SE-21,CS103,Computer Networks,Taras Melnyk,63.65,2024-01-05
+viktoriia.polishchuk362@example.com,Viktoriia Polishchuk,CS-21,CS108,Data Structures,Olena Mazur,74.52,2025-06-11
+iryna.polishchuk269@example.com,Iryna Polishchuk,SE-21,CS107,Cloud Computing,Nazar Polishchuk,84.48,2025-02-05
+anastasiia.tkachenko82@example.com,Anastasiia Tkachenko,SE-22,CS107,Cloud Computing,Nazar Polishchuk,75.22,2025-03-17
+oleh.kravets394@example.com,Oleh Kravets,SE-21,CS103,Computer Networks,Taras Melnyk,82.62,2024-08-09
+taras.bondarenko338@example.com,Taras Bondarenko,SE-21,CS103,Computer Networks,Taras Melnyk,94.75,2024-02-14
+maksym.boyko92@example.com,Maksym Boyko,CS-22,CS101,Algorithms,Oleh Koval,72.32,2024-11-03
+marta.lytvyn374@example.com,Marta Lytvyn,CS-22,CS108,Data Structures,Olena Mazur,85.06,2024-06-22
+andrii.koval61@example.com,Andrii Koval,IPZ-21,CS103,Computer Networks,Taras Melnyk,60.14,2024-03-26
+oleh.polishchuk392@example.com,Oleh Polishchuk,CS-21,CS105,Software Engineering,Marta Kravets,78.35,2023-09-13
+olena.kozak256@example.com,Olena Kozak,IPZ-22,CS109,Machine Learning,Kateryna Kozak,84.32,2023-09-06
+iryna.mazur253@example.com,Iryna Mazur,SE-21,CS104,Operating Systems,Roman Boyko,83.55,2024-04-10
+iryna.kravets244@example.com,Iryna Kravets,SE-22,CS108,Data Structures,Olena Mazur,77.68,2024-10-24
+oleh.shevchenko308@example.com,Oleh Shevchenko,SE-22,CS110,Cybersecurity,Viktoriia Bondarenko,69.79,2023-09-07
+nazar.shevchenko281@example.com,Nazar Shevchenko,SE-21,CS105,Software Engineering,Marta Kravets,85.15,2025-05-27
+sofiia.bondarenko107@example.com,Sofiia Bondarenko,CS-21,CS101,Algorithms,Oleh Koval,65.93,2024-03-08
+iryna.kozak335@example.com,Iryna Kozak,SE-21,CS106,Web Development,Anastasiia Lytvyn,65.81,2023-10-08
+oleh.kozak17@example.com,Oleh Kozak,KN-22,CS110,Cybersecurity,Viktoriia Bondarenko,71.94,2025-05-10
+iryna.kozak45@example.com,Iryna Kozak,KN-22,CS101,Algorithms,Oleh Koval,76.68,2023-12-21
+maksym.boyko92@example.com,Maksym Boyko,CS-22,CS103,Computer Networks,Taras Melnyk,71.38,2025-07-20
+marta.mazur339@example.com,Marta Mazur,CS-21,CS110,Cybersecurity,Viktoriia Bondarenko,91.49,2025-04-09
+roman.mazur91@example.com,Roman Mazur,IPZ-21,CS108,Data Structures,Olena Mazur,74.41,2025-04-15
+taras.boyko19@example.com,Taras Boyko,CS-21,CS102,Databases,Iryna Hnatiuk,72.91,2024-07-03
+oleh.shevchenko195@example.com,Oleh Shevchenko,KN-22,CS102,Databases,Iryna Hnatiuk,93.73,2024-11-11
+marta.bondarenko34@example.com,Marta Bondarenko,KN-21,CS105,Software Engineering,Marta Kravets,65.38,2024-12-26
+andrii.tkachenko356@example.com,Andrii Tkachenko,IPZ-22,CS105,Software Engineering,Marta Kravets,81.08,2024-08-03
+iryna.polishchuk269@example.com,Iryna Polishchuk,SE-21,CS104,Operating Systems,Roman Boyko,84.48,2024-04-02
+iryna.boyko56@example.com,Iryna Boyko,CS-22,CS110,Cybersecurity,Viktoriia Bondarenko,81.16,2025-06-06
+iryna.kozak45@example.com,Iryna Kozak,KN-22,CS108,Data Structures,Olena Mazur,97.36,2025-05-12
+viktoriia.polishchuk362@example.com,Viktoriia Polishchuk,CS-21,CS105,Software Engineering,Marta Kravets,84.35,2024-11-11
+oleh.lytvyn163@example.com,Oleh Lytvyn,KN-22,CS105,Software Engineering,Marta Kravets,83.01,2025-02-20
+roman.kozak320@example.com,Roman Kozak,CS-21,CS106,Web Development,Anastasiia Lytvyn,84.57,2024-01-11
+taras.bondarenko255@example.com,Taras Bondarenko,KN-22,CS109,Machine Learning,Kateryna Kozak,79.91,2025-06-09
+olena.bondarenko93@example.com,Olena Bondarenko,CS-22,CS110,Cybersecurity,Viktoriia Bondarenko,88.34,2024-04-26
+maksym.bondarenko100@example.com,Maksym Bondarenko,CS-22,CS101,Algorithms,Oleh Koval,60.96,2023-12-31
+roman.polishchuk321@example.com,Roman Polishchuk,IPZ-22,CS102,Databases,Iryna Hnatiuk,91.98,2024-03-31
+viktoriia.polishchuk213@example.com,Viktoriia Polishchuk,KN-21,CS107,Cloud Computing,Nazar Polishchuk,73.35,2023-10-17
+yurii.lytvyn287@example.com,Yurii Lytvyn,CS-22,CS104,Operating Systems,Roman Boyko,85.62,2023-09-12
+ivan.bondarenko354@example.com,Ivan Bondarenko,SE-21,CS105,Software Engineering,Marta Kravets,91.61,2024-05-18
+viktoriia.boyko158@example.com,Viktoriia Boyko,KN-22,CS105,Software Engineering,Marta Kravets,82.0,2025-01-31
+viktoriia.kozak393@example.com,Viktoriia Kozak,IPZ-21,CS101,Algorithms,Oleh Koval,87.43,2023-12-26
+anastasiia.polishchuk175@example.com,Anastasiia Polishchuk,KN-21,CS107,Cloud Computing,Nazar Polishchuk,84.64,2025-04-05
+iryna.kozak15@example.com,Iryna Kozak,CS-22,CS103,Computer Networks,Taras Melnyk,73.22,2024-03-17
+ivan.melnyk174@example.com,Ivan Melnyk,KN-22,CS108,Data Structures,Olena Mazur,91.89,2024-12-29
+roman.kravets331@example.com,Roman Kravets,CS-21,CS103,Computer Networks,Taras Melnyk,66.22,2025-01-06
+yurii.bondarenko236@example.com,Yurii Bondarenko,SE-22,CS109,Machine Learning,Kateryna Kozak,78.5,2024-08-09
+taras.boyko212@example.com,Taras Boyko,CS-22,CS101,Algorithms,Oleh Koval,71.97,2025-02-15
+yurii.kravets372@example.com,Yurii Kravets,SE-22,CS106,Web Development,Anastasiia Lytvyn,81.44,2025-03-22
+sofiia.bondarenko107@example.com,Sofiia Bondarenko,CS-21,CS110,Cybersecurity,Viktoriia Bondarenko,91.98,2024-08-05
+kateryna.lytvyn182@example.com,Kateryna Lytvyn,KN-22,CS102,Databases,Iryna Hnatiuk,71.22,2024-01-31
+yurii.polishchuk16@example.com,Yurii Polishchuk,IPZ-22,CS106,Web Development,Anastasiia Lytvyn,85.06,2024-09-19
+yurii.savchuk85@example.com,Yurii Savchuk,IPZ-21,CS110,Cybersecurity,Viktoriia Bondarenko,75.58,2025-05-13
+anastasiia.kravets305@example.com,Anastasiia Kravets,CS-22,CS102,Databases,Iryna Hnatiuk,88.21,2024-07-12
+nazar.polishchuk162@example.com,Nazar Polishchuk,SE-22,CS101,Algorithms,Oleh Koval,76.55,2024-06-05
+taras.bondarenko255@example.com,Taras Bondarenko,KN-22,CS104,Operating Systems,Roman Boyko,78.08,2024-09-15
+roman.bondarenko155@example.com,Roman Bondarenko,KN-21,CS104,Operating Systems,Roman Boyko,72.09,2025-02-19
+taras.bondarenko58@example.com,Taras Bondarenko,KN-22,CS106,Web Development,Anastasiia Lytvyn,91.11,2023-10-09
+solomiia.savchuk48@example.com,Solomiia Savchuk,IPZ-22,CS108,Data Structures,Olena Mazur,61.0,2025-01-31
+solomiia.koval248@example.com,Solomiia Koval,IPZ-21,CS109,Machine Learning,Kateryna Kozak,67.61,2024-02-05
+solomiia.koval248@example.com,Solomiia Koval,IPZ-21,CS109,Machine Learning,Kateryna Kozak,91.02,2024-07-14
+ivan.boyko74@example.com,Ivan Boyko,KN-21,CS102,Databases,Iryna Hnatiuk,87.07,2025-02-10
+taras.kozak68@example.com,Taras Kozak,SE-21,CS104,Operating Systems,Roman Boyko,78.37,2023-10-08
+roman.lytvyn366@example.com,Roman Lytvyn,KN-21,CS109,Machine Learning,Kateryna Kozak,60.16,2023-12-28
+maksym.mazur23@example.com,Maksym Mazur,KN-21,CS110,Cybersecurity,Viktoriia Bondarenko,73.33,2023-11-29
+roman.melnyk24@example.com,Roman Melnyk,SE-22,CS102,Databases,Iryna Hnatiuk,90.65,2025-02-15
+ivan.mazur382@example.com,Ivan Mazur,IPZ-21,CS105,Software Engineering,Marta Kravets,83.1,2023-09-24
+roman.melnyk160@example.com,Roman Melnyk,IPZ-21,CS104,Operating Systems,Roman Boyko,68.02,2024-07-25
+iryna.boyko147@example.com,Iryna Boyko,IPZ-21,CS105,Software Engineering,Marta Kravets,72.77,2025-02-27
+solomiia.kozak226@example.com,Solomiia Kozak,SE-22,CS102,Databases,Iryna Hnatiuk,65.97,2024-06-06
+sofiia.mazur141@example.com,Sofiia Mazur,CS-22,CS102,Databases,Iryna Hnatiuk,98.33,2023-09-16
+yurii.lytvyn287@example.com,Yurii Lytvyn,CS-22,CS109,Machine Learning,Kateryna Kozak,68.26,2023-12-14
+anastasiia.kravets180@example.com,Anastasiia Kravets,IPZ-21,CS109,Machine Learning,Kateryna Kozak,70.84,2024-07-23
+roman.kozak361@example.com,Roman Kozak,IPZ-22,CS105,Software Engineering,Marta Kravets,69.79,2025-04-10
+kateryna.mazur37@example.com,Kateryna Mazur,IPZ-22,CS105,Software Engineering,Marta Kravets,95.69,2025-05-20
+olena.melnyk277@example.com,Olena Melnyk,SE-21,CS108,Data Structures,Olena Mazur,65.2,2023-10-22
+iryna.polishchuk242@example.com,Iryna Polishchuk,KN-21,CS101,Algorithms,Oleh Koval,75.34,2023-12-18
+iryna.kozak45@example.com,Iryna Kozak,KN-22,CS107,Cloud Computing,Nazar Polishchuk,67.16,2024-10-06
+yurii.polishchuk306@example.com,Yurii Polishchuk,KN-22,CS110,Cybersecurity,Viktoriia Bondarenko,93.45,2025-06-06
+taras.kozak359@example.com,Taras Kozak,KN-22,CS108,Data Structures,Olena Mazur,74.22,2025-05-24
+maksym.polishchuk171@example.com,Maksym Polishchuk,CS-21,CS104,Operating Systems,Roman Boyko,92.37,2025-07-18
+sofiia.koval41@example.com,Sofiia Koval,CS-21,CS108,Data Structures,Olena Mazur,65.27,2025-04-04
+anastasiia.kozak358@example.com,Anastasiia Kozak,CS-22,CS108,Data Structures,Olena Mazur,78.22,2023-12-09
+olena.melnyk351@example.com,Olena Melnyk,CS-21,CS108,Data Structures,Olena Mazur,69.27,2024-12-25
+oleh.shevchenko115@example.com,Oleh Shevchenko,KN-21,CS103,Computer Networks,Taras Melnyk,70.32,2025-05-24
+andrii.boyko187@example.com,Andrii Boyko,IPZ-21,CS107,Cloud Computing,Nazar Polishchuk,87.98,2024-03-06
+olena.savchuk341@example.com,Olena Savchuk,IPZ-21,CS106,Web Development,Anastasiia Lytvyn,78.13,2024-07-29
+yurii.polishchuk16@example.com,Yurii Polishchuk,IPZ-22,CS102,Databases,Iryna Hnatiuk,64.52,2024-12-30
+oleh.tkachenko246@example.com,Oleh Tkachenko,SE-22,CS108,Data Structures,Olena Mazur,71.29,2024-02-22
+kateryna.boyko179@example.com,Kateryna Boyko,IPZ-21,CS110,Cybersecurity,Viktoriia Bondarenko,65.1,2025-04-11
+ivan.kozak53@example.com,Ivan Kozak,SE-22,CS107,Cloud Computing,Nazar Polishchuk,73.03,2023-12-19
+viktoriia.tkachenko333@example.com,Viktoriia Tkachenko,KN-21,CS102,Databases,Iryna Hnatiuk,81.31,2024-07-06
+maksym.mazur206@example.com,Maksym Mazur,KN-22,CS110,Cybersecurity,Viktoriia Bondarenko,69.54,2024-10-28
+anastasiia.savchuk125@example.com,Anastasiia Savchuk,SE-22,CS109,Machine Learning,Kateryna Kozak,98.96,2024-02-10
+andrii.bondarenko197@example.com,Andrii Bondarenko,KN-22,CS102,Databases,Iryna Hnatiuk,68.33,2024-08-14
+andrii.tkachenko356@example.com,Andrii Tkachenko,IPZ-22,CS110,Cybersecurity,Viktoriia Bondarenko,91.37,2024-11-15
+andrii.lytvyn223@example.com,Andrii Lytvyn,KN-22,CS110,Cybersecurity,Viktoriia Bondarenko,81.78,2024-08-16
+nazar.boyko121@example.com,Nazar Boyko,IPZ-21,CS103,Computer Networks,Taras Melnyk,86.78,2025-07-10
+roman.melnyk379@example.com,Roman Melnyk,KN-22,CS110,Cybersecurity,Viktoriia Bondarenko,64.57,2025-01-11
+yurii.polishchuk306@example.com,Yurii Polishchuk,KN-22,CS108,Data Structures,Olena Mazur,82.2,2024-07-30
+iryna.bondarenko228@example.com,Iryna Bondarenko,SE-21,CS103,Computer Networks,Taras Melnyk,98.24,2024-07-12
+taras.melnyk36@example.com,Taras Melnyk,KN-21,CS110,Cybersecurity,Viktoriia Bondarenko,87.42,2023-12-21
+yurii.polishchuk306@example.com,Yurii Polishchuk,KN-22,CS107,Cloud Computing,Nazar Polishchuk,79.77,2024-08-01
+marta.mazur339@example.com,Marta Mazur,CS-21,CS101,Algorithms,Oleh Koval,68.7,2023-12-02
+sofiia.koval72@example.com,Sofiia Koval,KN-22,CS110,Cybersecurity,Viktoriia Bondarenko,92.39,2025-06-13
+oleh.melnyk388@example.com,Oleh Melnyk,SE-21,CS103,Computer Networks,Taras Melnyk,65.97,2025-07-08
+olena.savchuk273@example.com,Olena Savchuk,IPZ-22,CS105,Software Engineering,Marta Kravets,84.62,2024-10-04
+roman.tkachenko229@example.com,Roman Tkachenko,CS-22,CS104,Operating Systems,Roman Boyko,87.26,2024-03-29
+oleh.lytvyn163@example.com,Oleh Lytvyn,KN-22,CS105,Software Engineering,Marta Kravets,91.77,2025-04-06
+maksym.tkachenko348@example.com,Maksym Tkachenko,CS-22,CS105,Software Engineering,Marta Kravets,88.71,2024-11-19
+kateryna.shevchenko177@example.com,Kateryna Shevchenko,SE-22,CS102,Databases,Iryna Hnatiuk,60.32,2025-04-19
+viktoriia.koval262@example.com,Viktoriia Koval,KN-22,CS107,Cloud Computing,Nazar Polishchuk,94.1,2024-01-09
+roman.polishchuk32@example.com,Roman Polishchuk,CS-21,CS106,Web Development,Anastasiia Lytvyn,98.72,2025-03-16
+taras.savchuk1@example.com,Taras Savchuk,CS-21,CS109,Machine Learning,Kateryna Kozak,64.39,2024-09-02
+ivan.bondarenko145@example.com,Ivan Bondarenko,SE-21,CS101,Algorithms,Oleh Koval,77.27,2024-04-28
+solomiia.melnyk303@example.com,Solomiia Melnyk,SE-22,CS107,Cloud Computing,Nazar Polishchuk,72.73,2025-06-02
+maksym.kozak196@example.com,Maksym Kozak,IPZ-21,CS107,Cloud Computing,Nazar Polishchuk,77.41,2024-09-25
+maksym.kozak109@example.com,Maksym Kozak,SE-21,CS103,Computer Networks,Taras Melnyk,65.56,2024-12-30
+taras.boyko285@example.com,Taras Boyko,IPZ-21,CS107,Cloud Computing,Nazar Polishchuk,93.6,2024-09-03
+kateryna.kravets79@example.com,Kateryna Kravets,SE-22,CS105,Software Engineering,Marta Kravets,65.02,2025-07-18
+andrii.lytvyn6@example.com,Andrii Lytvyn,KN-22,CS102,Databases,Iryna Hnatiuk,60.63,2025-06-25
+solomiia.mazur370@example.com,Solomiia Mazur,SE-21,CS108,Data Structures,Olena Mazur,77.47,2025-07-05
+viktoriia.polishchuk70@example.com,Viktoriia Polishchuk,IPZ-21,CS102,Databases,Iryna Hnatiuk,85.69,2024-01-19
+viktoriia.polishchuk213@example.com,Viktoriia Polishchuk,KN-21,CS108,Data Structures,Olena Mazur,97.21,2025-05-11
+roman.kozak320@example.com,Roman Kozak,CS-21,CS103,Computer Networks,Taras Melnyk,80.38,2024-12-09
+oleh.kravets283@example.com,Oleh Kravets,IPZ-22,CS108,Data Structures,Olena Mazur,74.21,2024-09-28
+viktoriia.shevchenko96@example.com,Viktoriia Shevchenko,IPZ-22,CS107,Cloud Computing,Nazar Polishchuk,60.3,2025-05-12
+olena.kozak256@example.com,Olena Kozak,IPZ-22,CS104,Operating Systems,Roman Boyko,70.77,2025-01-26
+sofiia.kozak280@example.com,Sofiia Kozak,IPZ-22,CS110,Cybersecurity,Viktoriia Bondarenko,61.34,2024-09-10
+viktoriia.kozak20@example.com,Viktoriia Kozak,CS-22,CS110,Cybersecurity,Viktoriia Bondarenko,88.2,2025-01-07
+taras.bondarenko58@example.com,Taras Bondarenko,KN-22,CS110,Cybersecurity,Viktoriia Bondarenko,98.47,2025-01-06
+sofiia.koval41@example.com,Sofiia Koval,CS-21,CS103,Computer Networks,Taras Melnyk,99.34,2025-02-21
+andrii.melnyk385@example.com,Andrii Melnyk,IPZ-21,CS105,Software Engineering,Marta Kravets,80.68,2024-12-20
+viktoriia.koval268@example.com,Viktoriia Koval,SE-22,CS110,Cybersecurity,Viktoriia Bondarenko,69.81,2023-11-30
+viktoriia.melnyk323@example.com,Viktoriia Melnyk,CS-21,CS102,Databases,Iryna Hnatiuk,85.35,2025-08-01
+olena.boyko297@example.com,Olena Boyko,SE-22,CS105,Software Engineering,Marta Kravets,62.11,2025-05-20
+yurii.koval176@example.com,Yurii Koval,SE-21,CS109,Machine Learning,Kateryna Kozak,78.75,2023-09-12
+olena.kozak263@example.com,Olena Kozak,KN-22,CS108,Data Structures,Olena Mazur,89.35,2025-04-10
+olena.shevchenko216@example.com,Olena Shevchenko,KN-22,CS106,Web Development,Anastasiia Lytvyn,71.57,2024-06-28
+taras.boyko19@example.com,Taras Boyko,CS-21,CS110,Cybersecurity,Viktoriia Bondarenko,89.08,2024-07-08
+oleh.bondarenko289@example.com,Oleh Bondarenko,CS-21,CS105,Software Engineering,Marta Kravets,85.17,2023-11-02
+olena.boyko297@example.com,Olena Boyko,SE-22,CS103,Computer Networks,Taras Melnyk,62.06,2025-04-09
+viktoriia.kravets150@example.com,Viktoriia Kravets,SE-22,CS110,Cybersecurity,Viktoriia Bondarenko,71.47,2023-09-28
+andrii.polishchuk43@example.com,Andrii Polishchuk,CS-21,CS103,Computer Networks,Taras Melnyk,63.07,2025-01-30
+iryna.kozak143@example.com,Iryna Kozak,SE-21,CS105,Software Engineering,Marta Kravets,84.63,2024-01-14
+sofiia.mazur141@example.com,Sofiia Mazur,CS-22,CS105,Software Engineering,Marta Kravets,89.66,2023-09-15
+solomiia.savchuk310@example.com,Solomiia Savchuk,KN-21,CS103,Computer Networks,Taras Melnyk,89.56,2025-04-28
+taras.bondarenko338@example.com,Taras Bondarenko,SE-21,CS108,Data Structures,Olena Mazur,92.31,2024-09-13
+oleh.koval134@example.com,Oleh Koval,SE-21,CS104,Operating Systems,Roman Boyko,67.23,2025-01-09
+viktoriia.koval271@example.com,Viktoriia Koval,IPZ-21,CS101,Algorithms,Oleh Koval,99.36,2024-08-17
+olena.kravets75@example.com,Olena Kravets,KN-22,CS110,Cybersecurity,Viktoriia Bondarenko,93.5,2024-02-05
+marta.bondarenko386@example.com,Marta Bondarenko,CS-22,CS107,Cloud Computing,Nazar Polishchuk,69.52,2024-09-27
+solomiia.kozak226@example.com,Solomiia Kozak,SE-22,CS103,Computer Networks,Taras Melnyk,83.11,2024-04-03
+kateryna.shevchenko177@example.com,Kateryna Shevchenko,SE-22,CS101,Algorithms,Oleh Koval,70.58,2025-06-19
+roman.mazur60@example.com,Roman Mazur,KN-22,CS101,Algorithms,Oleh Koval,78.56,2024-02-19
+iryna.kravets244@example.com,Iryna Kravets,SE-22,CS105,Software Engineering,Marta Kravets,89.85,2024-12-31
+marta.bondarenko386@example.com,Marta Bondarenko,CS-22,CS109,Machine Learning,Kateryna Kozak,75.19,2024-04-27
+viktoriia.polishchuk362@example.com,Viktoriia Polishchuk,CS-21,CS107,Cloud Computing,Nazar Polishchuk,70.51,2024-12-29
+kateryna.polishchuk272@example.com,Kateryna Polishchuk,CS-22,CS107,Cloud Computing,Nazar Polishchuk,71.55,2023-09-13
+solomiia.lytvyn230@example.com,Solomiia Lytvyn,CS-22,CS107,Cloud Computing,Nazar Polishchuk,72.63,2025-07-26
+kateryna.polishchuk272@example.com,Kateryna Polishchuk,CS-22,CS101,Algorithms,Oleh Koval,96.71,2023-12-09
+roman.lytvyn327@example.com,Roman Lytvyn,SE-21,CS106,Web Development,Anastasiia Lytvyn,84.42,2024-11-16
+maksym.kravets334@example.com,Maksym Kravets,CS-22,CS105,Software Engineering,Marta Kravets,70.81,2024-08-09
+maksym.polishchuk51@example.com,Maksym Polishchuk,SE-22,CS105,Software Engineering,Marta Kravets,83.37,2025-07-02
+olena.polishchuk237@example.com,Olena Polishchuk,CS-21,CS104,Operating Systems,Roman Boyko,83.55,2025-07-20
+maksym.bondarenko100@example.com,Maksym Bondarenko,CS-22,CS109,Machine Learning,Kateryna Kozak,87.11,2024-08-11
+olena.bondarenko93@example.com,Olena Bondarenko,CS-22,CS106,Web Development,Anastasiia Lytvyn,60.42,2025-03-14
+maksym.bondarenko5@example.com,Maksym Bondarenko,KN-22,CS102,Databases,Iryna Hnatiuk,76.45,2023-09-13
+iryna.polishchuk269@example.com,Iryna Polishchuk,SE-21,CS102,Databases,Iryna Hnatiuk,74.06,2024-11-30
+yurii.kravets372@example.com,Yurii Kravets,SE-22,CS105,Software Engineering,Marta Kravets,67.72,2024-05-15
+olena.savchuk13@example.com,Olena Savchuk,SE-22,CS110,Cybersecurity,Viktoriia Bondarenko,62.28,2023-12-04
+anastasiia.kravets305@example.com,Anastasiia Kravets,CS-22,CS104,Operating Systems,Roman Boyko,85.52,2025-05-06
+kateryna.koval363@example.com,Kateryna Koval,KN-21,CS102,Databases,Iryna Hnatiuk,94.26,2023-11-28
+kateryna.bondarenko67@example.com,Kateryna Bondarenko,IPZ-22,CS107,Cloud Computing,Nazar Polishchuk,90.55,2025-07-04
+viktoriia.tkachenko332@example.com,Viktoriia Tkachenko,IPZ-21,CS110,Cybersecurity,Viktoriia Bondarenko,95.84,2024-03-08
+viktoriia.shevchenko357@example.com,Viktoriia Shevchenko,CS-21,CS103,Computer Networks,Taras Melnyk,71.78,2024-05-17
+marta.mazur339@example.com,Marta Mazur,CS-21,CS102,Databases,Iryna Hnatiuk,78.14,2025-06-16
+taras.polishchuk142@example.com,Taras Polishchuk,CS-21,CS107,Cloud Computing,Nazar Polishchuk,90.8,2025-07-15
+viktoriia.mazur166@example.com,Viktoriia Mazur,SE-21,CS105,Software Engineering,Marta Kravets,91.23,2024-02-13
+taras.polishchuk142@example.com,Taras Polishchuk,CS-21,CS101,Algorithms,Oleh Koval,75.54,2024-09-26
+ivan.tkachenko31@example.com,Ivan Tkachenko,KN-21,CS105,Software Engineering,Marta Kravets,67.12,2024-05-29
+taras.melnyk36@example.com,Taras Melnyk,KN-21,CS108,Data Structures,Olena Mazur,84.41,2024-03-24
+maksym.boyko92@example.com,Maksym Boyko,CS-22,CS108,Data Structures,Olena Mazur,65.75,2023-12-21
+oleh.kravets394@example.com,Oleh Kravets,SE-21,CS107,Cloud Computing,Nazar Polishchuk,84.56,2024-04-11
+yurii.lytvyn55@example.com,Yurii Lytvyn,KN-22,CS108,Data Structures,Olena Mazur,64.13,2024-05-23
+anastasiia.boyko38@example.com,Anastasiia Boyko,SE-22,CS102,Databases,Iryna Hnatiuk,89.1,2025-04-08
+ivan.koval398@example.com,Ivan Koval,KN-21,CS108,Data Structures,Olena Mazur,95.86,2023-09-20
+oleh.kozak77@example.com,Oleh Kozak,IPZ-21,CS101,Algorithms,Oleh Koval,86.58,2023-10-09
+anastasiia.mazur137@example.com,Anastasiia Mazur,KN-22,CS103,Computer Networks,Taras Melnyk,96.18,2024-08-03
+taras.kravets295@example.com,Taras Kravets,IPZ-22,CS101,Algorithms,Oleh Koval,88.3,2025-02-09
+kateryna.kozak395@example.com,Kateryna Kozak,IPZ-22,CS108,Data Structures,Olena Mazur,77.44,2025-01-02
+roman.shevchenko373@example.com,Roman Shevchenko,IPZ-22,CS102,Databases,Iryna Hnatiuk,69.03,2025-03-07
+andrii.bondarenko197@example.com,Andrii Bondarenko,KN-22,CS108,Data Structures,Olena Mazur,82.69,2024-01-03
+kateryna.kravets184@example.com,Kateryna Kravets,IPZ-21,CS106,Web Development,Anastasiia Lytvyn,72.11,2025-07-30
+sofiia.bondarenko29@example.com,Sofiia Bondarenko,SE-22,CS102,Databases,Iryna Hnatiuk,81.39,2024-09-09
+anastasiia.polishchuk175@example.com,Anastasiia Polishchuk,KN-21,CS102,Databases,Iryna Hnatiuk,90.42,2024-12-14
+kateryna.mazur149@example.com,Kateryna Mazur,CS-22,CS104,Operating Systems,Roman Boyko,82.18,2024-02-28
+andrii.bondarenko197@example.com,Andrii Bondarenko,KN-22,CS104,Operating Systems,Roman Boyko,87.84,2024-07-03
+yurii.lytvyn55@example.com,Yurii Lytvyn,KN-22,CS106,Web Development,Anastasiia Lytvyn,63.39,2025-01-11
+andrii.savchuk324@example.com,Andrii Savchuk,CS-22,CS108,Data Structures,Olena Mazur,65.6,2024-03-13
+olena.melnyk99@example.com,Olena Melnyk,CS-22,CS101,Algorithms,Oleh Koval,69.54,2025-04-30
+taras.mazur200@example.com,Taras Mazur,KN-22,CS102,Databases,Iryna Hnatiuk,85.74,2025-03-07
+olena.kozak256@example.com,Olena Kozak,IPZ-22,CS109,Machine Learning,Kateryna Kozak,98.66,2024-12-04
+kateryna.shevchenko9@example.com,Kateryna Shevchenko,CS-21,CS101,Algorithms,Oleh Koval,62.24,2024-08-13
+solomiia.mazur370@example.com,Solomiia Mazur,SE-21,CS101,Algorithms,Oleh Koval,64.73,2024-10-20
+iryna.kozak335@example.com,Iryna Kozak,SE-21,CS109,Machine Learning,Kateryna Kozak,97.6,2024-12-13
+olena.mazur275@example.com,Olena Mazur,IPZ-21,CS103,Computer Networks,Taras Melnyk,69.32,2025-04-16
+kateryna.mazur37@example.com,Kateryna Mazur,IPZ-22,CS101,Algorithms,Oleh Koval,79.56,2024-01-23
+ivan.bondarenko10@example.com,Ivan Bondarenko,CS-22,CS108,Data Structures,Olena Mazur,61.83,2025-05-26
+solomiia.savchuk360@example.com,Solomiia Savchuk,CS-22,CS103,Computer Networks,Taras Melnyk,66.89,2023-09-15
+sofiia.savchuk26@example.com,Sofiia Savchuk,KN-22,CS105,Software Engineering,Marta Kravets,78.25,2023-12-09
+oleh.lytvyn88@example.com,Oleh Lytvyn,IPZ-22,CS110,Cybersecurity,Viktoriia Bondarenko,92.71,2023-11-05
+yurii.lytvyn55@example.com,Yurii Lytvyn,KN-22,CS102,Databases,Iryna Hnatiuk,83.8,2025-01-22
+sofiia.mazur316@example.com,Sofiia Mazur,SE-21,CS104,Operating Systems,Roman Boyko,92.18,2023-11-04
+sofiia.savchuk219@example.com,Sofiia Savchuk,SE-22,CS106,Web Development,Anastasiia Lytvyn,76.08,2025-07-26
+roman.koval62@example.com,Roman Koval,IPZ-21,CS110,Cybersecurity,Viktoriia Bondarenko,65.49,2025-03-12
+olena.savchuk110@example.com,Olena Savchuk,IPZ-21,CS101,Algorithms,Oleh Koval,66.94,2025-04-30
+kateryna.mazur33@example.com,Kateryna Mazur,SE-21,CS102,Databases,Iryna Hnatiuk,65.65,2024-06-07
+viktoriia.polishchuk213@example.com,Viktoriia Polishchuk,KN-21,CS103,Computer Networks,Taras Melnyk,82.14,2024-09-13
+solomiia.lytvyn225@example.com,Solomiia Lytvyn,KN-22,CS104,Operating Systems,Roman Boyko,61.63,2025-04-18
+maksym.lytvyn52@example.com,Maksym Lytvyn,KN-21,CS110,Cybersecurity,Viktoriia Bondarenko,91.11,2024-09-20
+kateryna.shevchenko9@example.com,Kateryna Shevchenko,CS-21,CS108,Data Structures,Olena Mazur,60.25,2023-11-22
+maksym.boyko92@example.com,Maksym Boyko,CS-22,CS102,Databases,Iryna Hnatiuk,83.75,2025-06-29
+anastasiia.kozak146@example.com,Anastasiia Kozak,KN-21,CS107,Cloud Computing,Nazar Polishchuk,87.69,2024-12-31
+olena.tkachenko106@example.com,Olena Tkachenko,KN-22,CS103,Computer Networks,Taras Melnyk,70.84,2025-06-17
+kateryna.polishchuk231@example.com,Kateryna Polishchuk,CS-22,CS107,Cloud Computing,Nazar Polishchuk,97.52,2024-05-02
+andrii.polishchuk313@example.com,Andrii Polishchuk,KN-21,CS101,Algorithms,Oleh Koval,67.2,2025-05-03
+olena.kozak256@example.com,Olena Kozak,IPZ-22,CS110,Cybersecurity,Viktoriia Bondarenko,85.09,2023-11-30
+roman.bondarenko155@example.com,Roman Bondarenko,KN-21,CS106,Web Development,Anastasiia Lytvyn,60.18,2024-11-02
+nazar.boyko121@example.com,Nazar Boyko,IPZ-21,CS104,Operating Systems,Roman Boyko,99.46,2023-12-30
+marta.tkachenko49@example.com,Marta Tkachenko,KN-22,CS110,Cybersecurity,Viktoriia Bondarenko,94.51,2024-09-05
+olena.melnyk277@example.com,Olena Melnyk,SE-21,CS109,Machine Learning,Kateryna Kozak,78.57,2024-04-12
+roman.polishchuk321@example.com,Roman Polishchuk,IPZ-22,CS104,Operating Systems,Roman Boyko,62.12,2024-06-10
+taras.bondarenko58@example.com,Taras Bondarenko,KN-22,CS103,Computer Networks,Taras Melnyk,79.9,2024-12-29
+anastasiia.tkachenko82@example.com,Anastasiia Tkachenko,SE-22,CS101,Algorithms,Oleh Koval,85.79,2023-10-26
+anastasiia.kozak146@example.com,Anastasiia Kozak,KN-21,CS104,Operating Systems,Roman Boyko,70.06,2024-11-19
+sofiia.mazur316@example.com,Sofiia Mazur,SE-21,CS108,Data Structures,Olena Mazur,64.18,2023-10-15
+oleh.shevchenko27@example.com,Oleh Shevchenko,SE-21,CS109,Machine Learning,Kateryna Kozak,66.32,2024-02-28
+iryna.kozak15@example.com,Iryna Kozak,CS-22,CS108,Data Structures,Olena Mazur,64.64,2025-02-09
+nazar.boyko121@example.com,Nazar Boyko,IPZ-21,CS108,Data Structures,Olena Mazur,83.19,2025-04-29
+solomiia.kravets215@example.com,Solomiia Kravets,SE-21,CS104,Operating Systems,Roman Boyko,95.93,2025-07-25
+marta.bondarenko118@example.com,Marta Bondarenko,KN-22,CS102,Databases,Iryna Hnatiuk,69.11,2024-07-30
+nazar.polishchuk122@example.com,Nazar Polishchuk,CS-22,CS107,Cloud Computing,Nazar Polishchuk,75.02,2024-03-23
+kateryna.lytvyn113@example.com,Kateryna Lytvyn,IPZ-21,CS102,Databases,Iryna Hnatiuk,83.4,2024-12-26
+olena.koval28@example.com,Olena Koval,KN-22,CS107,Cloud Computing,Nazar Polishchuk,68.65,2024-01-27
+andrii.polishchuk313@example.com,Andrii Polishchuk,KN-21,CS108,Data Structures,Olena Mazur,75.49,2024-03-01
+viktoriia.polishchuk70@example.com,Viktoriia Polishchuk,IPZ-21,CS108,Data Structures,Olena Mazur,85.28,2024-03-17
+andrii.lytvyn139@example.com,Andrii Lytvyn,KN-22,CS104,Operating Systems,Roman Boyko,65.09,2024-08-09
+marta.koval355@example.com,Marta Koval,SE-21,CS110,Cybersecurity,Viktoriia Bondarenko,71.22,2023-11-01
+viktoriia.lytvyn57@example.com,Viktoriia Lytvyn,SE-22,CS108,Data Structures,Olena Mazur,76.73,2024-12-13
+solomiia.kravets390@example.com,Solomiia Kravets,CS-22,CS106,Web Development,Anastasiia Lytvyn,95.46,2024-04-13
+solomiia.savchuk310@example.com,Solomiia Savchuk,KN-21,CS103,Computer Networks,Taras Melnyk,98.11,2025-06-15
+oleh.lytvyn88@example.com,Oleh Lytvyn,IPZ-22,CS110,Cybersecurity,Viktoriia Bondarenko,94.2,2025-03-20
+iryna.kozak45@example.com,Iryna Kozak,KN-22,CS107,Cloud Computing,Nazar Polishchuk,79.57,2025-02-16
+sofiia.melnyk111@example.com,Sofiia Melnyk,CS-21,CS110,Cybersecurity,Viktoriia Bondarenko,93.48,2024-12-28
+iryna.kozak143@example.com,Iryna Kozak,SE-21,CS101,Algorithms,Oleh Koval,89.45,2024-11-12
+marta.tkachenko127@example.com,Marta Tkachenko,KN-22,CS104,Operating Systems,Roman Boyko,77.37,2024-08-01
+taras.koval114@example.com,Taras Koval,KN-21,CS110,Cybersecurity,Viktoriia Bondarenko,96.55,2024-01-31
+taras.kozak3@example.com,Taras Kozak,IPZ-22,CS107,Cloud Computing,Nazar Polishchuk,61.6,2023-10-16
+olena.savchuk241@example.com,Olena Savchuk,IPZ-21,CS109,Machine Learning,Kateryna Kozak,77.03,2023-10-05
+marta.melnyk202@example.com,Marta Melnyk,IPZ-22,CS108,Data Structures,Olena Mazur,78.1,2023-12-10
+olena.melnyk124@example.com,Olena Melnyk,IPZ-22,CS102,Databases,Iryna Hnatiuk,90.12,2025-03-25
+marta.koval355@example.com,Marta Koval,SE-21,CS107,Cloud Computing,Nazar Polishchuk,65.31,2024-04-11
+nazar.kozak152@example.com,Nazar Kozak,IPZ-22,CS104,Operating Systems,Roman Boyko,99.96,2025-06-25
+kateryna.shevchenko9@example.com,Kateryna Shevchenko,CS-21,CS108,Data Structures,Olena Mazur,72.19,2025-07-17
+roman.kozak361@example.com,Roman Kozak,IPZ-22,CS108,Data Structures,Olena Mazur,89.89,2025-04-07
+olena.savchuk13@example.com,Olena Savchuk,SE-22,CS108,Data Structures,Olena Mazur,90.87,2024-12-18
+roman.kozak361@example.com,Roman Kozak,IPZ-22,CS107,Cloud Computing,Nazar Polishchuk,91.59,2024-03-08
+oleh.tkachenko190@example.com,Oleh Tkachenko,SE-21,CS108,Data Structures,Olena Mazur,60.05,2025-06-10
+kateryna.koval322@example.com,Kateryna Koval,IPZ-22,CS102,Databases,Iryna Hnatiuk,95.74,2024-09-29
+maksym.polishchuk171@example.com,Maksym Polishchuk,CS-21,CS109,Machine Learning,Kateryna Kozak,71.86,2023-10-04
+marta.bondarenko386@example.com,Marta Bondarenko,CS-22,CS105,Software Engineering,Marta Kravets,81.7,2025-05-20
+sofiia.bondarenko107@example.com,Sofiia Bondarenko,CS-21,CS102,Databases,Iryna Hnatiuk,95.23,2025-05-28
+maksym.kozak377@example.com,Maksym Kozak,KN-22,CS101,Algorithms,Oleh Koval,97.81,2025-02-09
+iryna.kravets346@example.com,Iryna Kravets,IPZ-21,CS106,Web Development,Anastasiia Lytvyn,64.44,2023-10-23
+maksym.kozak188@example.com,Maksym Kozak,SE-21,CS108,Data Structures,Olena Mazur,61.63,2025-05-26
+maksym.kozak188@example.com,Maksym Kozak,SE-21,CS103,Computer Networks,Taras Melnyk,82.35,2025-06-25
+solomiia.koval35@example.com,Solomiia Koval,IPZ-21,CS109,Machine Learning,Kateryna Kozak,65.54,2024-03-28
+roman.tkachenko172@example.com,Roman Tkachenko,CS-22,CS104,Operating Systems,Roman Boyko,64.54,2025-03-06
+viktoriia.shevchenko245@example.com,Viktoriia Shevchenko,KN-21,CS110,Cybersecurity,Viktoriia Bondarenko,90.13,2024-04-02
+solomiia.kravets390@example.com,Solomiia Kravets,CS-22,CS104,Operating Systems,Roman Boyko,74.11,2024-07-25
